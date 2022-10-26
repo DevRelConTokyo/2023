@@ -12,3 +12,9 @@ npm install -g firebase-tools
 firebase login
 ```
 
+### Preview
+
+```
+firebase hosting:channel:deploy **preview_name**
+```
+

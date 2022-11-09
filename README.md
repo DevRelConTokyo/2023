@@ -1,5 +1,7 @@
 # DevRelCon Yokohama 2023 Web site
 
+https://yokohama-2023.devrelcon.dev/
+
 ## Install Firebase CLI
 
 ```

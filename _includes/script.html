@@ -1,0 +1,54 @@
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js?ver=6.1" id="popper-js"></script>
+	<script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js?ver=6.1" id="bootstrap-js-js"></script>
+
+	<script>
+		jQuery(function($) {
+				$(function () {
+					$(window).scroll(function() {
+						if ($(document).scrollTop() > 150) {
+							$('.navbar').addClass('navbar-white');
+						} else {
+							$('.navbar').removeClass('navbar-white');
+						}
+					});
+				});
+			});
+	</script>
+	<!-- enable smooth scrolling -->
+	<script type="text/javascript">
+		jQuery(function($) {
+				$(function () {
+						$('a.scrollnav[href^="#"]').click(function(event) {
+						var id = $(this).attr("href");
+						var offset = 60;
+						var target = $(id).offset().top - offset;
+						$('html, body').animate({scrollTop:target}, 500);
+						event.preventDefault();
+						});
+					});
+			});
+	</script>
+	<script type="text/javascript">
+		jQuery(function($) {
+				$(function () {
+			$('a.js-link-scroll').on('shown.bs.tab', function (e) {
+					$('#myTab .active').removeClass('active');
+					$('a[href="'+$(this).attr('href')+'"]').addClass('active');
+					var that = this;
+					$('html, body').animate({
+							scrollTop: $( $(that).attr('href') ).offset().top - 200
+					}, 250);
+			});
+			});
+			});
+	</script>
+	<!-- hide dropdown menu on click/touch -->
+	<script type="text/javascript">
+		jQuery(function($) {
+						$(function () {
+						$('.navbar-nav>li>a').on('click', function(){
+						$('.navbar-collapse').collapse('hide');
+						});
+					});
+			});
+	</script>

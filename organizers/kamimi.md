@@ -2,7 +2,7 @@
 layout: person
 permalink: /organizers/kamimi/
 title: 浦川 美佳@
-ogp: /assets/image/ogp/kamimi.jpg
+ogp: /assets/images/ogp/kamimi.jpg
 type: organizer
 id: kamimi
 ---

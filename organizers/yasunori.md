@@ -2,7 +2,7 @@
 layout: person
 permalink: /organizers/yasunori/
 title: 木原 康智@Minitt
-ogp: /assets/image/ogp/yasunori.jpg
+ogp: /assets/images/ogp/yasunori.jpg
 type: organizer
 id: yasunori
 ---

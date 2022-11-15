@@ -2,7 +2,7 @@
 layout: person
 permalink: /organizers/suguru/
 title: 大石 英@
-ogp: /assets/image/ogp/suguru.jpg
+ogp: /assets/images/ogp/suguru.jpg
 type: organizer
 id: suguru
 ---

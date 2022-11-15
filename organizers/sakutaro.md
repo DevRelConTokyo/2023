@@ -2,7 +2,7 @@
 layout: person
 permalink: /organizers/sakutaro/
 title: 櫻井 文矢@CARTA HOLDINGS
-ogp: /assets/image/ogp/sakutaro.jpg
+ogp: /assets/images/ogp/sakutaro.jpg
 type: organizer
 id: sakutaro
 ---

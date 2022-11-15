@@ -2,7 +2,7 @@
 layout: person
 permalink: /organizers/itoha/
 title: 伊藤 隼人 @
-ogp: /assets/image/ogp/itoha.jpg
+ogp: /assets/images/ogp/itoha.jpg
 type: organizer
 id: itoha
 ---

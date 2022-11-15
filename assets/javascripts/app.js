@@ -1,5 +1,12 @@
+const getLang = () => {
+	if ($.url('?lang')) {
+		return $.url('?lang');
+	}
+	return navigator.language.split('-')[0];
+};
+
 $(() => {
-	const lang = navigator.language.split('-')[0];
+	const lang = getLang();
 	if (lang === 'ja') {
 		$('.lang-ja').show();
 		$('.lang-en').hide();

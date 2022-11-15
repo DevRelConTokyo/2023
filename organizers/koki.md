@@ -2,7 +2,7 @@
 layout: person
 permalink: /organizers/koki/
 title: 三浦 耕生@MAP Ⅳ Inc.
-ogp: /assets/image/ogp/koki.jpg
+ogp: /assets/images/ogp/koki.jpg
 type: organizer
 id: koki
 ---

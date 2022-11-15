@@ -24,8 +24,8 @@ $(async () => {
 		localStorage.setItem('form_2', JSON.stringify(form2));
 		restore();
 	}
-	$('#addSpeaker').on('click', () => {
-		$('.co-speaker').show();
+	$('.addSpeaker').on('click', () => {
+		$('.co-speaker').toggle();
 	});
 	$('form#cfp').on('submit', async (e) => {
 		e.preventDefault();

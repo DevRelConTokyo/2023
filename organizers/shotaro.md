@@ -2,7 +2,7 @@
 layout: person
 permalink: /organizers/shotaro/
 title: 鈴木 章太郎@Elastic
-ogp: /assets/image/ogp/shotaro.jpg
+ogp: /assets/images/ogp/shotaro.jpg
 type: organizer
 id: shotaro
 ---

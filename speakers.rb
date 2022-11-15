@@ -17,9 +17,8 @@ json.each do |speaker|
 ---
 layout: person
 permalink: /speakers/#{speaker['id']}/
-title_ja: #{title_ja}
-title_en: #{title_en}
-ogp: /japan-2023/image/ogp/#{speaker['id']}.jpg
+title: #{title_en}
+ogp: /assets/images/ogp/#{speaker['id']}.jpg
 type: speaker
 id: #{speaker['id']}
 ---

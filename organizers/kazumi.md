@@ -2,7 +2,7 @@
 layout: person
 permalink: /organizers/kazumi/
 title: 岩永 かづみ@
-ogp: /assets/image/ogp/kazumi.jpg
+ogp: /assets/images/ogp/kazumi.jpg
 type: organizer
 id: kazumi
 ---

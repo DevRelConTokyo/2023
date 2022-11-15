@@ -2,7 +2,7 @@
 layout: person
 permalink: /organizers/nori/
 title: 鈴木 教之@Microsoft
-ogp: /assets/image/ogp/nori.jpg
+ogp: /assets/images/ogp/nori.jpg
 type: organizer
 id: nori
 ---

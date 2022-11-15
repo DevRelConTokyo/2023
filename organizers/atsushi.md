@@ -2,7 +2,7 @@
 layout: person
 permalink: /organizers/atsushi/
 title: アツシ@MOONGIFT
-ogp: /assets/image/ogp/atsushi.jpg
+ogp: /assets/images/ogp/atsushi.jpg
 type: organizer
 id: atsushi
 ---

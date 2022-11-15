@@ -2,7 +2,7 @@
 layout: person
 permalink: /organizers/taiji/
 title: Taiji@Datadog
-ogp: /assets/image/ogp/taiji.jpg
+ogp: /assets/images/ogp/taiji.jpg
 type: organizer
 id: taiji
 ---

@@ -15,7 +15,7 @@ json.each do |organizer|
 layout: person
 permalink: /organizers/#{organizer['id']}/
 title: #{title}
-ogp: /assets/image/ogp/#{organizer['id']}.jpg
+ogp: /assets/images/ogp/#{organizer['id']}.jpg
 type: organizer
 id: #{organizer['id']}
 ---

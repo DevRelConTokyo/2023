@@ -2,7 +2,7 @@
 layout: person
 permalink: /organizers/journeyman/
 title: ジャニ@
-ogp: /assets/image/ogp/journeyman.jpg
+ogp: /assets/images/ogp/journeyman.jpg
 type: organizer
 id: journeyman
 ---

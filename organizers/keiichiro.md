@@ -1,8 +1,8 @@
 ---
 layout: person
 permalink: /organizers/keiichiro/
-title: 野崎 馨一郎@Atlassian
-ogp: /assets/image/ogp/keiichiro.jpg
+title: 野崎 馨一郎@アトラシアン株式会社
+ogp: /assets/images/ogp/keiichiro.jpg
 type: organizer
 id: keiichiro
 ---

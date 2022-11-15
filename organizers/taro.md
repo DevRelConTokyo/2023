@@ -1,8 +1,8 @@
 ---
 layout: person
 permalink: /organizers/taro/
-title: 中西 太郎@
-ogp: /assets/image/ogp/taro.jpg
+title: 中西 太郎@ワンキャリア
+ogp: /assets/images/ogp/taro.jpg
 type: organizer
 id: taro
 ---

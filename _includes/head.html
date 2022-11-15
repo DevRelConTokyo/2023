@@ -2,10 +2,17 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-	<title>DevRelCon Yokohama 2023</title>
-	<meta name="description" content="DevRelCon Yokohama 2023" />
-	<meta name="author" content="Hoopy" />
-
+  <meta name="description" content="{{ site.description }}" />
+  <meta name="author" content="" />
+  {% if page.title %}
+		<title>{{ page.title }} | {{ site.title }}</title>
+		<meta property="og:title" content="{{ page.title }} | {{ site.title }}" />
+    <meta property="og:image" content="{{ page.ogp }}" />
+  {% else %}
+    <title>{{ site.title }}</title>
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:image" content="{{ site.ogp }}" />
+  {% endif %}
 	<meta name="robots" content="max-image-preview:large" />
 	<link rel="stylesheet" id="wp-block-library-css" href="/assets/css/dist/block-library/style.min.css" type="text/css" media="all" />
 	<link rel="stylesheet" id="classic-theme-styles-css" href="/assets/css/classic-themes.min.css" type="text/css" media="all" />
@@ -25,4 +32,12 @@
 	==================================================-->
 	{% include favicon.html %}
 	<meta name="theme-color" content="#ffffff" />
+  {% if page.url == "/" %}
+    <meta property="og:type" content="website" />
+  {% else %}
+    <meta property="og:type" content="article" />
+  {% endif %}
+  <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
+  <meta property="og:description" content="{{ site.description }}" />
+  <meta property="og:site_name" content="DevRelCon Yokohama 2023" />
 </head>

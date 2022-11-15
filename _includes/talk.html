@@ -1,15 +1,20 @@
-<div class="grey-bg" style="padding-top:70px;padding-bottom:70px;">
-	<div class="container">
-		<div class="col-lg-12">
-	<h2 class="red-text mb-4"></h2>
-<p>Toying With People&#8217;s Emotions: A Cognitive Theory of DevRel</p>
-
-			<!-- <h3>Talk description</h3> -->
-			<p></p>
-<p>Why do we do what we do when we do DevRel? Why do personal relationships count for so much? How do we avoid pissing our developers off? What incentives do developers have to join our community? As a profession, we have a range of questions like these that cry out for a theory to help guide our decision making.</p>
-<p>As it happens, there&#8217;s a lot we can learn about our craft when we examine the neurochemical processes that underlie goodwill, love, and trust. And, as we&#8217;ll see, we actually wield a surprising amount of power over others! But with this power comes the risk of toying with people&#8217;s emotions, turning them off of our product, or worse yet, pissing them off. Understanding the power we have over others is important for not only doing our job well, but doing our job ethically as well.</p>
-<p>So let&#8217;s explore the cognitive underpinnings of building relationships with developers, and better understand how to practice our craft more effectively, and in a way that respects the autonomy of the developers we work with.</p>
-
+{% assign person = include.person %}
+{% if page.type == 'speaker' %}
+	{% assign session = site.data.sessions | where: "speaker_id", speaker.id %}
+	{% if !session %}
+		{% assign session = site.data.sessions | where: "speaker2_id", speaker.id %}
+	{% endif %}
+	{% assign session = session[0] %}
+	<div class="grey-bg" style="padding-top:70px;padding-bottom:70px;">
+		<div class="container">
+			<div class="col-lg-12">
+				<h2 class="red-text mb-4">
+					{% if session != nil %}{{ session.title_en }}{% else %}TBD{% endif %}
+				</h2>
+				<!-- <h3>Talk description</h3> -->
+				<p>
+					{% if session != nil %}{{ session.description_en | markdownify }}{% endif %}
+			</div>
 		</div>
 	</div>
-</div>
+{% endif %}

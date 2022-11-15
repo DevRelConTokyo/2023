@@ -982,11 +982,13 @@ div#mce-success-response {
     border-radius: 5px;
     font-weight: 400;
 }
+/*
 input {
     border: 0;
     padding: 10px;
     width: 100%;
 }
+*/
 
 /* -----------------------------------------------------------------
 
@@ -1258,4 +1260,12 @@ Media Queries - Min
 	.date-left {
 		margin-bottom: 3.5rem;
 	}
+}
+
+label.form-label, label.form-check-label {
+	color: black;
+}
+
+.form-text {
+	font-size: small;
 }

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "takuo",
+    "conference": "con",
+    "name_ja": "鈴木 拓生",
+    "name_en": "Takuo Suzuki",
+    "company_ja": "Google Japan",
+    "company_en": "Google Japan",
+    "title_ja": "Developer Relations Program Manager",
+    "title_en": "",
+    "twitter": "https://twitter.com/taquo",
+    "profile_ja": "メディア系企業にて、社外のデベロッパーと恊働するプロジェクト等を担当し、 2012 年からはシリコンバレーのスタートアップやインキュベーションに対しての投資も担当。現在は Google の Developer Relationsチームでデベロッパーやスタートアップのエコシステムの向上を支援",
+    "facebook": "",
+    "github": "",
+    "linkedin": "",
+    "web": "",
+    "instagram": "",
+    "profile_en": "",
+    "interview_url": ""
+  },
+  {
+    "id": "hideki",
+    "conference": "japan",
+    "name_ja": "小島　英揮",
+    "name_en": "",
+    "company_ja": "Still Day One 合同会社",
+    "company_en": "",
+    "title_ja": "代表社員 / パラレルマーケター",
+    "title_en": "",
+    "twitter": "https://twitter.com/hide69oz",
+    "profile_ja": "Still Day One合同会社　代表社員/パラレルマーケター\nITのB2Bマーケティングで30年近いキャリアを持つ。PFU、アドビ等を経て、2009～2016年に、AWSで日本のマーケティングを統括、日本最大のクラウドユーザーコミュニティJAWS‐UGの立ち上げに携わる。2016年にコミュニティマーケティングの普及・啓蒙をするコミュニティ：CMC_Meetup を設立。3000名を超えるコミュニティ参加者を持つ。2017年より決済、AI、コラボレーションなど国内外の複数の企業でパラレルマーケターとして活動中\n著書に「[ビジネスも人生もグロースさせる コミュニティマーケティング](https://www.amazon.co.jp/dp/453405677X)」（日本実業出版社）、共著に「[DevRel エンジニアフレンドリーになるための3C](https://www.amazon.co.jp/dp/B07X8SD4PP)」（翔泳社）",
+    "facebook": "https://www.facebook.com/hideki.ojima",
+    "github": "",
+    "linkedin": "",
+    "web": "https://stilldayone.hatenablog.jp/",
+    "instagram": "",
+    "profile_en": "",
+    "interview_url": ""
+  }
+]

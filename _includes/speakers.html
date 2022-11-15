@@ -9,27 +9,18 @@
 		<div class="title-block White">
 			<h1 class="bold red-text">Speakers</h1>
 			<p></p>
-			<p>The amazing speakers at DevRelCon Yokohama 2023.</p>
+			<p>The amazing speakers at DevRelCon Yokohama 2023. We'll annouce more speakers soon. Stay tuned!</p>
+			<p>Do you want to become one of our speakers? <a href="/cfp/">Let's send your proposal right now!</a></p>
 		</div>
 	</div>
 
 	<div class="speaker-wrapper White">
 		<div class="container">
 			<div class="row d-flex justify-content-center">
-				<div class="col-md-6 col-lg-4 col-xl-3 speaker-card-wrapper">
-					<a href="/speaker/">
-						<div class="speaker-card">
-							<img src="/assets/images/people/don.jpg" />
-							<div class="speaker-details">
-								<h3 class="light mb-4">Don Goodman Wilson</h3>
-								<h3 class="talk-title"></h3>
-								<p>Toying With People&#8217;s Emotions: A Cognitive Theory of DevRel</p>
-								<p class="photo-credit">Director</p>
-								<p class="bold photo-credit">Katsudon.tech</p>
-							</div>
-						</div>
-					</a>
-				</div>
+				{% assign speakers = site.data.speakers | where: "conference", "con" %}
+				{% for speaker in speakers %}
+					{% include speaker.html speaker=speaker %}
+				{% endfor %}
 			</div>
 		</div>
 	</div>

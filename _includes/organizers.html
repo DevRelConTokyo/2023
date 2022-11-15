@@ -1,0 +1,60 @@
+<!-- ================================================
+
+      Organizers
+
+    ==================================================-->
+    <div class="Visible grey-bg" style="padding-bottom: 100px;">
+      <div id="organizers"></div>
+
+      <div class="title-block">
+        <h1 class="bold red-text">Organisers</h1>
+        <p>The people behind DevRelCon Yokohama</p>
+      </div>
+      <div class="speaker-wrapper">
+        <div class="container">
+          <div class="row d-flex justify-content-center">
+            <div class="col-md-6 col-lg-4">
+              <div class="organizer-card">
+                <a href="https://moongift.co.jp/">
+                  <img src="/assets/images/logos/moongift-2.jpg" />
+                </a>
+                <div class="speaker-details">
+                  <h4 class="light red-text">MOONGIFT</h4>
+                  <p class="bold photo-credit">Organiser</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+              <div class="organizer-card">
+                <a href="https://devrel.tokyo/">
+                  <img src="/assets/images/logos/devrelmeetup.jpg" />
+                </a>
+                <div class="speaker-details">
+                  <h4 class="light red-text">DevRel Meetup</h4>
+                  <p class="bold photo-credit">Organiser</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+              <div class="organizer-card">
+                <a href="https://hoopy.io/">
+                  <img src="/assets/images/logos/Hoopy.avif" />
+                </a>
+                <div class="speaker-details">
+                  <h4 class="light red-text">Hoopy</h4>
+                  <p class="bold photo-credit">Made by</p>
+                </div>
+              </div>
+            </div>
+          </div>
+					<div class="row d-flex justify-content-center">
+						{% assign organizers = site.data.organizers | where: "type", "member" %}
+						{% for organizer in organizers %}
+							{% if organizer.name_en != "" %}
+								{% include organizer.html organizer=organizer %}
+							{% endif %}
+						{% endfor %}
+					</div>
+        </div>
+      </div>
+    </div>

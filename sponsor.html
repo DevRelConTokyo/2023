@@ -1,0 +1,103 @@
+---
+layout: page
+title_en: "Sponsor menu"
+title_ja: "スポンサーメニュー"
+permalink: /sponsor/
+---
+
+<div class="row justify-content-md-center">
+	<div class="col-md-12">
+		<section class="pricing-wrap-layout2" style="padding-top: 2em">
+			<div class="container">
+				<div class="section-heading style-three">
+					<h2 class="title lang-ja">スポンサー</h2>
+					<h2 class="title lang-en">Sponsor</h2>
+					<div class="sub-title lang-ja">ニーズに応じて様々なスポンサープログラムを用意しています</div>
+					<div class="sub-title lang-en">Various sponsorship programs are available depending on your needs</div>
+				</div>
+				<div class="row justify-content-center">
+					{% for sponsor in site.data.sponsors %}
+						<div class="col-lg-4 col-md-6 col-12" style="padding-bottom: 2rem;">
+							<div class="pricing-box-layout2">
+								<div class="icon-box">
+									<img src="/assets/images/sponsor/{{ sponsor.id }}.svg" alt="{{ sponsor.name_en }}" width="70" height="70">
+								</div>
+								<h3 class="pricing-title lang-ja text-center" style="height: 2rem">{{ sponsor.name_ja }}</h3>
+								<h3 class="pricing-title lang-en text-center" style="height: 2rem">{{ sponsor.name_en }}</h3>
+								<h4 class="pricing-sub-title lang-ja" style="height: 3rem">{{ sponsor.description_ja }}</h4>
+								<h4 class="pricing-sub-title lang-en" style="height: 3rem">{{ sponsor.description_en }}</h4>
+								<div class="pricing-price lang-ja">{{ sponsor.price_ja }}<span>円</span></div>
+								<div class="pricing-price lang-en"><span>USD</span>{{ sponsor.price_en }}</div>
+								<div class="pricing-description" style="height: 570px">
+									<ul>
+										{% for feature in sponsor.feature_ja %}
+											<li class="lang-ja">{{ feature }}</li>
+										{% endfor %}
+										{% for feature in sponsor.feature_en %}
+											<li class="lang-en">{{ feature }}</li>
+										{% endfor %}
+									</ul>
+									<br />
+									{% if sponsor.notice_ja != "" %}
+										<p class="lang-ja">{{ sponsor.notice_ja }}</p>
+									{% endif %}
+									{% if sponsor.notice_en != "" %}
+										<p class="lang-en">{{ sponsor.notice_en }}</p>
+									{% endif %}
+								</div>
+								<div class="pricing-description text-center">
+									<a href="#application" class="btn btn-success text-center">Contact or Application</a>
+								</div>
+							</div>
+						</div>
+					{% endfor %}
+				</div>
+				<a name="application"></a>
+				<div class="row justify-content-center">
+					<h3>Contact or Application</h3>
+					<div class="col-12" data-wow-delay="0.1s" data-wow-duration="0.4s">
+						<form id="sponsor">
+							<input type="hidden" name="conference" class="devrelcon">
+							<div class="mb-3">
+								<label for="company" class="form-label">Company / Organization</label>
+								<input type="text" name="company" class="form-control">
+							</div>
+							<div class="mb-3">
+								<label for="name" class="form-label">Your name<sup style="color:red">*</sup></label>
+								<input type="text" name="name" class="form-control" required>
+							</div>
+							<div class="mb-3">
+								<label for="name" class="form-label">Email address<sup style="color:red">*</sup></label>
+								<input type="text" name="email" class="form-control" required>
+							</div>
+							<label for="profile" class="form-label">Type<sup style="color:red">*</sup></label>
+							<div class="mb-3">
+								<div class="form-check form-check-inline">
+									<input class="form-check-input" type="radio" name="download" value="attend" required>
+									<label class="form-check-label" for="inlineRadio2">
+										Download brochure
+									</label>
+								</div>
+								<div class="form-check form-check-inline">
+									<label class="form-check-label" for="inlineRadio1">
+										<input class="form-check-input" type="radio" name="application" value="sponsor" required>
+										Sponsor application
+									</label>
+								</div>
+							</div>
+							<div class="mb-3">
+								<label for="session_reason" class="form-label">Body<sup style="color:red">*</sup></label>
+								<textarea name="body" class="form-control" rows="10" required></textarea>
+							</div>
+							<div style="padding-top: 1em;">
+								<div class="alert" id="result" role="alert" style="display: none;">
+								</div>
+								<button type="submit" class="btn btn-primary">Contact or Application</button>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+</div>

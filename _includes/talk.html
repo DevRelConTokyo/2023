@@ -1,0 +1,20 @@
+{% assign person = include.person %}
+{% if page.type == 'speaker' %}
+	{% assign session = site.data.sessions | where: "speaker_id", speaker.id %}
+	{% if !session %}
+		{% assign session = site.data.sessions | where: "speaker2_id", speaker.id %}
+	{% endif %}
+	{% assign session = session[0] %}
+	<div class="grey-bg" style="padding-top:70px;padding-bottom:70px;">
+		<div class="container">
+			<div class="col-lg-12">
+				<h2 class="red-text mb-4">
+					{% if session != nil %}{{ session.title_en }}{% else %}TBD{% endif %}
+				</h2>
+				<!-- <h3>Talk description</h3> -->
+				<p>
+					{% if session != nil %}{{ session.description_en | markdownify }}{% endif %}
+			</div>
+		</div>
+	</div>
+{% endif %}

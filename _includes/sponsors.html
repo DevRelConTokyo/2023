@@ -1,0 +1,26 @@
+<!-- ================================================
+
+  Sponsors
+
+==================================================-->
+<div class="Visible">
+  <div id="sponsors"></div>
+  <div class="sponsor-wrapper">
+    <div class="container" style="position:relative;">
+			{% for sponsor in site.data.sponsors %}
+				{% include sponsor.html sponsor=sponsor %}
+			{% endfor %}
+
+      <div class="title-block">
+        <h1 class="bold red-text">Sponsors</h1>
+        <p></p>
+        <p><strong>Reach the unique DevRelCon audience by sponsoring DevRelCon Yokohama 2023.</strong></p>
+        <p>Join previous sponsors, who have included GitHub, IBM, Google, Microsoft, and many others.</p>
+        <div style="margin-top: 50px;">
+          <a href="/sponsor/"><div class="DevRelCon-button Visible">CHECK SPONSOR MENU</div></a>
+        </div>
+      </div>
+      <div class="row justify-content-center"></div>
+    </div>
+  </div>
+</div>

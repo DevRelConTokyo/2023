@@ -1,0 +1,27 @@
+<!-- ================================================
+
+	Speakers
+
+==================================================-->
+<div class="Visible">
+	<div class="container" style="position: relative;">
+		<div id="speakers"></div>
+		<div class="title-block White">
+			<h1 class="bold red-text">Speakers</h1>
+			<p></p>
+			<p>The amazing speakers at DevRelCon Yokohama 2023. We'll annouce more speakers soon. Stay tuned!</p>
+			<p>Do you want to become one of our speakers? <a href="/cfp/">Let's send your proposal right now!</a></p>
+		</div>
+	</div>
+
+	<div class="speaker-wrapper White">
+		<div class="container">
+			<div class="row d-flex justify-content-center">
+				{% assign speakers = site.data.speakers | where: "conference", "con" %}
+				{% for speaker in speakers %}
+					{% include speaker.html speaker=speaker %}
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+</div>

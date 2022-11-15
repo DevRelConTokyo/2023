@@ -1,0 +1,12 @@
+{% assign organizer = include.organizer %}
+<div class="col-md-6 col-lg-4">
+	<div class="organizer-card">
+		<a href="/organizers/{{ organizer.id }}">
+			<img src="/assets/images/people/{{ organizer.id }}.jpg" />
+		</a>
+		<div class="speaker-details">
+			<h4 class="light red-text">{{ organizer.name_en }}</h4>
+			<p class="bold photo-credit">{{ organizer.company_en }}</p>
+		</div>
+	</div>
+</div>

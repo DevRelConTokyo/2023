@@ -1,0 +1,24 @@
+<!-- ================================================
+
+	Introduction
+
+==================================================-->
+{% assign person = include.person %}
+<div class="intro">
+	<div class="container">
+		<div class="row d-flex align-items-center" style="padding-bottom:50px;">
+			<div class="col-lg-4">
+				<div class="speaker-image">
+					<img src="/assets/images/people/{{ person.id }}.jpg">
+				</div>
+			</div>
+			<div class="col-lg-8">
+				<h1>{{ person.name_en }}</h1>
+				<p class="photo-credit">{{ person.title_en }}</p>
+				<p class="bold photo-credit red-text">{{ person.company_en }}</p>
+				<p class="mt-4"></p>
+				{{ person.profile_en | markdownify }}
+			</div>
+		</div>
+	</div>
+</div>

@@ -15,6 +15,13 @@ jobs:
         uses: actions/setup-ruby@v1
         with:
           ruby-version: 2.7
+      - name: Cache bundle directory
+        uses: actions/cache@v1
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gem-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gem-
       - name: bundle install
         run: |
           bundle config set path 'vendor/bundle'

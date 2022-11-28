@@ -36,5 +36,43 @@
     "instagram": "",
     "profile_en": "",
     "interview_url": ""
+  },
+  {
+    "id": "yoshie",
+    "conference": "japan",
+    "name_ja": "吉江 瞬",
+    "name_en": "",
+    "company_ja": "JAWS-UG",
+    "company_en": "",
+    "title_ja": "IT Security Consultant",
+    "title_en": "",
+    "twitter": "https://twitter.com/Typhon666_death",
+    "profile_ja": "大手システムインテグレーターに入社後、MSS業務として、ネットワークインフラ、Webネット、インターネット接続環境のセキュリティデバイスのセキュリティ運用保守に従事。 2014年 OWASP Japanプロモーションチームにジョイン。 2016年 Security-JAWS立上げ。 2016年 AISECjp立ち上げ。 2017年 X-Tech JAWS立上げ。 2019年2月 JAWS DAYS 2019実行委員長を努め、AWS Samurai 2018受賞。2019年9月 DEVREL/JAPAN CONFERENCE 2019スピーカー。2020年9月 JAWS SONIC 2020 / MIDNIGHT JAWS 2020にて24時間オンライン勉強会の実行委員長を努め、2021年3月 AWS Community Heroを受賞。2021年11月 JAWS PANKRATION 2021でグローバルカンファレンスを開催、2022年9月 AWS Community APAC(バンコク開催)にて海外登壇。\n\n[https://aws.amazon.com/jp/developer/community/heroes/shun-yoshie/](https://aws.amazon.com/jp/developer/community/heroes/shun-yoshie/)",
+    "facebook": "https://www.facebook.com/typhon666.death",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/shun-yoshie%F0%9F%87%AF%F0%9F%87%B5-6aba9970/",
+    "web": "https://note.com/typhon666",
+    "instagram": "",
+    "profile_en": "",
+    "interview_url": ""
+  },
+  {
+    "id": "jun",
+    "conference": "con",
+    "name_ja": "藤田 純",
+    "name_en": "Jun Fujita",
+    "company_ja": "mabl K.K.",
+    "company_en": "mabl K.K.",
+    "title_ja": "Enterprise Sales, Japan",
+    "title_en": "",
+    "twitter": "",
+    "profile_ja": "私はIT業界で20年以上の経験があり、ここ10年はいくつかの米国のスタートアップで日本のGTMに注力してきました。GitHub、Auth0、mablなどの開発者ツール系スタートアップで経験した失敗や成功体験を共有したいと思います。",
+    "facebook": "",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/junfujita/",
+    "web": "",
+    "instagram": "",
+    "profile_en": "I have 20+ years experience in the tech industry and I've focused on Japan GTM for several U.S. startups in recent 10 years. I'd like to share my failure and success I've experienced working for developer tools startups such as GitHub, Auth0, and mabl.",
+    "interview_url": ""
   }
 ]

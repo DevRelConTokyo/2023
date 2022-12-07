@@ -864,11 +864,26 @@ Sponsors
 Venues
 
 ----------------------------------------------------------------- */
-
-iframe {
-	width: 100%;
-	margin-top: 2em;
+.map-wrap {
+	max-width: 100%;
+	padding: 50px 200px 0px 200px;
 }
+
+.map {
+	position: relative;
+	width: 100%;
+	height: 0;
+	padding-top: 56.25%; /* 比率を4:3に固定 */
+}
+
+.map iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
 .overlay {
     background: transparent;
     position: relative;
@@ -881,114 +896,6 @@ iframe {
     margin-bottom: -25px;
 }
 
-/* -----------------------------------------------------------------
-
-Hoopy advert
-
------------------------------------------------------------------ */
-
-.hoopy-advert {
-	position: relative;
-	background-color: #e61946;
-	margin-top: -7px;
-}
-.hoopy-advert-content {
-	color: #ffffff;
-	padding: 100px 30px;
-}
-.hoopy-advert-content a {
-	color: #ffffff;
-	border-bottom: 1px dotted #ffffff;
-}
-.hoopy-advert-content a:hover,
-.hoopy-advert-content a:focus,
-.hoopy-advert-content a:active {
-	color: #ffffff;
-	border-bottom: 1px solid #ffffff;
-}
-.hoopy-advert-content h1 {
-	font-size:2.5em;
-    line-height: 1;
-}
-.hoopy-logo-white {
-	text-align: left;
-}
-.hoopy-logo-white img {
-	width: 150px;
-	height: 97px;
-}
-
-/* -----------------------------------------------------------------
-
-Footer
-
------------------------------------------------------------------ */
-
-footer {
-	color: #ffffff;
-	background-color: #2B2C3A;
-	padding: 100px 30px;
-}
-footer a {
-	color: #ffffff;
-	border-bottom: 1px dotted #ffffff;
-}
-footer a:hover,
-footer a:focus,
-footer a:active {
-	color: #ffffff;
-	border-bottom: 1px solid #ffffff;
-}
-.footer-text {
-	font-size: 14px;
-	margin-top: 1em;
-	margin-bottom: 1em;
-}
-.fa-twitter {
-	display: block;
-	font-size: 3em;
-}
-label {
-    display: block;
-    margin: 1em auto 0 auto;
-    width: 100%;
-    text-align: left;
-    color: #fff;
-    font-size: 16px;
-    padding-bottom: 4px;
-}
-label span {
-    text-transform: none;
-    font-weight: 400;
-}
-.mc-field-group {
-    margin: .5em 0;
-}
-#mc_embed_signup div.mce_inline_error {
-    background-color: #e61946!important;
-    text-align: left;
-    padding: 15px!important;
-    -webkit-animation: fadein 1s;
-    -moz-animation: fadein 1s;
-    -ms-animation: fadein 1s;
-    -o-animation: fadein 1s;
-    animation: fadein 1s;
-}
-div#mce-success-response {
-    background-color: rgb(112, 197, 112);
-    max-width: 100%;
-    margin: 2em auto;
-    padding: 15px;
-    border-radius: 5px;
-    font-weight: 400;
-}
-/*
-input {
-    border: 0;
-    padding: 10px;
-    width: 100%;
-}
-*/
 
 /* -----------------------------------------------------------------
 

@@ -48,6 +48,7 @@ $(async () => {
 		const message = proposal.objectId ? 'Update your proposal' : 'Sent proposal successful!';
 		localStorage.removeItem('form_2');
 		form[0].reset();
+		if (!objectId) proposal = null;
 		restore();
 		$('#result')
 			.html(`Thank you so much. ${message}`)

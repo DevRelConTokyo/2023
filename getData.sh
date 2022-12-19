@@ -4,3 +4,5 @@ wget https://script.google.com/macros/s/$DEVREL_GOOGLE_ID/exec?name=sessions -O 
 wget https://script.google.com/macros/s/$DEVREL_GOOGLE_ID/exec?name=speakers -O _data/speakers.json
 
 ruby organizers.rb
+ruby speakers.rb
+npm start

@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   DevRelCon Yokohama is an English language conference 
   bringing the developer relations community back together 
   in person for two days of sharing, learning, and communing.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yokohama-2023.devrelcon.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll

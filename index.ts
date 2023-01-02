@@ -1,6 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 import { createCanvas, registerFont, loadImage } from 'canvas';
+import axios from 'axios';
+import { promisify } from 'util';
 
 const size = { width: 1200 , height: 630 };
 const current = process.cwd();
@@ -21,6 +23,7 @@ type TypeOrganizer = {
 	company_en: string
 	profile_ja: string
 	company_ja: string
+	photo?: string
 }
 
 export const generateOgImage = async (organizer: TypeOrganizer): Promise<Buffer> => {
@@ -44,9 +47,9 @@ export const generateOgImage = async (organizer: TypeOrganizer): Promise<Buffer>
   const circle = imageSize/2;
   ctx.arc(width / 2, height / 2, circle, 0, Math.PI*2, false);
   ctx.clip();
-	const imageSrc = path.resolve(current, `assets/images/people/${organizer.id}.jpg`);
-	const person = await loadImage(fs.readFileSync(imageSrc));
-	ctx.drawImage(person, 0, 0, imageSize, imageSize, width / 2 - imageSize / 2, height / 2 - imageSize / 2, imageSize, imageSize);
+	const imageSrc = path.resolve(current, `assets/images/people/${organizer.id}.jpg`);	
+	const personSource = await (organizer.photo ? (await axios.get(organizer.photo, { responseType: 'arraybuffer' })).data : promisify(fs.readFile)(imageSrc));
+	const person = await loadImage(personSource);
   ctx.restore();
 	ctx.beginPath();
   ctx.fillStyle = "rgb(238,139,146)";
@@ -84,8 +87,11 @@ const speakers = require('./_data/speakers.json');
 
 const generate = async (people: any[]) => {
 	people.forEach(async (organizer: any) => {
-		const img = await generateOgImage(organizer);
-		fs.writeFileSync(path.resolve(current, 'assets/images/ogp', `${organizer.id}.jpg`), img);
+		try {
+			const img = await generateOgImage(organizer);
+			fs.writeFileSync(path.resolve(current, 'assets/images/ogp', `${organizer.id}.jpg`), img);
+		} catch (e) {
+		}
 	});
 };
 (async () => {

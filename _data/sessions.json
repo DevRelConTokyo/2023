@@ -2,9 +2,7 @@
   {
     "id": "c_2",
     "first_speaker": "takuo",
-    "start_time_utc": "",
-    "start_time_jst": "",
-    "end_time_utc": "",
+    "start_time_jst": "11:10",
     "end_time_jst": "",
     "title_en": "",
     "title_ja": "",
@@ -21,14 +19,13 @@
     "second_speaker_name": "",
     "track": "",
     "youtube": "",
-    "audience_level": ""
+    "audience_level": "",
+    "day": "11"
   },
   {
     "id": "j_1",
     "first_speaker": "hideki",
-    "start_time_utc": "",
-    "start_time_jst": "",
-    "end_time_utc": "",
+    "start_time_jst": "13:10",
     "end_time_jst": "",
     "title_en": "",
     "title_ja": "",
@@ -45,14 +42,13 @@
     "second_speaker_name": "",
     "track": "",
     "youtube": "",
-    "audience_level": ""
+    "audience_level": "",
+    "day": "10"
   },
   {
     "id": "j_2",
     "first_speaker": "yoshie",
-    "start_time_utc": "",
-    "start_time_jst": "",
-    "end_time_utc": "",
+    "start_time_jst": "11:10",
     "end_time_jst": "",
     "title_en": "",
     "title_ja": "",
@@ -69,14 +65,13 @@
     "second_speaker_name": "",
     "track": "",
     "youtube": "",
-    "audience_level": ""
+    "audience_level": "",
+    "day": "11"
   },
   {
     "id": "c_1",
     "first_speaker": "jun",
-    "start_time_utc": "",
-    "start_time_jst": "",
-    "end_time_utc": "",
+    "start_time_jst": "13:10",
     "end_time_jst": "",
     "title_en": "",
     "title_ja": "",
@@ -93,14 +88,13 @@
     "second_speaker_name": "",
     "track": "",
     "youtube": "",
-    "audience_level": ""
+    "audience_level": "",
+    "day": "10"
   },
   {
     "id": "j_3",
     "first_speaker": "ariaki4dev",
-    "start_time_utc": "",
     "start_time_jst": "",
-    "end_time_utc": "",
     "end_time_jst": "",
     "title_en": "",
     "title_ja": "コロナ禍だからこそ考えるオフラインコミュニティの意義",
@@ -117,14 +111,13 @@
     "second_speaker_name": "",
     "track": "",
     "youtube": "",
-    "audience_level": "middle"
+    "audience_level": "middle",
+    "day": ""
   },
   {
     "id": "j_4",
     "first_speaker": "goofmint",
-    "start_time_utc": "",
     "start_time_jst": "",
-    "end_time_utc": "",
     "end_time_jst": "",
     "title_en": "",
     "title_ja": "テックブログを分析して分かった始めるコツ・続けるコツ",
@@ -141,14 +134,13 @@
     "second_speaker_name": "",
     "track": "",
     "youtube": "",
-    "audience_level": "beginner"
+    "audience_level": "beginner",
+    "day": ""
   },
   {
     "id": "j_5",
     "first_speaker": "1ft_seabass",
-    "start_time_utc": "",
     "start_time_jst": "",
-    "end_time_utc": "",
     "end_time_jst": "",
     "title_en": "",
     "title_ja": "オンライン＆オフラインどちらへも響くハンズオンドキュメント TIPS ～ハイブリッド時代の技術の伝え方～",
@@ -165,14 +157,13 @@
     "second_speaker_name": "",
     "track": "",
     "youtube": "",
-    "audience_level": "beginner"
+    "audience_level": "beginner",
+    "day": ""
   },
   {
     "id": "j_6",
     "first_speaker": "nabemasat",
-    "start_time_utc": "",
     "start_time_jst": "",
-    "end_time_utc": "",
     "end_time_jst": "",
     "title_en": "",
     "title_ja": "非エンジニアの私が、エンジニアと「協働」するために心がけていること",
@@ -189,14 +180,13 @@
     "second_speaker_name": "",
     "track": "",
     "youtube": "",
-    "audience_level": "beginner"
+    "audience_level": "beginner",
+    "day": ""
   },
   {
     "id": "j_7",
     "first_speaker": "beppu01",
-    "start_time_utc": "",
     "start_time_jst": "",
-    "end_time_utc": "",
     "end_time_jst": "",
     "title_en": "",
     "title_ja": "DevRelの考え方を学んでエンジニア採用に生かす",
@@ -213,14 +203,13 @@
     "second_speaker_name": "",
     "track": "",
     "youtube": "",
-    "audience_level": "beginner"
+    "audience_level": "beginner",
+    "day": ""
   },
   {
     "id": "j_8",
     "first_speaker": "ryoo_aki",
-    "start_time_utc": "",
     "start_time_jst": "",
-    "end_time_utc": "",
     "end_time_jst": "",
     "title_en": "",
     "title_ja": "クラウドユーザーコミュニティの Evangelist が語る、「みんなでつくるコミュニティとキャリア体験」",
@@ -237,14 +226,13 @@
     "second_speaker_name": "",
     "track": "",
     "youtube": "",
-    "audience_level": "beginner"
+    "audience_level": "beginner",
+    "day": ""
   },
   {
     "id": "j_9",
     "first_speaker": "wyamazak",
-    "start_time_utc": "",
     "start_time_jst": "",
-    "end_time_utc": "",
     "end_time_jst": "",
     "title_en": "",
     "title_ja": "意外と大事！ DevRelに使える日本語テクニック",
@@ -261,14 +249,13 @@
     "second_speaker_name": "",
     "track": "",
     "youtube": "",
-    "audience_level": "middle"
+    "audience_level": "middle",
+    "day": ""
   },
   {
     "id": "j_10",
     "first_speaker": "odashoDotCom",
-    "start_time_utc": "",
     "start_time_jst": "",
-    "end_time_utc": "",
     "end_time_jst": "",
     "title_en": "",
     "title_ja": "オフライン → オンライン → ハイブリッド コミュニティ運営の答え合わせ",
@@ -285,14 +272,13 @@
     "second_speaker_name": "",
     "track": "",
     "youtube": "",
-    "audience_level": "middle"
+    "audience_level": "middle",
+    "day": ""
   },
   {
     "id": "j_11",
     "first_speaker": "shosuz",
-    "start_time_utc": "",
     "start_time_jst": "",
-    "end_time_utc": "",
     "end_time_jst": "",
     "title_en": "",
     "title_ja": "3年ぶりのオフライン技術イベントはこうして成功できた〜大盛況で御礼お疲れ様までの3ヶ月間の軌跡",
@@ -309,14 +295,13 @@
     "second_speaker_name": "",
     "track": "",
     "youtube": "",
-    "audience_level": "beginner"
+    "audience_level": "beginner",
+    "day": ""
   },
   {
     "id": "j_12",
     "first_speaker": "kurotaky",
-    "start_time_utc": "",
     "start_time_jst": "",
-    "end_time_utc": "",
     "end_time_jst": "",
     "title_en": "",
     "title_ja": "DevRelチームをゼロから作りDevRel文化を広める技術",
@@ -333,14 +318,13 @@
     "second_speaker_name": "",
     "track": "",
     "youtube": "",
-    "audience_level": "beginner"
+    "audience_level": "beginner",
+    "day": ""
   },
   {
     "id": "j_13",
     "first_speaker": "tekoizumi",
-    "start_time_utc": "",
     "start_time_jst": "",
-    "end_time_utc": "",
     "end_time_jst": "",
     "title_en": "",
     "title_ja": "みんなで学ぼう！コミュニティドリブンなエンジニア育成の仕掛け",
@@ -357,6 +341,7 @@
     "second_speaker_name": "",
     "track": "",
     "youtube": "",
-    "audience_level": "beginner"
+    "audience_level": "beginner",
+    "day": ""
   }
 ]

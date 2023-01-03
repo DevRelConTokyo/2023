@@ -343,5 +343,28 @@
     "youtube": "",
     "audience_level": "beginner",
     "day": ""
+  },
+  {
+    "id": "j_14",
+    "first_speaker": "fsakurai",
+    "start_time": "",
+    "end_time": "",
+    "title_en": "",
+    "title_ja": "事業をエンジニアリングする技術者たちを支援する技術広報＆DevRelの裏側",
+    "first_speaker_name": "",
+    "video_url": "",
+    "publish_confirmed": "",
+    "material_url": "",
+    "description_en": "",
+    "description_ja": "CARTAは2022年に2社が合併し、社員2000人弱を抱え20以上の事業を持つ会社となりました。当然、合併前の文化背景や情報伝達方法が異なっているという課題があります。\r\n技術広報チームでは事業を横断的に活動するために、Developer Relations（以下DevRel）のノウハウも必要となりました。\r\nDevRelのノウハウを活かし、技術広報チームが取り組めて効果がでたことをお話しします。\r\n- イベント運営\r\n- テックブログ\r\n- SNS管理・投稿",
+    "category_en": "developer",
+    "second_speaker": "",
+    "category_ja": "デベロッパー",
+    "show": "",
+    "second_speaker_name": "",
+    "track": "",
+    "youtube": "",
+    "audience_level": "",
+    "day": ""
   }
 ]

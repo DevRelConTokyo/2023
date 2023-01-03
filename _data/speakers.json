@@ -343,5 +343,28 @@
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": ""
+  },
+  {
+    "id": "fsakurai",
+    "conference": "japan",
+    "name_ja": "櫻井 文矢",
+    "name_en": "",
+    "company_ja": "株式会社CARTA HOLDINGS",
+    "company_en": "",
+    "title_ja": "技術広報",
+    "title_en": "",
+    "twitter": "saku_238",
+    "profile_ja": "株式会社CARTA HOLDINGS(カルタホールディングス)の技術広報。デジタル広告業界にて奮闘する年子育児エンジニア。最近は行政で未来社会の研究員やったりSRE NEXT運営やったりしてました。得意料理は沸騰。",
+    "facebook": "fumiya.sakurai.238",
+    "github": "238sakurai",
+    "linkedin": "",
+    "web": "",
+    "instagram": "",
+    "profile_en": "",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": ""
   }
 ]

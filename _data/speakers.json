@@ -366,5 +366,28 @@
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": ""
+  },
+  {
+    "id": "hcrane14",
+    "conference": "japan",
+    "name_ja": "鶴田 啓",
+    "name_en": "",
+    "company_ja": "楽天グループ株式会社 ラクマ事業部",
+    "company_en": "",
+    "title_ja": "Applications Engineer / Developer Relations",
+    "title_en": "",
+    "twitter": "hcrane14",
+    "profile_ja": "楽天グループ株式会社ラクマ事業部にて Applications Engineer として働く傍ら、Developer Relations にも従事。オウンドメディア運営、イベント協賛、技術書執筆、採用活動など多岐に渡って活動している。コミュニティにおいては、iOSDC、DroidKaigi などのモバイル開発向けのカンファレンスで登壇し、技術発信に努めている。",
+    "facebook": "",
+    "github": "crane-hiromu",
+    "linkedin": "",
+    "web": "",
+    "instagram": "",
+    "profile_en": "",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": ""
   }
 ]

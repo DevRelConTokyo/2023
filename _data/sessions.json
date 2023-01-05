@@ -412,5 +412,28 @@
     "youtube": "",
     "audience_level": "beginner",
     "day": ""
+  },
+  {
+    "id": "j_17",
+    "first_speaker": "Yfuru2454",
+    "start_time": "",
+    "end_time": "",
+    "title_en": "",
+    "title_ja": "地方テック企業もDevRel頑張ってみた",
+    "first_speaker_name": "",
+    "video_url": "",
+    "publish_confirmed": "",
+    "material_url": "",
+    "description_en": "",
+    "description_ja": "これからのDevRelを考える上で、この活動は都市部の大きい企業やだけのお話ではないかもしれません。MIERUNEのような特定分野の強みをもつ地方の企業が、創業以来継続的に情報発信やOSSコミュニティへの貢献を軸としたDevRelを行ったことで得られた学びや成果をみなさんに共有したいとおもいます。",
+    "category_en": "business",
+    "second_speaker": "",
+    "category_ja": "ビジネス",
+    "show": "",
+    "second_speaker_name": "",
+    "track": "",
+    "youtube": "",
+    "audience_level": "beginner",
+    "day": ""
   }
 ]

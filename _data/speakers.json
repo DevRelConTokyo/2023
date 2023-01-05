@@ -389,5 +389,28 @@
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": ""
+  },
+  {
+    "id": "_katsumi",
+    "conference": "japan",
+    "name_ja": "高橋 克己",
+    "name_en": "",
+    "company_ja": "株式会社KDDIウェブコミュニケーションズ",
+    "company_en": "",
+    "title_ja": "Twilioエバンジェリスト",
+    "title_en": "",
+    "twitter": "_katsumi",
+    "profile_ja": "大手通信事業者向けの研修事業を行う中、2013年にTwilioというサービスに出会う。\r\n2016年よりTwilioの日本代理店であるKDDIウェブコミュニケーションズにジョインし、Twilioのエバンジェリストとしてサービスの普及活動を精力的に行っている。その話術と赤い服装から、「赤い芸人」と呼ばれる。\r\n2015 Hall of Doers\r\n2019 Twilio Champions",
+    "facebook": "katsumi.takahashi",
+    "github": "mobilebiz",
+    "linkedin": "katsumitakahashi",
+    "web": "",
+    "instagram": "mobilebiz",
+    "profile_en": "",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": ""
   }
 ]

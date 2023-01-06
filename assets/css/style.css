@@ -1281,3 +1281,7 @@ label.form-label, label.form-check-label {
 .form-text {
 	font-size: small;
 }
+
+.form-label {
+	color: white !important;
+}

@@ -10,9 +10,10 @@ $(() => {
 		const params = {};
 		form.serializeArray().forEach(values =>  params[values.name] = values.value);
 		// SendGrindでメール送信
+		console.log(params);
 		const res = await ncmb.Script
       .data(params)
-      .exec("POST", "sendMail.js");
+      .exec("POST", "sendMailCon.js");
 		if (res.body === '{}') {
 			$('#result')
 				.html(`Thank you for your inquiry. Please wait for our reply.`)

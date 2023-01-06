@@ -25,7 +25,32 @@
             <p class="footer-text"><a href="/code-of-conduct">Code of Conduct</a> | <a href="https://developerrelations.com/privacy">Privacy policy</a></p>
             <p class="footer-text mt-1">©2015-2022 Hoopy Limited. Hoopy and DevRelCon are registered trademarks of Hoopy Limited.</p>
           </div>
-          <div class="col-md-6"></div>
+          <div class="col-md-6">
+            <h4 class="mb-4">Contact us</h4>
+            <p>Please feel free anything to contact us.</p>
+            <form id="contact">
+              <div class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Your name</label>
+                <input type="text" name="name" class="form-control" id="exampleFormControlInput1" placeholder="Your name" required>
+              </div>
+              <div class="mb-3">
+                <label for="exampleFormControlInput2" class="form-label">Company or organization</label>
+                <input type="text" name="company" class="form-control" id="exampleFormControlInput1" placeholder="DevRelCon Yokohama">
+              </div>
+              <div class="mb-3">
+                <label for="exampleFormControlInput3" class="form-label">Email address</label>
+                <input type="email" name="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com" required>
+              </div>
+              <div class="mb-3">
+                <label for="exampleFormControlTextarea1" class="form-label">Message</label>
+                <textarea name="body" class="form-control" id="exampleFormControlTextarea1" rows="5" required></textarea>
+              </div>
+              <div class="mb-3">
+                <div id="result" class="alert"></div>
+                <button type="submit" class="btn btn-primary mb-3">Send form</button>
+              </div>
+            </form>
+          </div>
         </div>
       </div>
     </footer>

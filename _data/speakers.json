@@ -573,5 +573,28 @@
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": ""
+  },
+  {
+    "id": "dtaivpp",
+    "conference": "con",
+    "name_ja": "David Tippett",
+    "name_en": "David Tippett",
+    "company_ja": "AWS",
+    "company_en": "AWS",
+    "title_ja": "Senior Developer Advocate",
+    "title_en": "",
+    "twitter": "dtaivpp",
+    "profile_ja": "Davidは、オープンソースのOpenSearchプロジェクトのSenior Developer Advocateを務めています。検索から観測可能性まで、あらゆる分野に取り組んでいます。OpenSearch に携わる前は、ネットワークオートメーション、DevOps、データエンジニアリング、ウェブ開発など、数え上げればきりがないほど多くの仕事に携わってきました。",
+    "facebook": "",
+    "github": "dtaivpp",
+    "linkedin": "david-tippett",
+    "web": "",
+    "instagram": "",
+    "profile_en": "David is a Senior Developer Advocate for the open-source OpenSearch project. He works on every area from search to observability. Before working on OpenSearch he worked on network automation, devops, data engineering, web development, and the list goes on. ",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": ""
   }
 ]

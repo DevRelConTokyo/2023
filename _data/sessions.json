@@ -573,5 +573,28 @@
     "youtube": "",
     "audience_level": "middle",
     "day": ""
+  },
+  {
+    "id": "c_10",
+    "first_speaker": "dtaivpp",
+    "start_time": "",
+    "end_time": "",
+    "track": "",
+    "title_en": "Advocating in Open-Source",
+    "title_ja": "オープンソースにおけるアドボカシー",
+    "first_speaker_name": "",
+    "video_url": "",
+    "publish_confirmed": "",
+    "material_url": "",
+    "description_en": "## Why is open-source so different?\r\n\r\nWhen companies produce a product they have a monetary interest to keep it going. That doesn’t exist for open-source projects. More trust that needs to be built in order to have others adopt it and eventually contribute back.  \r\n\r\n## Support the community\r\n\r\n* Supporting contributors\r\n* Showcasing partners using the project\r\n* Making on-boarding straightforward\r\n* Adding maintainers\r\n\r\n## Work in the open\r\n\r\n* Using public conversation channels\r\n* Make publishing transparent and community driven\r\n* Build in public\r\n\r\n## Getting away from the 'i' in community\r\n\r\n* Being a participant in the project \r\n\r\n",
+    "description_ja": "## なぜオープンソースはそんなに違うのか？\n\n企業が製品を作る場合、それを継続させるために金銭的な利害が発生します。オープンソースのプロジェクトにはそれがありません。他の人がそれを採用し、最終的に貢献するためには、より多くの信頼を築く必要があるのです。 \n\n## コミュニティを支援する\n\n* 貢献者を支援する\n* プロジェクトを使用するパートナーを紹介する\n* プロジェクトに参加しやすい環境作り\n* メンテナを追加する\n\n## オープンに仕事をする\n\n* 公開会話チャンネルを利用する\n* 公開を透明化し、コミュニティ主導にする\n* 公開で構築する\n\n## コミュニティーの「i」からの脱却\n\n* プロジェクトの参加者であること \n",
+    "category_en": "developer",
+    "second_speaker": "",
+    "category_ja": "デベロッパー",
+    "show": "",
+    "second_speaker_name": "",
+    "youtube": "",
+    "audience_level": "beginner",
+    "day": ""
   }
 ]

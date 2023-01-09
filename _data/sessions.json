@@ -412,5 +412,28 @@
     "youtube": "",
     "audience_level": "beginner",
     "day": ""
+  },
+  {
+    "id": "c_3",
+    "first_speaker": "gingy_love",
+    "start_time": "",
+    "end_time": "",
+    "track": "",
+    "title_en": "Amplifying developers' voices using internal speaker's help desk",
+    "title_ja": "社内スピーカーによるヘルプデスクを活用した開発者の声の増幅",
+    "first_speaker_name": "",
+    "video_url": "",
+    "publish_confirmed": "",
+    "material_url": "",
+    "description_en": "",
+    "description_ja": "",
+    "category_en": "",
+    "second_speaker": "",
+    "category_ja": "",
+    "show": "",
+    "second_speaker_name": "",
+    "youtube": "",
+    "audience_level": "",
+    "day": ""
   }
 ]

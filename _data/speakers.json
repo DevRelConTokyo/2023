@@ -412,5 +412,28 @@
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": ""
+  },
+  {
+    "id": "alenaosipova",
+    "conference": "con",
+    "name_ja": "Alena Osipova",
+    "name_en": "Alena Osipova",
+    "company_ja": "",
+    "company_en": "",
+    "title_ja": "",
+    "title_en": "",
+    "twitter": "",
+    "profile_ja": "",
+    "facebook": "",
+    "github": "kiwicom",
+    "linkedin": "alena-osipova-953b8b169",
+    "web": "",
+    "instagram": "llamakarl",
+    "profile_en": "",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": ""
   }
 ]

@@ -43,13 +43,14 @@ export const generateOgImage = async (organizer: TypeOrganizer): Promise<Buffer>
   ctx.drawImage(image, 0, 0, width, height);
 	ctx.save();
 	ctx.scale(1, 1);
-	const imageSize = 400;
+	const imageSize = 350;
   const circle = imageSize/2;
   ctx.arc(width / 2, height / 2, circle, 0, Math.PI*2, false);
   ctx.clip();
 	const imageSrc = path.resolve(current, `assets/images/people/${organizer.id}.jpg`);	
 	const personSource = await (organizer.photo ? (await axios.get(organizer.photo, { responseType: 'arraybuffer' })).data : promisify(fs.readFile)(imageSrc));
 	const person = await loadImage(personSource);
+	ctx.drawImage(person, 0, 0, imageSize, imageSize, width / 2 - imageSize / 2, height / 2 - imageSize / 2, imageSize, imageSize);
   ctx.restore();
 	ctx.beginPath();
   ctx.fillStyle = "rgb(238,139,146)";

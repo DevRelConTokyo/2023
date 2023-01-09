@@ -550,5 +550,28 @@
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": ""
+  },
+  {
+    "id": "",
+    "conference": "con",
+    "name_ja": "James Bohrman",
+    "name_en": "James Bohrman",
+    "company_ja": "Distilled",
+    "company_en": "Distilled",
+    "title_ja": "",
+    "title_en": "",
+    "twitter": "",
+    "profile_ja": "",
+    "facebook": "",
+    "github": "jdbohrman",
+    "linkedin": "jdbohrman",
+    "web": "",
+    "instagram": "",
+    "profile_en": "I'm not sure what you're looking for here?",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": ""
   }
 ]

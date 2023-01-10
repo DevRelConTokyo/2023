@@ -688,5 +688,28 @@
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": ""
+  },
+  {
+    "id": "ryoo_aki_con",
+    "conference": "con",
+    "name_ja": "秋元 良太",
+    "name_en": "Ryota Akimoto",
+    "company_ja": "Jagu'e'r",
+    "company_en": "Jagu'e'r",
+    "title_ja": "Jagu'e'r Evangelist",
+    "title_en": "",
+    "twitter": "ryoo_aki",
+    "profile_ja": "Jagu'e'r Evangelist 兼 Jagu'e'r Leader。Google Cloud ユーザ会であるJagu'e'rで、人生が変わった人の一人。アクセンチュア株式会社所属。",
+    "facebook": "ryota.akimoto.988",
+    "github": "",
+    "linkedin": "ryotaakimoto",
+    "web": "",
+    "instagram": "",
+    "profile_en": "Jagu'e'r Evangelist and Jagu'e'r Leader. Jagu'e'r stands for ‘Japan Google Cloud User-Group for Enterprise’, which has a huge impact on his career. Currently he works in Accenture Japan. ",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": ""
   }
 ]

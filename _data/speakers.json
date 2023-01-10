@@ -596,5 +596,28 @@
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": ""
+  },
+  {
+    "id": "tekoizumi",
+    "conference": "japan",
+    "name_ja": "小泉 鉄之祐",
+    "name_en": "",
+    "company_ja": "デロイトトーマツコンサルティング合同会社",
+    "company_en": "",
+    "title_ja": "Specialist Senior",
+    "title_en": "",
+    "twitter": "",
+    "profile_ja": "ITベンダーにて人材育成に従事し、幅広くエンジニア育成の施策を企画・推進。現職ではエンジニアとしてお客様のクラウド活用を技術観点から支援。コミュニティ運営にも意欲的に取り組んでおり、Google Cloud のエンタープライズ企業向けユーザー会「Jagu’e’r」の初代最優秀賞の1人。",
+    "facebook": "",
+    "github": "",
+    "linkedin": "",
+    "web": "",
+    "instagram": "",
+    "profile_en": "",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": ""
   }
 ]

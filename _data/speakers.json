@@ -665,5 +665,28 @@
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": ""
+  },
+  {
+    "id": "realwasmedge",
+    "conference": "con",
+    "name_ja": "Miley Fu",
+    "name_en": "Miley Fu",
+    "company_ja": "WasmEdge",
+    "company_en": "WasmEdge",
+    "title_ja": "DevRel at Second State",
+    "title_en": "",
+    "twitter": "realwasmedge",
+    "profile_ja": "オープンソースのCNCFサンドボックスプロジェクト、WasmEdgeの開発元であるセカンドステート社で3年間DevRel Advocateとして働き、クラウドネイティブとサーバーレスアプリケーションパラダイムをエッジコンピューティングに導入しています。私は、テクノロジーとリーダーシップに強いバックグラウンドを持っています。それ以前は、VCが出資するスタートアップ企業5milesでプロダクトマネージャーを務め、米国で1500万人の登録ユーザーを抱えるまでにプラットフォームを成長させるチームをサポートしました。ハイテク業界に移行する前は、中国農業銀行で銀行業務のソフトウェアテストエンジニアとして3年間過ごし、事務員としてキャリアをスタートさせました。\n\n伝統的な業界とハイテク業界の両方における多様な職務経歴と経験を持つ私は、DevRelカンファレンスでWasmEdgeランタイムのDevRel Advocateを務めるのに十分な資質を備えていると思います。この分野の最新トレンドや発展について、参加者の皆さんと見識を共有し、議論できることを楽しみにしています。",
+    "facebook": "SecondState.io",
+    "github": "mileyfu",
+    "linkedin": "miley-fu-46a39465",
+    "web": "",
+    "instagram": "",
+    "profile_en": "I have been working as the DevRel Advocate for 3 years at Second State, creator of open source CNCF sandbox project, WasmEdge, which brings cloud-native and serverless application paradigms to edge computing. I have a strong background in technology and leadership. Prior to this role, I served as the product manager at the VC-funded startup 5miles, where I supported the team as they grew the platform to 15 million registered users in the United States. Before transitioning to the tech industry, I spent 3 years as a Software Testing Engineer on banking operations at the Agricultural Bank of China, where I began my career as a clerk.\r\n\r\nWith my diverse professional background and experience in both traditional and tech-focused industries, I am well-equipped to serve as the DevRel Advocate of WasmEdge runtime at the DevRel Conference. I look forward to sharing my insights and discussing the latest trends and developments in the field with my fellow attendees.",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": ""
   }
 ]

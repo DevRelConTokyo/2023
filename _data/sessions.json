@@ -734,5 +734,28 @@
     "youtube": "",
     "audience_level": "beginner",
     "day": ""
+  },
+  {
+    "id": "c_16",
+    "first_speaker": "1ft_seabass_con",
+    "start_time": "",
+    "end_time": "",
+    "track": "",
+    "title_en": "Enhancing each other technologies DevRel tips! ~ An exciting experience as a dual-charged technical mentor in a hackathon ~",
+    "title_ja": "互いの技術を高め合う DevRelのコツ! ~ ハッカソンで技術指導の二刀流という刺激的な体験〜",
+    "first_speaker_name": "",
+    "video_url": "",
+    "publish_confirmed": "",
+    "material_url": "",
+    "description_en": "I talk about getting DevRel experiences using real-time demos, tips, and talk. It's about IoT and low code tools as a dual technical mentor.\r\n\r\n- A technical mentor's essential point is showing creative technical collaboration for developers!\r\n    - Of course, the first step is conveying a technology fascinate in hackathon hands-on. And stepping up to two technology collaborations. Next more be creative as a multiple-technology collaboration!\r\n    - I will show a demo and tips about IoT and low code tool collaboration patterns. And more, other technologies collaboration patterns such as LINE and AI.\r\n- Making like this creative DevRel action grows positive results!\r\n    - This positive DevRel involvement focused positive using multiple technologies in almost hackathon teams.\r\n    - Provoking collaboration mind in developers! It handles dual busy peak in hackathon technical support time.",
+    "description_ja": "リアルタイムのデモやTips、トークを使ってDevRel体験ができることを話します。IoTとローコードツールのデュアルテクニカルメンターとしての話です。\n\n- テクニカルメンターの真骨頂は、開発者のためにクリエイティブな技術コラボレーションを見せること!\n    - もちろん、ハッカソンのハンズオンで技術の魅力を伝えることが第一歩です。そして、2つの技術コラボレーションへとステップアップしていきます。次はもっとクリエイティブに、複数の技術コラボレーションを!\n    - IoTとローコードツールのコラボレーションパターンについて、デモを交えてご紹介します。さらに、LINEやAIなど、他の技術とのコラボレーションパターンも紹介します。\n- このようにクリエイティブなDevRelのアクションが、ポジティブな結果を生んでいきます。\n    - このDevRelのポジティブな関わりは、ほぼハッカソンチームで複数の技術を使うことにフォーカスしています。\n    - 開発者のコラボレーションマインドを喚起 ハッカソンのテクニカルサポートの繁忙期を2回に分けて対応。",
+    "category_en": "developer",
+    "second_speaker": "",
+    "category_ja": "デベロッパー",
+    "show": "",
+    "second_speaker_name": "",
+    "youtube": "",
+    "audience_level": "beginner",
+    "day": ""
   }
 ]

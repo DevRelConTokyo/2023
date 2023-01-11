@@ -6,7 +6,7 @@ ogp: /assets/images/ogp/taiji.jpg
 type: organizer
 id: taiji
 ---
-DatadogのSenior Technical Evangelist
+DatadogのSenior Technical Advocate
 
 元美容師で元音楽家。ソフトウェアエンジニアへ転身後、受託開発やパッケージ開発を経て有限会社アキュレートシステムを起業。その後、技術者へリーチしたマーケティング、DevRel（Developer Relations）の道へシフトし、MKI（三井情報）では初のTechnical Evangelistとなる。その経験を活かしIBMではDeveloper Advocate Tokyo Teamの立ち上げをリード。OutSystemsではLead Developer Community Advocateとして活躍。筑波大学情報学群にて非常勤講師も務める。
 

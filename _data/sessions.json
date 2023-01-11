@@ -910,13 +910,13 @@
     "material_url": "",
     "description_en": "Did you ever become a part of a community, particularly a technical one, with the expectation of growing holistically as an individual but rather got stuck in an endless loop of redundant tasks? Did you ever think that you’d be building projects with your community but instead found yourself doing stuff which wasn’t adding anything substantial to your career?\r\n\r\nHere’s a discussion that would show you the fundamental mistake in people’s mindset while joining communities and ways to rectify the same. The attendees shall be taking a deep plunge into the system of gamification (creating a game-like experience in the form of reward systems, badges, points or mini adrenaline-inducing tasks) and learning how it can be adopted in communities, particularly in tech communities, to bid goodbye to a stagnant frame of mind and spark creativity. \r\n\r\nNeed an example to understand this better? Imagine if the simple yet tiring task of joining a Google Meet link was gamified. How interesting would it be if the 10 alphabet code at the end of a Google meet link had to be decoded through a series of cyphers, riddles and clues? This is just one of the examples where teamwork, collaboration and creativity have been leveraged to gamify a community’s everyday ritual of meeting remotely. \r\n\r\nThe talk shall entail my perspective of communities as a volunteer, an executive member, a coordinator and then a leader and a GitHub Campus Expert and all the trials and tribulations that came my way while trying to ensure that every community member reaches their utmost potential. The talk will strike a chord with every developer, designer, entrepreneur or content creator out there who became part of communities with a certain perception of the same, had their perceptions and expectations challenged, however, made the most out of what was offered and carved a path not just for themselves but for their entire community.",
     "description_ja": "個人としての総合的な成長を期待してコミュニティ（特に技術系）の一員になったのに、むしろ冗長なタスクの無限ループにはまったことはありませんか？コミュニティと一緒にプロジェクトを立ち上げようと思っていたのに、気がついたら自分のキャリアに何のプラスにもならないことをやっていたということはありませんか？\n\nこのディスカッションでは、コミュニティに参加する際に陥りがちな根本的な間違いや、それを修正する方法を紹介します。参加者は、ゲーミフィケーション（報酬システム、バッジ、ポイント、またはアドレナリンを誘発するミニタスクの形でゲームのような体験を作り出すこと）のシステムに深く入り込み、コミュニティ、特に技術系コミュニティでどのように採用すれば、心の停滞に別れを告げ、創造性をかき立てることができるかを学びます。\n\nこのことをよりよく理解するために、例を挙げる必要がありますか？Google Meetのリンクに参加するという単純だが疲れる作業がゲーミフィケーション化されたとしたらどうでしょう。Google Meetのリンクの最後にある10個のアルファベットのコードを、一連の暗号、謎、手がかりを通して解読しなければならないとしたら、どんなに面白いことでしょう？このように、チームワーク、コラボレーション、クリエイティビティを活かして、コミュニティの日常的な儀式である遠隔会議をゲーミフィケーション化した例は、ほんの一例です。\n\nこの講演では、ボランティア、役員、コーディネーター、リーダー、そしてGitHub Campus Expertとしての私のコミュニティに対する考え方や、コミュニティメンバー全員が最大限の可能性を発揮できるようにするために経験した試行錯誤をお話します。この講演は、開発者、デザイナー、起業家、コンテンツ制作者など、ある種の認識を持ってコミュニティの一員となり、その認識や期待を裏切られながらも、提供されたものを最大限に活用し、自分だけでなくコミュニティ全体のために道を切り開いてきた人々の心に響くものとなるはずです。",
-    "category_en": "",
+    "category_en": "developer",
     "second_speaker": "",
-    "category_ja": "",
+    "category_ja": "デベロッパー",
     "show": "",
     "second_speaker_name": "",
     "youtube": "",
-    "audience_level": "",
+    "audience_level": "beginner",
     "day": ""
   }
 ]

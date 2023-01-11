@@ -711,5 +711,28 @@
     "youtube": "",
     "audience_level": "beginner",
     "day": ""
+  },
+  {
+    "id": "c_15",
+    "first_speaker": "avolakatos",
+    "start_time": "",
+    "end_time": "",
+    "track": "",
+    "title_en": "Building a DevRel Culture",
+    "title_ja": "DevRelカルチャーの構築",
+    "first_speaker_name": "",
+    "video_url": "",
+    "publish_confirmed": "",
+    "material_url": "",
+    "description_en": "How big is your Developer Relations team? Most teams are very small. Unless you work for Microsoft, Google or Amazon, it’s pretty hard to justify a big DevRel team. And that’s OK; not everyone needs 70 people to do Developer Relations. It wouldn’t hurt, though. \r\n\r\nWhat happens if you work for a company that can’t afford 10 Developer Advocates? I've worked with small startups and non-profits, and it’s been tough to sell a big team to my CEOs. And trust me, I’ve tried.\r\n\r\nStarting a Developer Relations Program is a lot of work for a team of one. You have to figure out ways of scaling a DevRel program without increasing the headcount. You can achieve that by creating a DevRel Culture instead.",
+    "description_ja": "デベロッパーリレーションズチームの規模は？ほとんどのチームはとても小さいです。マイクロソフトやグーグル、アマゾンで働いているのでなければ、大きなデベロッパーリレーションズチームを正当化するのはかなり難しいでしょう。それでもいいのです。すべての人がデベロッパーリレーションズのために70人を必要とするわけではありません。しかし、それでも問題ないでしょう。\n\nもしあなたが、10人のデベロッパー・アドボケートを雇う余裕のない会社で働いていたらどうなるでしょうか？私は小規模な新興企業や非営利団体と仕事をしてきましたが、CEOに大規模なチームを売り込むのは難しいことでした。そして、信じてください、私は試しました。\n\nデベロッパーリレーションズプログラムの立ち上げは、一人のチームにとって大変な仕事です。人員を増やさずにDevRelプログラムを拡張する方法を考えなければなりません。そのためには、DevRel Cultureを構築する必要があります。",
+    "category_en": "developer",
+    "second_speaker": "",
+    "category_ja": "デベロッパー",
+    "show": "",
+    "second_speaker_name": "",
+    "youtube": "",
+    "audience_level": "beginner",
+    "day": ""
   }
 ]

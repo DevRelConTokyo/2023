@@ -987,5 +987,28 @@
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": ""
+  },
+  {
+    "id": "RabbiGreenberg",
+    "conference": "con",
+    "name_ja": "Ben Greenberg",
+    "name_en": "Ben Greenberg",
+    "company_ja": "Parity Technologies",
+    "company_en": "Parity Technologies",
+    "title_ja": "Senior Developer Relations Engineer",
+    "title_en": "",
+    "twitter": "RabbiGreenberg",
+    "profile_ja": "Benはセカンドキャリアの開発者で、以前は成人教育、コミュニティ組織化、非営利団体の運営などの分野で10年間を過ごしました。昼間はParity Technologiesでシニア開発者支援者として働き、夜はオープンソースプロジェクトで実験しています。コミュニティ開発とテクノロジーの交差点について定期的に執筆しています。\n\n南カリフォルニア出身で、長年ニューヨーク市に住んでいましたが、現在はテルアビブ近郊に住んでいます。",
+    "facebook": "",
+    "github": "bencgreenberg",
+    "linkedin": "rabbigreenberg/",
+    "web": "",
+    "instagram": "",
+    "profile_en": "Ben is a second career developer who previously spent a decade in the fields of adult education, community organizing, and non-profit management. He works as a senior developer advocate at Parity Technologies by day and experiments with open source projects at night. He writes regularly on the intersection of community development and tech.\r\n\r\nOriginally from Southern California and a long-time resident of New York City, Ben now resides near Tel Aviv.",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": ""
   }
 ]

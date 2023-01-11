@@ -918,5 +918,28 @@
     "youtube": "",
     "audience_level": "beginner",
     "day": ""
+  },
+  {
+    "id": "c_24",
+    "first_speaker": "RabbiGreenberg",
+    "start_time": "",
+    "end_time": "",
+    "track": "",
+    "title_en": "Measuring DevRel During a Downturn: Returning to the Fundamentals",
+    "title_ja": "不況時のDevRelの測定。ファンダメンタルズへの回帰",
+    "first_speaker_name": "",
+    "video_url": "",
+    "publish_confirmed": "",
+    "material_url": "",
+    "description_en": "This session will tackle one of the most contentious issues in DevRel, which is how to properly measure our activities in a business. When the economy is doing well, most businesses regard the DevRel team as an expenditure similar to marketing. They have a big budget and they do \"awareness\" type of activities, and all is well and good. However, when the economic situation worsens, many corporate leaders look to cut unnecessary spending, and without a good case to be made, Developer Relations teams often fall under the knife.\r\n\r\nAfter presenting the problem, Ben will offer a solution to measuring DevRel that returns back to the fundamentals of the discipline. Instead of seeking to either impose outside models unto the profession, such as the sales funnel, or offering complex conceptual frameworks that remain challenging to convey to company leadership, Ben will argue that it’s time to restore DevRel success measurements back to a place that is easy to understand for all invested parties and makes intuitive sense.\r\n\r\nBen will demonstrate how this can be done with concrete and real-world examples. After this talk, Ben promises you will walk away with not only a renewed understanding of DevRel measurements during a recession, when the need becomes even more heightened, but during all times.",
+    "description_ja": "このセッションでは、DevRelの最も論争的な問題の1つである、ビジネスにおける我々の活動を適切に測定する方法について取り組みます。経済が好調なとき、ほとんどの企業はDevRelチームをマーケティングと同じような支出だと考えています。大きな予算があり、「啓蒙」的な活動を行い、それですべてがうまくいっている。しかし、経済状況が悪化すると、多くの企業経営者は無駄な支出を削減しようとします。そして、正当な理由がなければ、デベロッパーリレーションズチームはしばしば切り捨てられることになります。\n\nベンは、この問題を提示した後、デベロッパーリレーションズの測定について、この分野の基本に立ち返った解決策を提案します。セールスファネルのような外部のモデルを専門家に押し付けるのではなく、また、企業のトップに伝えるのが難しい複雑な概念的枠組みを提供するのではなく、今こそ、すべての関係者にとってわかりやすく、直感的に理解できる場所に、デベロッパーリレーションの成功測定を戻すべきだとベンは主張するのです。\n\nベンは、具体的な実例を挙げながら、これがどのように実現できるかを説明します。この講演の後、ベンは、不況下でその必要性がさらに高まるときだけでなく、どんなときでも、DevRelの測定について新たな理解を得られることを約束します。",
+    "category_en": "developer",
+    "second_speaker": "",
+    "category_ja": "デベロッパー",
+    "show": "",
+    "second_speaker_name": "",
+    "youtube": "",
+    "audience_level": "middle",
+    "day": ""
   }
 ]

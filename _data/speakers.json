@@ -1010,5 +1010,28 @@
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": ""
+  },
+  {
+    "id": "tmassh",
+    "conference": "",
+    "name_ja": "増森 聡明",
+    "name_en": "",
+    "company_ja": "Jagu'e'r",
+    "company_en": "Jagu'e'r",
+    "title_ja": "エバンジェリスト",
+    "title_en": "",
+    "twitter": "",
+    "profile_ja": "Jagu'e'r Evangelist 兼 Jagu'e'r Leader。Google Cloud ユーザ会であるJagu'e'rで、他人の人生を変えてきた人の一人。シスメックス株式会社所属。",
+    "facebook": "",
+    "github": "",
+    "linkedin": "",
+    "web": "",
+    "instagram": "",
+    "profile_en": "",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": ""
   }
 ]

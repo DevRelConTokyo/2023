@@ -943,7 +943,7 @@
     "session_level": ""
   },
   {
-    "id": "tmassh",
+    "id": "tmassh_con",
     "conference": "con",
     "name_ja": "Toshiaki Masumori",
     "name_en": "Toshiaki Masumori",
@@ -1013,7 +1013,7 @@
   },
   {
     "id": "tmassh",
-    "conference": "",
+    "conference": "japan",
     "name_ja": "増森 聡明",
     "name_en": "",
     "company_ja": "Jagu'e'r",
@@ -1022,9 +1022,9 @@
     "title_en": "",
     "twitter": "",
     "profile_ja": "Jagu'e'r Evangelist 兼 Jagu'e'r Leader。Google Cloud ユーザ会であるJagu'e'rで、他人の人生を変えてきた人の一人。シスメックス株式会社所属。",
-    "facebook": "",
+    "facebook": "toshiaki.masumori.9",
     "github": "",
-    "linkedin": "",
+    "linkedin": "t-masumori",
     "web": "",
     "instagram": "",
     "profile_en": "",

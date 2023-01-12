@@ -1,7 +1,13 @@
-<!--
-<div class="row">
-	<div class="sponsor-tag">
-		<a href="https://hoopy.io/"><img class="made-by-hoopy" src="http://localhost:8888/Yokohama/wp-content/uploads/2019/08/Hoopy-tag.png"></a>
-	</div>
+{% assign sponsor = include.sponsor %}
+<div class="col-{{ sponsor.size }} text-center">
+	<a href="{{ sponsor.url_en }}" class="lang-en" target="_blank">
+		<img src="{{ sponsor.image }}">
+	</a>
+	<a href="{{ sponsor.url_ja }}" class="lang-ja" target="_blank">
+		<img src="{{ sponsor.image }}">
+	</a>
+	<strong>
+		<span class="lang-en">{{ sponsor.label_en }}</span>
+		<span class="lang-ja">{{ sponsor.label_ja }}</span>
+	</strong>
 </div>
--->

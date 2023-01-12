@@ -9,15 +9,27 @@
 		<div class="row d-flex align-items-center" style="padding-bottom:50px;">
 			<div class="col-lg-4">
 				<div class="speaker-image">
-					<img src="/assets/images/people/{{ person.id }}.jpg">
+					{% if page.type == 'speaker' %}
+						<img src="{{ person.photo }}">
+					{% else %}
+						<img src="/assets/images/people/{{ person.id }}.jpg">
+					{% endif %}
 				</div>
 			</div>
 			<div class="col-lg-8">
-				<h1>{{ person.name_en }}</h1>
-				<p class="photo-credit">{{ person.title_en }}</p>
-				<p class="bold photo-credit red-text">{{ person.company_en }}</p>
+				<h1 class="lang-en">{{ person.name_en }}</h1>
+				<h1 class="lang-ja">{{ person.name_ja }}</h1>
+				<p class="photo-credit lang-en">{{ person.title_en }}</p>
+				<p class="photo-credit lang-ja">{{ person.title_ja }}</p>
+				<p class="bold photo-credit red-text lang-en">{{ person.company_en }}</p>
+				<p class="bold photo-credit red-text lang-ja">{{ person.company_ja }}</p>
 				<p class="mt-4"></p>
-				{{ person.profile_en | markdownify }}
+				<span class="lang-en">
+					{{ person.profile_en | markdownify }}
+				</span>
+				<span class="lang-ja">
+					{{ person.profile_ja | markdownify }}
+				</span>
 			</div>
 		</div>
 	</div>

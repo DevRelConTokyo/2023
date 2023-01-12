@@ -7,11 +7,12 @@
 <div class="col-md-6 col-lg-4 col-xl-3 speaker-card-wrapper">
 	<a href="/speakers/{{ speaker.id }}/">
 		<div class="speaker-card">
-			<img src="/assets/images/people/{{ speaker.id }}.jpg" />
+			<img src="{{ speaker.photo }}" />
 			<div class="speaker-details">
 				<h3 class="light mb-4">{{ speaker.name_en }}</h3>
 				<h3 class="talk-title">{% if !session %}TBD{% else %}{{ session.title_en }}{% endif %}</h3>
-				<p class="photo-credit">{{ speaker.title_en }}</p>
+				<p class="photo-credit lang-en">{{ speaker.title_en }}</p>
+				<p class="photo-credit lang-ja">{{ speaker.title_ja }}</p>
 				<p class="bold photo-credit">{{ speaker.company_en }}</p>
 			</div>
 		</div>

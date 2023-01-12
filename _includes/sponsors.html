@@ -7,20 +7,27 @@
   <div id="sponsors"></div>
   <div class="sponsor-wrapper">
     <div class="container" style="position:relative;">
-			{% for sponsor in site.data.sponsors %}
-				{% include sponsor.html sponsor=sponsor %}
-			{% endfor %}
-
       <div class="title-block">
-        <h1 class="bold red-text">Sponsors</h1>
-        <p></p>
-        <p><strong>Reach the unique DevRelCon audience by sponsoring DevRelCon Yokohama 2023.</strong></p>
-        <p>Join previous sponsors, who have included GitHub, IBM, Google, Microsoft, and many others.</p>
+        <h1 class="bold red-text lang-en">Sponsors</h1>
+        <h1 class="bold red-text lang-ja">スポンサー</h1>
+        <p class="lang-en"><strong>Reach the unique DevRelCon audience by sponsoring DevRelCon Yokohama 2023.</strong></p>
+        <p class="lang-ja"><strong>DevRelCon Yokohama 2023にスポンサードして、DevRelConならではのユニークな参加者達にアクセスしましょう</strong></p>
+        <p class="lang-en">Join previous sponsors, who have included GitHub, IBM, Google, Microsoft, and many others.</p>
+        <p class="lang-ja">これまでにGitHub/IBM/Google/Microsoftなど様々な企業がスポンサードしています</p>
         <div style="margin-top: 50px;">
-          <a href="/sponsor/"><div class="DevRelCon-button Visible">CHECK SPONSOR MENU</div></a>
+          <a href="/sponsor/">
+            <div class="DevRelCon-button Visible">
+              <span class="lang-en">CHECK SPONSOR MENU</span>
+              <span class="lang-ja">スポンサーメニューを見る</span>
+            </div>
+          </a>
         </div>
       </div>
-      <div class="row justify-content-center"></div>
+      <div class="row justify-content-center">
+        {% for sponsor in site.data.sponsors %}
+          {% include sponsor.html sponsor=sponsor %}
+        {% endfor %}
+      </div>
     </div>
   </div>
 </div>

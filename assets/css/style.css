@@ -1278,11 +1278,11 @@ label.form-label, label.form-check-label {
 	color: black;
 }
 
-.form-text {
+#contact .form-text {
 	font-size: small;
 }
 
-.form-label {
+#contact .form-label {
 	color: white !important;
 }
 

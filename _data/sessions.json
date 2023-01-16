@@ -941,5 +941,28 @@
     "youtube": "",
     "audience_level": "middle",
     "day": ""
+  },
+  {
+    "id": "c_25",
+    "first_speaker": "CarlaAtGG",
+    "start_time": "",
+    "end_time": "",
+    "track": "",
+    "title_en": "What are inclusive communities and how to maintain them?",
+    "title_ja": "インクルーシブコミュニティとは何か、そしてそれを維持するにはどうしたらよいか？",
+    "first_speaker_name": "",
+    "video_url": "",
+    "publish_confirmed": "",
+    "material_url": "",
+    "description_en": "We’ll be sharing a practical approach to collaboratively identify and agree upon community values, starting from the inside out. Our hope is to provide a framework for all community organisers, other volunteers and anybody interested in building an internal or external community.\r\nThe goal is to create a real sense of belonging and safety, in order to truly guarantee the creation of teams, communities and events that are really diverse and inclusive, and where everybody is held accountable for their behaviour.\r\nWe want a future where we won’t need to scramble for diverse line-ups and content anymore because everybody feels safe and welcome, especially all the underrepresented groups. A future where mistakes are made, acknowledged and constructively fixed.",
+    "description_ja": "このセミナーでは、コミュニティーの価値観を共有し、合意するための実践的なアプローチを紹介します。私たちの願いは、すべてのコミュニティ・オーガナイザー、その他のボランティア、そして社内外のコミュニティ構築に関心のあるすべての人に、フレームワークを提供することです。\nその目的は、多様で包括的なチーム、コミュニティ、イベントの創造を真に保証し、誰もが自分の行動に責任を持つために、真の帰属意識と安全性を作り出すことです。\n私たちは、誰もが安全で歓迎されていると感じられるので、多様なラインアップやコンテンツのために奔走する必要がなくなるような、特に代表的でないすべてのグループのための未来を望んでいます。間違いは認められ、建設的に修正される未来です。",
+    "category_en": "developer",
+    "second_speaker": "",
+    "category_ja": "デベロッパー",
+    "show": "",
+    "second_speaker_name": "",
+    "youtube": "",
+    "audience_level": "beginner",
+    "day": ""
   }
 ]

@@ -987,5 +987,28 @@
     "youtube": "",
     "audience_level": "middle",
     "day": ""
+  },
+  {
+    "id": "c_27",
+    "first_speaker": "RobLauer",
+    "start_time": "",
+    "end_time": "",
+    "track": "",
+    "title_en": "Finding DevRel Success in Small Communities",
+    "title_ja": "小さなコミュニティでDevRelを成功させるために",
+    "first_speaker_name": "",
+    "video_url": "",
+    "publish_confirmed": "",
+    "material_url": "",
+    "description_en": "This talk will cover a variety of strategies for effectively communicating and engaging with niche developer communities, as well as the importance of understanding the unique culture and needs of the targeted developers. We will also cover the various approaches to developing meaningful relationships with developers, such as creating highly customized content, discovering/leveraging niche communities, and engaging directly with developers in an authentic manner.\r\n\r\nMore specifically, this session will take a practical look at some tips and tricks to \"scaling down\" lessons learned with working on big languages/clouds/services/companies and repurposing them for more niche technologies. For instance, I will spend time on:\r\n\r\n- How to discover niche communities that house the persona you want to engage with\r\n- How to make yourself part of that community, in an honest and authentic manner\r\n- How to best understand smaller, niche communities and their unique cultures\r\n- What success can mean working as part of a smaller startup, with smaller communities\r\n\r\nMy hope is attendees will gain practical advice on how to effectively engage with niche developers and find success in their developer relations efforts!",
+    "description_ja": "This talk will cover a variety of strategies for effectively communicating and engaging with niche developer communities, as well as the importance of understanding the unique culture and needs of the targeted developers. We will also cover the various approaches to developing meaningful relationships with developers, such as creating highly customized content, discovering/leveraging niche communities, and engaging directly with developers in an authentic manner.\n\nMore specifically, this session will take a practical look at some tips and tricks to \"\"scaling down\"\" lessons learned with working on big languages/clouds/services/companies and repurposing them for more niche technologies. For instance, I will spend time on:\n\n- How to discover niche communities that house the persona you want to engage with\n- How to make yourself part of that community, in an honest and authentic manner\n- How to best understand smaller, niche communities and their unique cultures\n- What success can mean working as part of a smaller startup, with smaller communities\n\nMy hope is attendees will gain practical advice on how to effectively engage with niche developers and find success in their developer relations efforts!",
+    "category_en": "developer",
+    "second_speaker": "",
+    "category_ja": "デベロッパー",
+    "show": "",
+    "second_speaker_name": "",
+    "youtube": "",
+    "audience_level": "beginner",
+    "day": ""
   }
 ]

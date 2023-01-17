@@ -1010,5 +1010,28 @@
     "youtube": "",
     "audience_level": "beginner",
     "day": ""
+  },
+  {
+    "id": "c_28",
+    "first_speaker": "sugaroverflow",
+    "start_time": "",
+    "end_time": "",
+    "track": "",
+    "title_en": "How Storytelling can be your DevRel Superpower",
+    "title_ja": "ストーリーテリングはあなたのDevRelのスーパーパワーになるか？",
+    "first_speaker_name": "",
+    "video_url": "",
+    "publish_confirmed": "",
+    "material_url": "",
+    "description_en": "DevRel, technology, and the world are ever-changing, and we've all just been through the most complex years of our lives. As DevRel, an integral part of our role is building connections with the people using our products and community among our contributors. Great stories help us build those connections, share ideas, and move people to action. \r\n\r\n  In this session, attendees will explore processes for crafting narratives, identifying their audiences, and delivering a compelling story along with their demos. We'll use influences from literature and storytelling techniques to show, not tell, establish credibility, and personalize experiences for our audience.\r\n\r\nIt's possible to share ourselves alongside the technologies we build - it doesn't just have to be about the tech. ",
+    "description_ja": "DevRel、テクノロジー、そして世界は常に変化しており、私たちは皆、人生の中で最も複雑な年月を過ごしてきたところです。DevRelとして、私たちの役割の不可欠な部分は、私たちの製品を使用する人々とのつながりや、貢献者間のコミュニティを構築することです。優れたストーリーは、こうしたつながりを築き、アイデアを共有し、人々を行動へと導くのに役立ちます。 \n\n  このセッションでは、物語を作り、オーディエンスを特定し、デモと一緒に説得力のあるストーリーを提供するためのプロセスを探ります。このセッションでは、文学やストーリーテリングのテクニックの影響を受け、語るのではなく、見せ、信頼性を確立し、聴衆のために経験をパーソナライズすることを目指します。\n\n私たちが作るテクノロジーと一緒に私たち自身を共有することは可能です。",
+    "category_en": "developer",
+    "second_speaker": "",
+    "category_ja": "デベロッパー",
+    "show": "",
+    "second_speaker_name": "",
+    "youtube": "",
+    "audience_level": "beginner",
+    "day": ""
   }
 ]

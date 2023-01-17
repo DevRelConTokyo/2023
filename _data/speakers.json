@@ -1150,5 +1150,29 @@
     "session_detail_ja": "",
     "session_level": "",
     "visa": ""
+  },
+  {
+    "id": "RobLauer",
+    "conference": "con",
+    "name_ja": "Rob Lauer",
+    "name_en": "Rob Lauer",
+    "company_ja": "Blues Wireless",
+    "company_en": "Blues Wireless",
+    "title_ja": "Director of Developer Relations",
+    "title_en": "Director of Developer Relations",
+    "twitter": "RobLauer",
+    "profile_ja": "Blues Wireless の開発者対応ディレクターで、以前は Telerik/Progress の Kendo UI と NativeScript チームに在籍していました。RobはTwitterの@RobLauerやMastodonの@roblauer@mastodon.online で支離滅裂なことを呟いています。",
+    "facebook": "",
+    "github": "rdlauer",
+    "linkedin": "rdlauer",
+    "web": "",
+    "instagram": "",
+    "profile_en": "A maker at heart and a supporter of the open web, Rob is Director of Developer Relations at Blues Wireless and formerly could be found on the Kendo UI and NativeScript teams at Telerik/Progress. You can find Rob rambling incoherently on Twitter @RobLauer or on Mastodon @roblauer@mastodon.online.",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": "",
+    "visa": ""
   }
 ]

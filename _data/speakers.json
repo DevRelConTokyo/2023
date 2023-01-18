@@ -1198,5 +1198,29 @@
     "session_detail_ja": "",
     "session_level": "",
     "visa": ""
+  },
+  {
+    "id": "HaimantikaM",
+    "conference": "con",
+    "name_ja": "Haimantika Mitra",
+    "name_en": "Haimantika Mitra",
+    "company_ja": "Appwrite",
+    "company_en": "Appwrite",
+    "title_ja": "Developer Advocate",
+    "title_en": "Developer Advocate",
+    "twitter": "HaimantikaM",
+    "profile_ja": "Developer Advocate",
+    "facebook": "",
+    "github": "Haimantika",
+    "linkedin": "haimantika-mitra",
+    "web": "",
+    "instagram": "",
+    "profile_en": "Developer Advocate",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": "",
+    "visa": ""
   }
 ]

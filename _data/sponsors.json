@@ -10,5 +10,29 @@
     "url_en": "https://magicpod.com/en/",
     "image": "https://drive.google.com/uc?id=1MbVilkQAMSFolQuw0Fki3w6F5EVcsBpu",
     "size": "3"
+  },
+  {
+    "id": "ayatokura",
+    "type": "personal",
+    "label_ja": "個人",
+    "label_en": "personal",
+    "name_ja": "職業「戸倉彩」",
+    "name_en": "ayatokura",
+    "url_ja": "",
+    "url_en": "",
+    "image": "",
+    "size": ""
+  },
+  {
+    "id": "avie",
+    "type": "personal",
+    "label_ja": "個人",
+    "label_en": "personal",
+    "name_ja": "フカイ　ジョナビル（Avie)",
+    "name_en": "Jonavil \"Avie\" Fukai",
+    "url_ja": "",
+    "url_en": "",
+    "image": "",
+    "size": ""
   }
 ]

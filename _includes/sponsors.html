@@ -30,6 +30,20 @@
           {% endif %}
         {% endfor %}
       </div>
+      <div class="title-block">
+        <h3 class="bold red-text lang-en">Personal sponsors</h3>
+        <h3 class="bold red-text lang-ja">個人スポンサー</h3>
+      </div>
+      <div class="row justify-content-center">
+        {% for sponsor in site.data.sponsors %}
+          {% if sponsor.type == "personal" %}
+            <div class="col-3 text-center">
+              <span class="lang-en">{{ sponsor.name_en }}</span>
+              <span class="lang-ja">{{ sponsor.name_ja }}</span>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
     </div>
   </div>
 </div>

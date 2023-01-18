@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /accept/
-title_en: Presentation Accepted
+title_en: Presentation Acceptance
 title_ja: 登壇承諾
 ---
 
@@ -9,17 +9,53 @@ title_ja: 登壇承諾
 	<div class="row justify-content-md-center">
 		<div class="col-md-8">
 			<div class="section-title text-center">
-				<h2 class="lang-ja">登壇承諾ありがとうございます！</h2>
-				<h2 class="lang-en">Thank you for accepting!</h2>
-				<p class="lang-ja">
-					<span class="proposal-name"></span>様、DevRelCon Yokohama 2023の登壇承諾ありがとうございます！あなたの素晴らしいお話が聞けるのを楽しみにしております！
-				</p>
-				<p class="lang-en">
-					Dear <span class="proposal-name"></span>, Thank you for agreeing to speak at DevRelCon Yokohama 2023! We look forward to hearing your great story!
-				</p>
-				<p>
-					<strong><span class="proposal-session_title"></span></strong>
-				</p>
+				<h2 class="lang-ja">登壇承諾の確認</h2>
+				<h2 class="lang-en">Confirmation of consent to speak</h2>
+			</div>
+			<div class="row">
+				<div class="row">
+					<div class="lang-ja">
+						<span class="proposal-name"></span>様、DevRelCon Yokohama 2023の登壇承諾ありがとうございます！
+						<div>
+							セッションタイトル： <strong><span class="proposal-session_title"></span></strong>
+						</div>
+						<div>問題なければプロフィール画像を指定の上、以下のボタンを押してください。</div>
+						<ul>
+							<li>ホテル・航空券サポートはありません</li>
+							<li>ビザサポートが必要な場合は、<a href="https://docs.google.com/forms/d/e/1FAIpQLSdtUNV_n8QKcx4sXZUVvXUB3o5jAxcjLCuqLXkgvQcsM9SYTg/viewform" target="_blank">こちらより入力</a>してください。</li>
+							<li>オフライン登壇（横浜）のみになります</li>
+							<li>登壇は3月10日または11日になります（決定し次第、ご連絡します）</li>
+							<li>プロフィール画像はJPEGまたはPNG、400x400pxにてお願いします（サイズが異なる場合はこちらで加工します）</li>
+						</ul>
+					</div>
+					<div class="lang-en">
+						Dear <span class="proposal-name"></span>, thank you for agreeing to speak at DevRelCon Yokohama 2023!
+						<div>
+							Your session title: <strong><span class="proposal-session_title"></span></strong>
+						</div>
+						<div>If you are satisfied, please specify your profile picture and press the button below.</div>
+						<ul>
+							<li>No hotel or airfare support</li>
+							<li>If you need visa support, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtUNV_n8QKcx4sXZUVvXUB3o5jAxcjLCuqLXkgvQcsM9SYTg/viewform" target ="_blank">enter it here</a>.</li>
+							<li>Offline speaking (Yokohama, Japan) only.</li>
+							<li>Your speaking slot will be on March 10 or 11 (to be announced as soon as it is determined)</li>
+							<li>Profile image should be JPEG or PNG, 400x400px (if the size is different, we will process it)</li>
+						</ul>
+					</div>
+					<div class="result alert alert-success" style="display: none;">
+						<p class="lang-ja">登壇承諾が完了しました！</p>
+						<p class="lang-en">Consent to speak has been completed!</p>
+					</div>
+					<form id="accept">
+						<label class="form-label">
+							<span class="lang-ja">プロフィール画像を選択してください</span>
+							<span class="lang-en">Please select a profile picture</span>
+							<input type="file" name="picture" id="picture" accept="image/jpeg,image/png" required />
+						</label>
+						<button type="submit" class="lang-ja btn btn-primary">登壇了承する</button>
+						<button type="submit" class="lang-en btn btn-primary">Consent to speak</button>
+					</form>
+				</div>
 			</div>
 		</div>
 	</div>

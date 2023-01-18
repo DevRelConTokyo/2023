@@ -5,22 +5,23 @@ json.each do |speaker|
 	next if speaker['conference'] == 'japan'
 	title_ja = ''
 	title_en = ''
-	if speaker['comapny_ja'] != ''
+	if speaker['company_ja'] != ''
 		title_ja = "#{speaker['name_ja']}@#{speaker['company_ja']}"
 		title_en = "#{speaker['name_en']}@#{speaker['company_en']}"
 	else
 		title_ja = speaker['name_ja']
 		title_en = speaker['name_en']
 	end
-	
+	title_ja = title_ja.gsub(/"/, '\"')
+	title_en = title_en.gsub(/"/, '\"')
   content = <<-EOS
 ---
 layout: person
-permalink: /speakers/#{speaker['id']}/
-title: #{title_en}
-ogp: /assets/images/ogp/#{speaker['id']}.jpg
+permalink: "/speakers/#{speaker['id']}/"
+title: "#{title_en}"
+ogp: "/assets/images/ogp/#{speaker['id']}.jpg"
 type: speaker
-id: #{speaker['id']}
+id: "#{speaker['id']}"
 ---
   EOS
   f = open("./speakers/#{speaker['id']}.md", 'w')

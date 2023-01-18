@@ -1222,5 +1222,29 @@
     "session_detail_ja": "",
     "session_level": "",
     "visa": ""
+  },
+  {
+    "id": "ayatokura",
+    "conference": "con",
+    "name_ja": "Aya Tokura",
+    "name_en": "Aya Tokura",
+    "company_ja": "IBM Japan",
+    "company_en": "IBM Japan",
+    "title_ja": "Manager of Customer Success Manager Architect",
+    "title_en": "Manager of Customer Success Manager Architect",
+    "twitter": "ayatokura",
+    "profile_ja": "セキュリティエンジニア、プロダクトマーケティング、ソフトウェアエンジニア、テクニカルエバンジェリスト、デベロッパーアドボケート、カスタマーサクセスマネージャーアーキテクトなど、IT業界で約22年の包括的な経験を持つ。創造的な問題解決者、熱心なセルフスターター、そして目標達成者。OSSとIT技術の愛好家。",
+    "facebook": "aya.tokura21",
+    "github": "ayatokura",
+    "linkedin": "ayatokura",
+    "web": "",
+    "instagram": "",
+    "profile_en": "Around 22 years comprehensive experience with IT industry - Security Engineer, Product Marketing, Software Engineer, Technical Evangelist, Developer Advocate and Customer Success Manager Architect. Creative problem-solver, enthusiastic self-starter, and goal-driven achiever. OSS and IT Tech Lover.",
+    "interview_url": "",
+    "photo": "https://drive.google.com/uc?id=1XY1PEnc93b-BGQxbaK5_8W7hqsi1Tx60",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": "",
+    "visa": ""
   }
 ]

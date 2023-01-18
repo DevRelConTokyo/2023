@@ -796,7 +796,7 @@
     "description_en": "In this talk, the speakers will share their experiences and challenges faced when DevRel is bought up among students and professionals in their early careers. \r\nThe audience will walk away with the facts that are currently faced by beginners and students entering the domain of Developer Relations. Unfortunately, some organizations have a poor understanding of what DevRel entails, leading to misconceptions and misunderstandings about the role. This can have serious consequences, including harm to team morale and a lack of trust from the developer community.\r\nTo address this issue, Kaiwalya and Ashwin will focus on why it's important for organizations to reframe their understanding of DevRel as a strategic partnership-building role, rather than simply a way to manage their community. This shift in perspective can enable organizations to make meaningful connections with developers and drive meaningful impact. This talk will provide a space for students and beginners to reflect on their understanding of the role, and their career goals and match their community passion effectively with the DevRel position",
     "description_ja": "本講演では、DevRelが学生や社会人の間で購入された際に直面した経験や課題について、講演者が共有します。\n聴衆は、Developer Relationsの領域に入る初心者や学生が現在直面している事実を知ることができます。残念ながら、一部の組織ではDevRelの内容に対する理解が不十分で、この役割に対する誤解や勘違いを招いています。これは、チームの士気を損ねたり、開発者コミュニティからの信頼を失うなど、深刻な事態を招きかねません。\nこの問題に対処するため、Kaiwalya氏とAshwin氏は、組織がDevRelを単なるコミュニティ管理の手段ではなく、戦略的なパートナーシップ構築の役割として捉え直すことが重要である理由に焦点を当てる。このように視点を変えることで、組織は開発者と有意義な関係を築き、有意義なインパクトをもたらすことができるのです。この講演では、学生や初心者が役割に対する理解や自分のキャリア目標を振り返り、コミュニティの情熱をDevRelのポジションと効果的にマッチングさせるための場を提供します。",
     "category_en": "developer",
-    "second_speaker": "ashwinexe",
+    "second_speaker": "",
     "category_ja": "デベロッパー",
     "show": "",
     "second_speaker_name": "",
@@ -1055,6 +1055,29 @@
     "second_speaker_name": "",
     "youtube": "",
     "audience_level": "beginner",
+    "day": ""
+  },
+  {
+    "id": "c_30",
+    "first_speaker": "ayatokura",
+    "start_time": "",
+    "end_time": "",
+    "track": "",
+    "title_en": "Customer Success Advocate 101",
+    "title_ja": "カスタマーサクセスアドボケート101",
+    "first_speaker_name": "",
+    "video_url": "",
+    "publish_confirmed": "",
+    "material_url": "",
+    "description_en": "In this session, I define \"Customer Success Advocate\" as a person who is covering advocacy activities that focus on the lifecycle of license utilization, from use case proposal by discussion with customers (developers) to deployment, and introduce their importance and role in developer and business ecosystem.",
+    "description_ja": "本セッションでは、顧客（開発者）との議論によるユースケース提案からデプロイまで、ライセンス活用のライフサイクルに着目したアドボカシー活動を行う者を「カスタマーサクセスアドボケート」と定義し、開発者やビジネスのエコシステムにおける重要性と役割を紹介します。",
+    "category_en": "developer",
+    "second_speaker": "",
+    "category_ja": "デベロッパー",
+    "show": "",
+    "second_speaker_name": "",
+    "youtube": "",
+    "audience_level": "middle",
     "day": ""
   }
 ]

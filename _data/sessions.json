@@ -1033,5 +1033,28 @@
     "youtube": "",
     "audience_level": "beginner",
     "day": ""
+  },
+  {
+    "id": "c_29",
+    "first_speaker": "HaimantikaM",
+    "start_time": "",
+    "end_time": "",
+    "track": "",
+    "title_en": "Creating Massive Communities",
+    "title_ja": "マッシブ・コミュニティーの創造",
+    "first_speaker_name": "",
+    "video_url": "",
+    "publish_confirmed": "",
+    "material_url": "",
+    "description_en": "Working with developers, a significant part of our work is to measure the success of the community and build programs that are a win-win, both for the product and for the community. \r\n\r\nEnsuring participation, context switching, and inconsistent updates are some of the common problems while building a community. \r\n\r\nWhile planning and launching a community program is exciting, making it valuable and building it in a way to make it scalable is a considerable challenge.\r\n\r\nIn this talk, we will cover:\r\n- Best practices for building programs\r\n- Community strategy that you can replicate in other programs\r\n- Keeping value and also retaining community members\r\n- How teamwork can do the dream work\r\n- Case Studies - Taking inspiration from other communities\r\n",
+    "description_ja": "開発者とともに、コミュニティの成功を測定し、製品とコミュニティの両方がWin-Winになるようなプログラムを構築することが、私たちの仕事の重要な部分になっています。\n\nコミュニティの構築では、参加者の確保、コンテキストの切り替え、更新の不統一などがよく問題になります。\n\nコミュニティ・プログラムを企画し、立ち上げることはエキサイティングなことですが、それを価値あるものにし、スケーラブルに構築することはかなりのチャレンジです。\n\nこの講演では、以下を取り上げます。\n- プログラム構築のベストプラクティス\n- 他のプログラムでも再現可能なコミュニティ戦略\n- 価値を維持し、コミュニティ・メンバーを確保する\n- チームワークで夢を実現する方法\n- ケーススタディ - 他のコミュニティからインスピレーションを得る",
+    "category_en": "developer",
+    "second_speaker": "",
+    "category_ja": "デベロッパー",
+    "show": "",
+    "second_speaker_name": "",
+    "youtube": "",
+    "audience_level": "beginner",
+    "day": ""
   }
 ]

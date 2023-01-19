@@ -1222,5 +1222,29 @@
     "session_detail_ja": "",
     "session_level": "",
     "visa": ""
+  },
+  {
+    "id": "cheukting_ho",
+    "conference": "con",
+    "name_ja": "Cheuk Ting Ho",
+    "name_en": "Cheuk Ting Ho",
+    "company_ja": "Anaconda",
+    "company_en": "Anaconda",
+    "title_ja": "Developer Advocate",
+    "title_en": "Developer Advocate",
+    "twitter": "cheukting_ho",
+    "profile_ja": "データサイエンスのキャリアを積んだ後、Anacondaの最初の開発者支持者の一人として、データの知識と技術コミュニティへの情熱をもたらしました。Cheukは、毎月複数のイベントで講演を行っています。また、無料のデータサイエンス教育を提供し、オープンソースへの多様な貢献を奨励するイベントを開催しています。",
+    "facebook": "",
+    "github": "Cheukting",
+    "linkedin": "cheukting-ho",
+    "web": "",
+    "instagram": "",
+    "profile_en": "After having a career in data science, Cheuk brought her knowledge of data and passion for the tech community as one of the first developer advocates for Anaconda. Cheuk has been speaking at multiple events per month. Cheuk also organises events which provide free data science education and encourage diverse contributions to open-source.",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": "",
+    "visa": ""
   }
 ]

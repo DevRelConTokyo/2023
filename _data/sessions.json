@@ -1079,5 +1079,28 @@
     "youtube": "",
     "audience_level": "middle",
     "day": ""
+  },
+  {
+    "id": "c_31",
+    "first_speaker": "cheukting_ho",
+    "start_time": "",
+    "end_time": "",
+    "track": "",
+    "title_en": "What’s wrong with Hacktoberfest",
+    "title_ja": "Hacktoberfestの問題点",
+    "first_speaker_name": "",
+    "video_url": "",
+    "publish_confirmed": "",
+    "material_url": "",
+    "description_en": "In this talk, we will briefly introduce Hactoberfest, though not much introduction is needed as it is a well-known event. We will go through some fun facts and the history of Hacktoberfest fest and how it goes from 700 participants to more than 100,000. Then, we will go from why it is good for the open source community and from both the perspective of the contributors and the maintainers.\r\n\r\nAfter that, we will have a switch of tones and looks at the fact that what happened in recent years that problems starts to appear. There are massive numbers of contributions and some of them is not meeting the need of the projects. To put it simply, there are a large number of \"low-quality PRs\" - e.g. meaning less fixing of wordings, formatting etc. Then we are going to explore various solutions, those that the organisers used in the past and the ones that I would like to suggest.\r\n\r\nThis talk is for anyone that cares about open-source contributions and would like to have a healthier community within the open-source ecosystem.\r\n\r\n## Outline (20 mins total)\r\n\r\n- Introduction of Hacktoberfest - history and fun facts (5 mins)\r\n- Why we loved it and why it was a good idea (5 mins)\r\n- Problem arises and how we tried to fix it (5 mins)\r\n- Conclusion, discussion, Q&A (5 mins)",
+    "description_ja": "この講演では、Hacktoberfestについて簡単に紹介しますが、有名なイベントなのであまり紹介する必要はないでしょう。Hacktoberfestの歴史や、700人の参加者から10万人を超える参加者になった経緯など、楽しい事実について説明します。そして、なぜこのイベントがオープンソースコミュニティにとって良いのか、貢献者と保守者の両方の視点から見ていきます。\n\nその後、トーンを変えて、近年何が起きているのか、問題が出始めている事実に目を向けます。膨大な数のコントリビューションがありますが、その中にはプロジェクトのニーズに合っていないものもあります。簡単に言うと、「低品質なPR」が大量にあるのです。例えば、言葉遣いや書式などの修正が少ないということです。そこで、主催者が過去に使用したもの、そして私が提案したいものなど、さまざまな解決策を探っていきます。\n\nこの講演は、オープンソースの貢献について関心を持ち、オープンソースのエコシステムの中でより健全なコミュニティを持ちたいと考えているすべての人のためのものです。\n\n## 概要 (合計20分)\n\n- Hacktoberfest の紹介 - 歴史と楽しい事実 (5分)\n- なぜ私たちはそれが好きなのか、なぜそれが良いアイデアなのか（5分）\n- 問題が発生し、それをどのように解決しようとしたか (5分)\n- 結論、議論、質疑応答 (5分)",
+    "category_en": "developer",
+    "second_speaker": "",
+    "category_ja": "デベロッパー",
+    "show": "",
+    "second_speaker_name": "",
+    "youtube": "",
+    "audience_level": "beginner",
+    "day": ""
   }
 ]

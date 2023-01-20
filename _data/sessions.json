@@ -1102,5 +1102,28 @@
     "youtube": "",
     "audience_level": "beginner",
     "day": ""
+  },
+  {
+    "id": "c_32",
+    "first_speaker": "elijah_zupancic",
+    "start_time": "",
+    "end_time": "",
+    "track": "",
+    "title_en": "It is not what you say, it is who you are ",
+    "title_ja": "何を言うかではなく、誰であるかである。",
+    "first_speaker_name": "",
+    "video_url": "",
+    "publish_confirmed": "",
+    "material_url": "",
+    "description_en": "This session will be broadly relevant not just to those in devrel, but to anyone in sales, marketing, or developer community building.\r\n\r\nThis session will be delivered as a 20-minute talk with slides showing dark patterns used to manipulate developers.\r\n\r\nIdeally, Q&A could be in English and Japanese. I’m open to other formats for this content as well.",
+    "description_ja": "このセッションは、devrel関係者だけでなく、営業、マーケティング、開発者コミュニティの構築など、幅広く関係するものです。\n\nこのセッションは、開発者を操るために使われる闇のパターンをスライドで紹介しながら、20分の講演として行われます。\n\nQ&Aは英語と日本語で行うのが理想的です。このコンテンツは他の形式でも構いません。",
+    "category_en": "developer",
+    "second_speaker": "",
+    "category_ja": "デベロッパー",
+    "show": "",
+    "second_speaker_name": "",
+    "youtube": "",
+    "audience_level": "new",
+    "day": ""
   }
 ]

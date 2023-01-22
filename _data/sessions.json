@@ -1140,13 +1140,13 @@
     "material_url": "",
     "description_en": "Content:\r\n1. What do most DevRels try to achieve in their regular job? [2mins]\r\n2. Why students are better developers than the experienced developers? [4mins]\r\n3. Does targeting student audience achieve the same goal as targeting the Developers? [2mins]\r\n4. Key Takeaways that students offer compared to any other audience? [4mins]\r\n5. How to leverage the student audience for advocacy [4mins]\r\n6. QnAs [4mins]",
     "description_ja": "内容です。\n1. 多くのDevRelが普段の仕事で心がけていることとは？[2分］\n2. なぜ経験豊富な開発者よりも学生の方が良い開発者なのか？[4分] 3.\n3. 学生をターゲットにすることは、開発者をターゲットにすることと同じ目的を達成するのでしょうか？[2分］\n4. 他のオーディエンスと比較して、学生が提供する重要なポイントとは？[4分] 5.\n5. アドボカシーのために学生オーディエンスを活用する方法 [4mins] 5.\n6. QnAs [4分] 6.",
-    "category_en": "",
+    "category_en": "developer",
     "second_speaker": "",
-    "category_ja": "",
+    "category_ja": "デベロッパー",
     "show": "",
     "second_speaker_name": "",
     "youtube": "",
-    "audience_level": "",
+    "audience_level": "beginner",
     "day": ""
   }
 ]

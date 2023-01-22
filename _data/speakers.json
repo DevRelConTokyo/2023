@@ -1270,5 +1270,29 @@
     "session_detail_ja": "",
     "session_level": "",
     "visa": ""
+  },
+  {
+    "id": "mustafasaifee_",
+    "conference": "con",
+    "name_ja": "Mustafa Saifee",
+    "name_en": "Mustafa Saifee",
+    "company_ja": "Amazon Web Services",
+    "company_en": "Amazon Web Services",
+    "title_ja": "Student Developer Advocate at AWS",
+    "title_en": "Student Developer Advocate at AWS",
+    "twitter": "mustafasaifee_",
+    "profile_ja": "",
+    "facebook": "",
+    "github": "saifeemustafaq",
+    "linkedin": "saifeemustafa",
+    "web": "",
+    "instagram": "mustafasaifee_",
+    "profile_en": "Student Developer Advocate at AWS",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": "",
+    "visa": ""
   }
 ]

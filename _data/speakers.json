@@ -1270,5 +1270,29 @@
     "session_detail_ja": "",
     "session_level": "",
     "visa": ""
+  },
+  {
+    "id": "javabster",
+    "conference": "con",
+    "name_ja": "Abby Mitchell",
+    "name_en": "Abby Mitchell",
+    "company_ja": "IBM Quantum",
+    "company_en": "IBM Quantum",
+    "title_ja": "Developer Advocate",
+    "title_en": "Developer Advocate",
+    "twitter": "javabster",
+    "profile_ja": "私は2019年にフルスタックのWeb開発者としてIBMに入社した後、2021年3月にQuantum Developer Advocateになりました。現在は、量子コンピュータのための IBM のオープンソース SDK、Qiskit に取り組んでいます。主に独学で学んだ開発者と量子愛好家として、私はどんな背景を持つ人々にも技術への興味を追求するよう奨励することに情熱を注いでいます。講演や執筆のお問い合わせは、お気軽にご連絡ください。",
+    "facebook": "",
+    "github": "javabster",
+    "linkedin": "abby-mitchell",
+    "web": "",
+    "instagram": "",
+    "profile_en": "I joined IBM in 2019 as a full stack web developer before becoming a Quantum Developer Advocate in March 2021. I'm currently working on Qiskit, IBM’s Open Source SDK for Quantum Computers. As a primarily self taught developer and quantum enthusiast I'm passionate about encouraging people from any background to pursue their interest in technology. Please don't hesitate to reach out with speaking or writing enquiries",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": "",
+    "visa": ""
   }
 ]

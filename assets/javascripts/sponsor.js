@@ -1,10 +1,9 @@
-const ncmb = new NCMB('fff52c69eb36fcb1ca582fcf4f4c22f5698ca6a75df82296fa45f09c82688403', 'b6dcec84182a84f88c18d882713395c171e1b3b82717411f0b6b004858db8ff2');
 $(() => {
 	const category = $.url('?category');
 	if (category) {
 		$('[name="category"]').val([category]);
 	}
-	$('form#contact').on('submit', async e => {
+	$('form#sponsor').on('submit', async e => {
 		e.preventDefault();
 		const form = $(e.target);
 		const params = {};

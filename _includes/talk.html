@@ -1,8 +1,8 @@
 {% assign person = include.person %}
 {% if page.type == 'speaker' %}
-	{% assign session = site.data.sessions | where: "speaker_id", speaker.id %}
+	{% assign session = site.data.sessions | where: "first_speaker", person.id %}
 	{% if !session %}
-		{% assign session = site.data.sessions | where: "speaker2_id", speaker.id %}
+		{% assign session = site.data.sessions | where: "second_speaker", person.id %}
 	{% endif %}
 	{% assign session = session[0] %}
 	{% if person.interview_url != "" %}
@@ -17,16 +17,23 @@
 			</div>
 		</div>
 	{% endif %}
-	<div class="grey-bg" style="padding-top:70px;padding-bottom:70px;">
-		<div class="container">
-			<div class="col-lg-12">
-				<h2 class="red-text mb-4">
-					{% if session != nil %}{{ session.title_en }}{% else %}TBD{% endif %}
-				</h2>
-				<!-- <h3>Talk description</h3> -->
-				<p>
-					{% if session != nil %}{{ session.description_en | markdownify }}{% endif %}
+	{% if session != nil %}
+		<div class="grey-bg" style="padding-top:70px;padding-bottom:70px;">
+			<div class="container">
+				<div class="col-lg-12">
+					<h2 class="red-text mb-4">
+						<span class="lang-en">{{ session.title_en }}</span>
+						<span class="lang-ja">{{ session.title_ja }}</span>
+					</h2>
+					<!-- <h3>Talk description</h3> -->
+					<div class="lang-en">
+						{{ session.description_en | markdownify }}
+					</div>
+					<div class="lang-ja">
+						{{ session.description_ja | markdownify }}
+					</div>
+				</div>
 			</div>
 		</div>
-	</div>
+	{% endif %}
 {% endif %}

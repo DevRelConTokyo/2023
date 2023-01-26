@@ -1270,5 +1270,29 @@
     "session_detail_ja": "",
     "session_level": "",
     "visa": ""
+  },
+  {
+    "id": "harshil1712",
+    "conference": "con",
+    "name_ja": "Harshil Agrawal",
+    "name_en": "Harshil Agrawal",
+    "company_ja": "Contentful",
+    "company_en": "Contentful",
+    "title_ja": "Developer Advocate",
+    "title_en": "Developer Advocate",
+    "twitter": "harshil1712",
+    "profile_ja": "Contentfulのデベロッパーリレーションズチームで働くHarshilは、自分の学んだことをコミュニティと共有することを楽しんでいます。JavaScript 開発者、オープンソース貢献者、ローコード愛好家であり、技術的な実験や小さなプロジェクトを構築することが大好きです。",
+    "facebook": "",
+    "github": "harshil1712",
+    "linkedin": "harshil1712",
+    "web": "",
+    "instagram": "",
+    "profile_en": "Working in the Developer Relations team at Contentful, Harshil enjoys sharing his learnings with the community. A JavaScript developer, open-source contributor, and a low-code enthusiast, Harshil loves experimenting with tech and building small projects.",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": "",
+    "visa": ""
   }
 ]

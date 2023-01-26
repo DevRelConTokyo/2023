@@ -1,7 +1,7 @@
 {% assign person = include.person %}
 {% if page.type == 'speaker' %}
 	{% assign session = site.data.sessions | where: "first_speaker", person.id %}
-	{% if !session %}
+	{% if session.size == 0 %}
 		{% assign session = site.data.sessions | where: "second_speaker", person.id %}
 	{% endif %}
 	{% assign session = session[0] %}

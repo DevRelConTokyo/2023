@@ -24,6 +24,18 @@
     "size": "3"
   },
   {
+    "id": "ekispert",
+    "type": "hiring",
+    "label_ja": "ハイアリング",
+    "label_en": "Hiring",
+    "name_ja": "駅すぱあとWebサービス",
+    "name_en": "Ekispert Web Service",
+    "url_ja": "https://api-info.ekispert.com/",
+    "url_en": "https://api-info.ekispert.com/",
+    "image": "https://drive.google.com/uc?id=1QEpMmOJ11VZ3cLcppMDO844mj22pGCIm",
+    "size": "3"
+  },
+  {
     "id": "ayatokura",
     "type": "personal",
     "label_ja": "個人",
@@ -58,5 +70,17 @@
     "url_en": "",
     "image": "",
     "size": ""
+  },
+  {
+    "id": "codezine",
+    "type": "media",
+    "label_ja": "メディア",
+    "label_en": "Media",
+    "name_ja": "CodeZine",
+    "name_en": "CodeZine",
+    "url_ja": "",
+    "url_en": "",
+    "image": "https://drive.google.com/uc?id=1JEHb6Z5A9_lO1uZSXT1KOUyvzN1GgPld",
+    "size": "2"
   }
 ]

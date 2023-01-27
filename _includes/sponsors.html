@@ -38,7 +38,7 @@
       </div>
       <div class="row justify-content-center">
         {% assign sponsors = site.data.sponsors | where: "type", "personal" %}
-        {% for sponsor in site.data.sponsors %}
+        {% for sponsor in sponsors %}
           <div class="col-3 text-center">
             <span class="lang-en">{{ sponsor.name_en }}</span>
             <span class="lang-ja">{{ sponsor.name_ja }}</span>

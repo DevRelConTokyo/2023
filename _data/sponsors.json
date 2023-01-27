@@ -12,6 +12,18 @@
     "size": "3"
   },
   {
+    "id": "people",
+    "type": "hiring",
+    "label_ja": "ハイアリング",
+    "label_en": "Hiring",
+    "name_ja": "ピープルソフトウェア株式会社",
+    "name_en": "PEOPLE SOFTWARE CORPORATION",
+    "url_ja": "https://pscsrv.co.jp/",
+    "url_en": "https://pscsrv.co.jp/en/",
+    "image": "https://drive.google.com/uc?id=1sTkhGaNWVN1RAXO-llZhydiM-CscudWg",
+    "size": "2"
+  },
+  {
     "id": "ayatokura",
     "type": "personal",
     "label_ja": "個人",

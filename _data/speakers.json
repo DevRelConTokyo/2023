@@ -1350,28 +1350,28 @@
     "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/virtualized6ix.jpg"
   },
   {
-    "id": "",
-    "conference": "",
+    "id": "sushrutkm",
+    "conference": "con",
     "name_ja": "Sushrut Mishra",
     "name_en": "Sushrut Mishra",
     "company_ja": "Fountane",
     "company_en": "Fountane",
-    "title_ja": "",
-    "title_en": "",
-    "twitter": "",
+    "title_ja": "Community Manager",
+    "title_en": "Community Manager",
+    "twitter": "sushrutkm",
     "profile_ja": "",
     "facebook": "",
     "github": "sushrutm",
     "linkedin": "sushrutkm",
     "web": "",
     "instagram": "sushrutkm",
-    "profile_en": "Community Manager",
+    "profile_en": "",
     "interview_url": "",
-    "photo": "",
+    "photo": "https://drive.google.com/uc?id=1rb8cumvKPgjg1g4QCmtH_CSXQfcbd9w2",
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": "",
     "visa": "",
-    "ogp": ""
+    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/sushrutkm.jpg"
   }
 ]

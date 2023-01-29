@@ -94,5 +94,17 @@
     "url_en": "https://thinkit.co.jp/",
     "image": "https://drive.google.com/uc?id=12p82LVMg-yPvZgM7JJXcJoF6K5tLx7Rm",
     "size": "2"
+  },
+  {
+    "id": "tomoaki",
+    "type": "personal",
+    "label_ja": "個人",
+    "label_en": "personal",
+    "name_ja": "Tomoaki Sekiya ",
+    "name_en": "Tomoaki Sekiya ",
+    "url_ja": "",
+    "url_en": "",
+    "image": "",
+    "size": ""
   }
 ]

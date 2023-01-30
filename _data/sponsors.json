@@ -48,6 +48,42 @@
     "size": "3"
   },
   {
+    "id": "codezine",
+    "type": "media",
+    "label_ja": "メディア",
+    "label_en": "Media",
+    "name_ja": "CodeZine",
+    "name_en": "CodeZine",
+    "url_ja": "https://codezine.jp",
+    "url_en": "https://codezine.jp",
+    "image": "https://drive.google.com/uc?id=1Ybp0CWF2Fm98gf98IEUiqwUIdfLaRMfc",
+    "size": "2"
+  },
+  {
+    "id": "thinkit",
+    "type": "media",
+    "label_ja": "メディア",
+    "label_en": "Media",
+    "name_ja": "ThinkIT",
+    "name_en": "ThinkIT",
+    "url_ja": "https://thinkit.co.jp/",
+    "url_en": "https://thinkit.co.jp/",
+    "image": "https://drive.google.com/uc?id=12p82LVMg-yPvZgM7JJXcJoF6K5tLx7Rm",
+    "size": "2"
+  },
+  {
+    "id": "techfeed",
+    "type": "media",
+    "label_ja": "メディア",
+    "label_en": "Media",
+    "name_ja": "TechFeed",
+    "name_en": "TechFeed",
+    "url_ja": "https://techfeed.io/",
+    "url_en": "https://techfeed.io/",
+    "image": "https://drive.google.com/uc?id=1C5CJT-lLt5bwUwIjZ6Tz9Kz-wg2jkO_t",
+    "size": "2"
+  },
+  {
     "id": "ayatokura",
     "type": "personal",
     "label_ja": "個人",
@@ -82,30 +118,6 @@
     "url_en": "",
     "image": "",
     "size": ""
-  },
-  {
-    "id": "codezine",
-    "type": "media",
-    "label_ja": "メディア",
-    "label_en": "Media",
-    "name_ja": "CodeZine",
-    "name_en": "CodeZine",
-    "url_ja": "https://codezine.jp",
-    "url_en": "https://codezine.jp",
-    "image": "https://drive.google.com/uc?id=1Ybp0CWF2Fm98gf98IEUiqwUIdfLaRMfc",
-    "size": "2"
-  },
-  {
-    "id": "thinkit",
-    "type": "media",
-    "label_ja": "メディア",
-    "label_en": "Media",
-    "name_ja": "ThinkIT",
-    "name_en": "ThinkIT",
-    "url_ja": "https://thinkit.co.jp/",
-    "url_en": "https://thinkit.co.jp/",
-    "image": "https://drive.google.com/uc?id=12p82LVMg-yPvZgM7JJXcJoF6K5tLx7Rm",
-    "size": "2"
   },
   {
     "id": "tomoaki",

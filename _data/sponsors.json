@@ -12,6 +12,18 @@
     "size": "4"
   },
   {
+    "id": "linux",
+    "type": "booth",
+    "label_ja": "ブース",
+    "label_en": "Booth",
+    "name_ja": "ザ リナックス ファウンデーション",
+    "name_en": "The Linux Foundation",
+    "url_ja": "https://training.linuxfoundation.org/ja/",
+    "url_en": "https://training.linuxfoundation.org/",
+    "image": "https://drive.google.com/uc?id=1TWZSBmi4zHCdWV_vbDf7eYoeywX8u4iX",
+    "size": "4"
+  },
+  {
     "id": "people",
     "type": "hiring",
     "label_ja": "ハイアリング",

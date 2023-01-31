@@ -24,6 +24,18 @@
     "size": "4"
   },
   {
+    "id": "findy",
+    "type": "booth",
+    "label_ja": "ブース",
+    "label_en": "Booth",
+    "name_ja": "ファインディ株式会社",
+    "name_en": "Findy Inc.",
+    "url_ja": "https://findy.co.jp/",
+    "url_en": "https://findy-jobs.io/",
+    "image": "https://drive.google.com/uc?id=1INme9CFUBv5GMH-vSoeXvz5Za8HSqIPj",
+    "size": "4"
+  },
+  {
     "id": "people",
     "type": "hiring",
     "label_ja": "ハイアリング",

@@ -1271,7 +1271,7 @@
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": "",
-    "visa": "",
+    "visa": "不要",
     "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/javabster.jpg"
   },
   {
@@ -1296,7 +1296,7 @@
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": "",
-    "visa": "",
+    "visa": "必要",
     "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/harshil1712.jpg"
   },
   {
@@ -1321,7 +1321,7 @@
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": "",
-    "visa": "",
+    "visa": "不要",
     "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/virtualized6ix.jpg"
   }
 ]

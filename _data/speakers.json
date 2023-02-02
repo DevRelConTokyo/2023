@@ -425,7 +425,7 @@
     "ogp": "https://devrel.tokyo/japan-2023/image/ogp/hcrane14.jpg"
   },
   {
-    "id": "_katsumi",
+    "id": "katsumi",
     "conference": "japan",
     "name_ja": "高橋 克己",
     "name_en": "",
@@ -447,7 +447,7 @@
     "session_detail_ja": "",
     "session_level": "",
     "visa": "",
-    "ogp": "https://devrel.tokyo/japan-2023/image/ogp/_katsumi.jpg"
+    "ogp": "https://devrel.tokyo/japan-2023/image/ogp/katsumi.jpg"
   },
   {
     "id": "Yfuru2454",
@@ -766,7 +766,7 @@
     "web": "",
     "instagram": "",
     "profile_en": "Jagu'e'r Evangelist and Jagu'e'r Leader. Jagu'e'r stands for ‘Japan Google Cloud User-Group for Enterprise’, where he is recognized as a life-changer with his interactions. Currently he works in Sysmex Corporation. ",
-    "interview_url": "",
+    "interview_url": "https://youtu.be/Kuf00iXRSsI",
     "photo": "https://drive.google.com/uc?id=1R4Y8ml50CQALds2B_lz5gOh7M68O_nYN",
     "session_title_ja": "",
     "session_detail_ja": "",
@@ -1016,7 +1016,7 @@
     "web": "",
     "instagram": "",
     "profile_en": "Carla has been managing events and Communities since 2011. She started with experimental music festivals and eventually ended up in Tech, where she fell in love with its Community. During her career she has produced and run many conferences (yes, also the virtual ones!), meetups, webinars and hackathons.\r\nShe currently heads the Content, Events & Community Department at Container Solutions, driving and implementing the content and event strategy around the WTF is Cloud Native brand, the Software Circus community as well as all Container Solutions’ marketing campaigns. She is also one of the co-founders of the Flyless.dev meetup, an OpenUK Ambassador and the current CNCF Marketing Committee Chair.\r\nCarla drinks way too much tea (mainly green), has an unhealthy obsession for Japan and a big passion for art, music, cinema, philosophy and fashion.\r\nPronoun is She/Her, most of the time.",
-    "interview_url": "",
+    "interview_url": "https://youtu.be/NUP98fkBV2s",
     "photo": "https://drive.google.com/uc?id=1xinseAULp7HB-_7DwsF4p9x6CCn04tzh",
     "session_title_ja": "",
     "session_detail_ja": "",
@@ -1041,7 +1041,7 @@
     "web": "",
     "instagram": "",
     "profile_en": "Jade currently heads up the Marketing team at Container Solutions, a global Cloud Native Transformation consultancy, and the talented team behind ‘WTF is Cloud Native?’\r\nShe’s an internationally award-winning creative with hands-on experience in building, mentoring and empowering teams, while developing business-driven strategies as well as digital, social, and integrated ideas.\r\n“As creative problem solvers, we have the power to change the world, and we can change it for the better.” Jade believes the world is changed by big ideas and people brave enough to bring them to life.",
-    "interview_url": "",
+    "interview_url": "https://youtu.be/NUP98fkBV2s",
     "photo": "https://drive.google.com/uc?id=18W2R5p3NkAkGqAIjEFokzjDpQz1zZ0B5",
     "session_title_ja": "",
     "session_detail_ja": "",

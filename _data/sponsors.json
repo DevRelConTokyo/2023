@@ -142,5 +142,17 @@
     "url_en": "",
     "image": "",
     "size": ""
+  },
+  {
+    "id": "tseigo",
+    "type": "personal",
+    "label_ja": "個人",
+    "label_en": "personal",
+    "name_ja": "田中 正吾",
+    "name_en": "Seigo Tanaka",
+    "url_ja": "",
+    "url_en": "",
+    "image": "",
+    "size": ""
   }
 ]

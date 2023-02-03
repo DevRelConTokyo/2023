@@ -1323,5 +1323,30 @@
     "session_level": "",
     "visa": "不要",
     "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/virtualized6ix.jpg"
+  },
+  {
+    "id": "DevWithTheHair",
+    "conference": "con",
+    "name_ja": "Jaime Lopez Jr",
+    "name_en": "Jaime Lopez Jr",
+    "company_ja": "Jack Henry",
+    "company_en": "Jack Henry",
+    "title_ja": "Manager of Developer Relations",
+    "title_en": "Manager of Developer Relations",
+    "twitter": "DevWithTheHair",
+    "profile_ja": "Jack Henry & Associatesで、オープンバンキングAPIに取り組むデベロッパーリレーションズチームを統括しています。提唱者になる前は、キャリアを通じて複数のソフトウェア開発チームを率いていました。また、More Than Just Codeポッドキャストの共同司会者でもあります。また、More Than Just Codeポッドキャストの共同司会者でもあり、おいしいコーヒーとさまざまなトピックについての会話を楽しんでいます。",
+    "facebook": "",
+    "github": "DevWithTheHair",
+    "linkedin": "jaime-lopez-jr-247b968",
+    "web": "",
+    "instagram": "",
+    "profile_en": "Jaime manages a Developer Relations team working on open banking APIs at Jack Henry & Associates. Prior to becoming an advocate, he led multiple software development teams throughout his career. Jaime is also a co-host of the More Than Just Code podcast. He often enjoys a nice cup of coffee and conversation on various topics.",
+    "interview_url": "",
+    "photo": "https://drive.google.com/uc?id=1AxzBnQmGKIRflU3SkiECkspY7-rkEO8d",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": "",
+    "visa": "",
+    "ogp": ""
   }
 ]

@@ -1348,5 +1348,30 @@
     "session_level": "",
     "visa": "不要",
     "ogp": ""
+  },
+  {
+    "id": "ukmadlz",
+    "conference": "con",
+    "name_ja": "Mike Elsmore",
+    "name_en": "Mike Elsmore",
+    "company_ja": "Infobip",
+    "company_en": "Infobip",
+    "title_ja": "Senior Developer Advocate",
+    "title_en": "Senior Developer Advocate",
+    "twitter": "ukmadlz",
+    "profile_ja": "マイクは10年以上にわたってインターネット上でカオスを引き起こし、多くのことが起こるのを目撃してきました（そして時にはそれを助けてきました）。彼は、オープンに構築し、学び、その過程で得たものをストリームやその他の手段で共有することが好きです。",
+    "facebook": "",
+    "github": "ukmadlz",
+    "linkedin": "mikeelsmore",
+    "web": "",
+    "instagram": "",
+    "profile_en": "Mike has been causing chaos on the internet for more than a decade, he’s been around to see a lot happen (and sometimes help it along). He loves building and learning in the open and sharing what he gains along the way via streams and other means.",
+    "interview_url": "",
+    "photo": "",
+    "session_title_ja": "",
+    "session_detail_ja": "",
+    "session_level": "",
+    "visa": "",
+    "ogp": ""
   }
 ]

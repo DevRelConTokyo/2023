@@ -36,6 +36,18 @@
     "size": "4"
   },
   {
+    "id": "github",
+    "type": "booth",
+    "label_ja": "ブース",
+    "label_en": "Booth",
+    "name_ja": "GitHub",
+    "name_en": "GitHub",
+    "url_ja": "https://github.com/",
+    "url_en": "https://github.com/",
+    "image": "https://drive.google.com/uc?id=1topE8bQPR9D5JRsR0VndBWj_40QuT--P",
+    "size": "4"
+  },
+  {
     "id": "people",
     "type": "hiring",
     "label_ja": "ハイアリング",

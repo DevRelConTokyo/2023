@@ -1,0 +1,52 @@
+<!-- ================================================
+
+  Sponsors
+
+==================================================-->
+<div class="Visible">
+  <div id="job"></div>
+  <div class="sponsor-wrapper">
+    <div class="container" style="position:relative;">
+      <div class="title-block">
+        <h1 class="bold red-text lang-en">Job board</h1>
+        <h1 class="bold red-text lang-ja">ジョブボード</h1>
+        <p class="lang-en"><strong>
+					Job opportunities provided by companies supporting DevRelCon Yokohama 2023.
+				</strong></p>
+        <p class="lang-ja"><strong>
+					DevRelCon Yokohama 2023をサポートしてくれている企業による求人情報です
+				</strong></p>
+      </div>
+      <div class="row justify-content-center">
+        {% for job in site.data.jobs %}
+					{% assign company = site.data.sponsors | where: "id", job.company %}
+					{% assign company = company[0] %}
+					<div class="col-9">
+						<div class="row">
+							<div class="col-2">
+								<a href="{{ job.url_ja }}" target="_blank" rel="noopener noreferrer" class="lang-ja">
+									<img src="{{ company.image }}" alt="{{ company.name_ja }}">
+								</a>
+								<a href="{{ job.url_en }}" target="_blank" rel="noopener noreferrer" class="lang-en">
+									<img src="{{ company.image }}" alt="{{ company.name_en }}">
+								</a>
+							</div>
+							<div class="col-10 text-left">
+								<h4 style="color:navy; text-decoration: underline;">
+									<a href="{{ job.url_ja }}" target="_blank" rel="noopener noreferrer" class="lang-ja">
+										{{ job.title_ja }}
+									</a>
+									<a href="{{ job.url_en }}" target="_blank" rel="noopener noreferrer" class="lang-en">
+										{{ job.title_ja }}
+									</a>
+								</h4>
+								<p class="lang-en" style="color: #555">{{ job.description_en }}</p>
+								<p class="lang-ja" style="color: #555">{{ job.description_ja }}</p>
+							</div>
+						</div>
+					</div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

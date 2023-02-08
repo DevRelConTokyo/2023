@@ -2,6 +2,7 @@
 layout: post
 title:  "DevRelCon Yokohama 2023 - Where is Yokohama?"
 date:   2023-02-07 17:00:00 +0900
+lang: en
 categories: devrelcon
 ---
 

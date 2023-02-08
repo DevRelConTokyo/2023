@@ -1,8 +1,12 @@
 const getLang = () => {
-	if ($.url('?lang')) {
-		return $.url('?lang');
+	try {
+		if ($.url('?lang')) {
+			return $.url('?lang');
+		}
+		return navigator.language.split('-')[0];
+	} catch (e) {
+		return 'en';
 	}
-	return navigator.language.split('-')[0];
 };
 
 $(() => {

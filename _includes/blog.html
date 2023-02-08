@@ -1,0 +1,26 @@
+<div class="Visible">
+	<div class="container" style="position: relative;">
+		<div id="blog"></div>
+		<div class="title-block White">
+			<h1 class="bold red-text lang-en">Blog</h1>
+			<h1 class="bold red-text lang-ja">ブログ</h1>
+			<p></p>
+			<p>
+				<div class="lang-en">Here's what you need to know to enjoy the conference even more!</div>
+				<div class="lang-ja">カンファレンスをより楽しむための情報をお届けします！</div>
+			</p>
+		</div>
+	</div>
+
+	<div class="speaker-wrapper White">
+		<div class="container">
+			<div class="row d-flex justify-content-center">
+				{% for post in site.posts %}
+					<div class="col-9 lang-{{ post.lang }}">
+						🕒 {{ post.date | date_to_string }} <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+					</div>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+</div>

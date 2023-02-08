@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+	{% include head.html %}
+	<body>
+		{% include navigation2.html %}
+		<div class="intro">
+			<div class="container">
+				<div class="row d-flex justify-content-center" style="padding-bottom:50px;">
+					<div class="col-lg-8">
+						<h1>{{ page.title }}</h1>
+					</div>
+					<div class="col-lg-8">
+						{{ content | markdownify }}
+					</div>
+				</div>
+			</div>
+		</div>
+		{% include footer.html %}
+		{% include script.html %}
+		<style>
+			p {
+				line-height: 1.5em;
+				font-size: larger;
+			}
+		</style>
+	</body>
+</html>

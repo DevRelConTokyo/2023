@@ -60,6 +60,18 @@
     "size": "4"
   },
   {
+    "id": "hexabase",
+    "type": "booth",
+    "label_ja": "ブース",
+    "label_en": "Booth",
+    "name_ja": "Hexabase",
+    "name_en": "Hexabase",
+    "url_ja": "https://hexabase.com/",
+    "url_en": "https://hexabase.com/",
+    "image": "https://drive.google.com/uc?id=1P9y6fCxEAn878rB4peG3_PggImPfXNQ-",
+    "size": "4"
+  },
+  {
     "id": "people",
     "type": "hiring",
     "label_ja": "ハイアリング",

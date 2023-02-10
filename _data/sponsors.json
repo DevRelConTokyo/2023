@@ -1,5 +1,17 @@
 [
   {
+    "id": "suntory",
+    "type": "track",
+    "label_ja": "トラック",
+    "label_en": "Track",
+    "name_ja": "サントリー",
+    "name_en": "SUNTORY",
+    "url_ja": "https://www.suntory.com/?fromid=top",
+    "url_en": "https://www.suntory.com/?fromid=top",
+    "image": "https://drive.google.com/uc?id=19C7NVSXa-YYOaUJcgNmDT5JV1GFy6z1K",
+    "size": "6"
+  },
+  {
     "id": "magicpod",
     "type": "booth",
     "label_ja": "ブース",

@@ -190,5 +190,29 @@
     "url_en": "",
     "image": "",
     "size": ""
+  },
+  {
+    "id": "hiraoka",
+    "type": "personal",
+    "label_ja": "個人",
+    "label_en": "personal",
+    "name_ja": "Daisuke Hiraoka",
+    "name_en": "Daisuke Hiraoka",
+    "url_ja": "",
+    "url_en": "",
+    "image": "",
+    "size": ""
+  },
+  {
+    "id": "jbug",
+    "type": "community",
+    "label_ja": "コミュニティ",
+    "label_en": "Community",
+    "name_ja": "JBUG（ジェイバグ）",
+    "name_en": "JBUG",
+    "url_ja": "https://jbug.connpass.com/",
+    "url_en": "https://jbug.connpass.com/",
+    "image": "https://drive.google.com/uc?id=1sPQEliak-jRutKHiYW0ydqvEJM3l_tPY",
+    "size": ""
   }
 ]

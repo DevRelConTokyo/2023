@@ -72,6 +72,18 @@
     "size": "4"
   },
   {
+    "id": "engineercafe",
+    "type": "booth",
+    "label_ja": "ブース",
+    "label_en": "Booth",
+    "name_ja": "エンジニアカフェ",
+    "name_en": "Engineer Cafe",
+    "url_ja": "https://engineercafe.jp/",
+    "url_en": "https://engineercafe.jp/",
+    "image": "https://drive.google.com/uc?id=1PydpkXXXEaqz1rGWA1WFn5mbFag15wyd",
+    "size": "4"
+  },
+  {
     "id": "people",
     "type": "hiring",
     "label_ja": "ハイアリング",

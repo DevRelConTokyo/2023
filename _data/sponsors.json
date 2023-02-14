@@ -84,6 +84,18 @@
     "size": "4"
   },
   {
+    "id": "kuroco",
+    "type": "workshop",
+    "label_ja": "ワークショップ",
+    "label_en": "Workshop",
+    "name_ja": "Kuroco",
+    "name_en": "Kuroco",
+    "url_ja": "https://kuroco.app/",
+    "url_en": "https://kuroco.app/",
+    "image": "https://drive.google.com/uc?id=1Oiky75YYASX8c9vxqyQQbsDGrphpwWSZ",
+    "size": "4"
+  },
+  {
     "id": "people",
     "type": "hiring",
     "label_ja": "ハイアリング",

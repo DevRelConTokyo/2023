@@ -1272,27 +1272,27 @@
     "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/ukmadlz.jpg"
   },
   {
-    "id": "neri78",
+    "id": "taiponrock",
     "conference": "con",
     "name_ja": "Taiji Hagino",
     "name_en": "Taiji Hagino",
     "company_ja": "Datadog",
-    "company_en": "Twilio",
-    "title_ja": "Developer Evangelist",
-    "title_en": "Developer Evangelist",
+    "company_en": "Datadog",
+    "title_ja": "Senior Technical Advocate",
+    "title_en": "Senior Technical Advocate",
     "twitter": "taiponrock",
-    "profile_ja": "DaizenはTwilioのデベロッパーエバンジェリストとして東京に住んでいます。.NET開発者としてキャリアをスタートし、その後10年以上ユーザーインターフェース業界で開発者サポートエンジニア、プリセールスエンジニア、プロダクトマーケティングなど様々な役割を担ってきました。開発者と一緒に行動し、彼らにサービスを提供することが大好きです。\n\nオフタイムには、長い散歩をするのが好きです。山手線を何度か一周したことがあるのですが、毎回40kmはかかります。「npx neri78」を実行すると、彼の連絡先を見つけることができます。",
-    "facebook": "",
+    "profile_ja": "DatadogのSenior Technical Advocate\n\n元美容師で元音楽家。ソフトウェアエンジニアへ転身後、受託開発やパッケージ開発を経て有限会社アキュレートシステムを起業。その後、技術者へリーチしたマーケティング、DevRel（Developer Relations）の道へシフトし、MKI（三井情報）では初のTechnical Evangelistとなる。その経験を活かしIBMではDeveloper Advocate Tokyo Teamの立ち上げをリード。OutSystemsではLead Developer Community Advocateとして活躍。筑波大学情報学群にて非常勤講師も務める。\n\nMicrosoft MVP (2017-2019)\n\n著書に「はじめてのNode-RED」「Node-RED活用マニュアル」「Practical Node-RED Programming」「開発者マーケティング DevRel Q&A」「英語で広がる開発者のキャリア」など",
+    "facebook": "taiponrock",
     "github": "taijihagino",
     "linkedin": "taiponrock",
     "web": "",
     "instagram": "taiponrock",
-    "profile_en": "Daizen is a developer evangelist for Twilio living in Tokyo, Japan. He started his career as a .NET developer, and then he spent more than a decade in the User Interface industry with various roles such as developer support engineer, pre-sales engineer, product marketing. He loves hanging around with developers and serving them. \r\n\r\nDuring the off-time, he loves to take long walks. He has circled the Yamanote-line a few times, that it takes 40 km each time. You can find his contact information by running \"npx neri78\".",
+    "profile_en": "Senior Technical Advocate at Datadog\n\nAfter becoming a software engineer, Taiji  started Accurate System Ltd. with his various experiences. After that, he changed his career to DevRel (Developer Relations), a marketing approach to engineers. He became the MKI(Mitsui Knowledge Industry)'s first Technical Evangelist. Then he moved to IBM, and led establishing Developer Advocate Tokyo Team. His previous work is also DevRel as Lead Developer Community Advocate at OutSystems. \nTaiji also works as a lecturer at the Faculty of Informatics, University of Tsukuba.\nPreviously a musician, and a hairdresser.\n\nMicrosoft MVP(2017-2019)\n\nHis authors include \"Developer Marketing DevRel Q&A\" (Impress R&D), \"Hajimete-no Node-RED\", \"Jissen Node-RED Katsuyou Manual\" (Kogakusha), \"Practical Node-RED Programming\" (Packt), etc. ",
     "interview_url": "",
-    "photo": "https://drive.google.com/uc?id=1XovLwVZvbQAPeGO9RI-oHUoNDcWXyquo",
+    "photo": "https://drive.google.com/uc?id=1ymWZOU2US0VxS1q5wW62HevrxugFvx-N",
     "session_title_ja": "",
     "session_detail_ja": "",
     "session_level": "",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/neri78.jpg"
+    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/taiponrock.jpg"
   }
 ]

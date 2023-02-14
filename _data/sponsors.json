@@ -214,5 +214,29 @@
     "url_en": "https://jbug.connpass.com/",
     "image": "https://drive.google.com/uc?id=1sPQEliak-jRutKHiYW0ydqvEJM3l_tPY",
     "size": ""
+  },
+  {
+    "id": "ossph",
+    "type": "community",
+    "label_ja": "コミュニティ",
+    "label_en": "Community",
+    "name_ja": "OSSPH",
+    "name_en": "OSSPH",
+    "url_ja": "https://ossph.org",
+    "url_en": "https://ossph.org",
+    "image": "https://drive.google.com/uc?id=1x9nsKoSdBJASSh0TmskvKRKUp_rQjkyz",
+    "size": ""
+  },
+  {
+    "id": "jaguer",
+    "type": "community",
+    "label_ja": "コミュニティ",
+    "label_en": "Community",
+    "name_ja": "Jagu'e'r ",
+    "name_en": "Jagu'e'r ",
+    "url_ja": "https://jaguer.jp/",
+    "url_en": "https://jaguer.jp/",
+    "image": "https://drive.google.com/uc?id=1l4GjhOU9RD7ovWuEaQYYf7b6Esu7pYYk",
+    "size": ""
   }
 ]

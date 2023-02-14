@@ -45,6 +45,27 @@
           </div>
         {% endfor %}
       </div>
+      <div class="title-block">
+        <h3 class="bold red-text lang-en">Community friendship</h3>
+        <h3 class="bold red-text lang-ja">コミュニティフレンドシップ</h3>
+      </div>
+      <div class="row">
+        {% assign sponsors = site.data.sponsors | where: "type", "community" %}
+        {% for sponsor in sponsors %}
+          <div class="col-2 text-center">
+            <a href="{{ sponsor.url_en }}" class="lang-en" target="_blank">
+              <img src="{{ sponsor.image }}">
+            </a>
+            <a href="{{ sponsor.url_ja }}" class="lang-ja" target="_blank">
+              <img src="{{ sponsor.image }}">
+            </a>
+            <strong>
+              <span class="lang-en">{{ sponsor.name_en }}</span>
+              <span class="lang-ja">{{ sponsor.name_ja }}</span>
+            </strong>
+          </div>
+        {% endfor %}
+      </div>
     </div>
   </div>
 </div>

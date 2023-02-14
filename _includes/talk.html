@@ -6,7 +6,7 @@
 	{% endif %}
 	{% assign session = session[0] %}
 	{% if person.interview_url != "" %}
-		{% assign video_id = person.interview_url | replace: "https://www.youtube.com/watch?v=", "" %}
+		{% assign video_id = person.interview_url | replace: "https://www.youtube.com/watch?v=", ""  | replace: "https://www.youtube.com/watch?v=", "" %}
 		<div class="container">
 			<h4 class="lang-en">Interview with {{ person.name_en }}</h4>
 			<h4 class="lang-ja">{{ person.name_ja }}さんとのインタビュー</h4>
@@ -25,6 +25,16 @@
 						<span class="lang-en">{{ session.title_en }}</span>
 						<span class="lang-ja">{{ session.title_ja }}</span>
 					</h2>
+					<h5>
+						📅
+						<span class="lang-en">
+							<a href="{{ page.gcal.en }}" target="_blank">Register the session in your Google calendar</a>
+						</span>
+						<span class="lang-ja">
+							<a href="{{ page.gcal.ja }}" target="_blank">セッションをGoogleカレンダーに登録する</a>
+						</span>
+					</h5>
+					<p></p>
 					<!-- <h3>Talk description</h3> -->
 					<div class="lang-en">
 						{{ session.description_en | markdownify }}

@@ -4,7 +4,6 @@
 		<div class="title-block White">
 			<h1 class="bold red-text lang-en">Blog</h1>
 			<h1 class="bold red-text lang-ja">ブログ</h1>
-			<p></p>
 			<p>
 				<div class="lang-en">Here's what you need to know to enjoy the conference even more!</div>
 				<div class="lang-ja">カンファレンスをより楽しむための情報をお届けします！</div>
@@ -16,8 +15,13 @@
 		<div class="container">
 			<div class="row d-flex justify-content-center">
 				{% for post in site.posts %}
-					<div class="col-9 lang-{{ post.lang }}">
+					<div class="col-9 lang-en">
 						🕒 {{ post.date | date_to_string }} <a href="{{ post.url }}"><strong>{{ post.title }}</strong></a>
+					</div>
+				{% endfor %}
+				{% for post in site.data.blog.items %}
+					<div class="col-9 lang-ja" style="padding-bottom: 1em">
+						🕒 {{ post.month }}月<span>{{ post.day }}日 <a href="{{ post.link }}"><strong>{{ post.title }}</strong></a>
 					</div>
 				{% endfor %}
 			</div>

@@ -6,7 +6,7 @@
 	{% endif %}
 	{% assign session = session[0] %}
 	{% if person.interview_url != "" %}
-		{% assign video_id = person.interview_url | replace: "https://www.youtube.com/watch?v=", ""  | replace: "https://www.youtube.com/watch?v=", "" %}
+		{% assign video_id = person.interview_url | replace: "https://www.youtube.com/watch?v=", ""  | replace: "https://youtu.be/", "" %}
 		<div class="container">
 			<h4 class="lang-en">Interview with {{ person.name_en }}</h4>
 			<h4 class="lang-ja">{{ person.name_ja }}さんとのインタビュー</h4>

@@ -274,5 +274,17 @@
     "url_en": "https://jaguer.jp/",
     "image": "https://drive.google.com/uc?id=1l4GjhOU9RD7ovWuEaQYYf7b6Esu7pYYk",
     "size": ""
+  },
+  {
+    "id": "4c",
+    "type": "community",
+    "label_ja": "コミュニティ",
+    "label_en": "Community",
+    "name_ja": "4C",
+    "name_en": "4C",
+    "url_ja": "https://www.4c.rocks/",
+    "url_en": "https://www.4c.rocks/",
+    "image": "https://drive.google.com/uc?id=1fSXP_32UPq0Mf71Bu0kETMDlQTi9CvID",
+    "size": ""
   }
 ]

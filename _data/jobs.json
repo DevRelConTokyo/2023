@@ -8,5 +8,15 @@
     "url_en": "",
     "title_en": "",
     "description_en": ""
+  },
+  {
+    "id": "2",
+    "company": "ekispert",
+    "url_ja": "https://www.val.co.jp/recruit/",
+    "title_ja": "公共交通案内APIの開発エンジニアを募集しています",
+    "description_ja": "「駅すぱあとWebサービス」は、経路探索システム「駅すぱあと」の機能や情報をAPI形式で提供するサービスです。開発チームではスクラムを取り入れた主体性と協調性を大事にした働き方を推奨しており、一緒に働く仲間を募集しています。",
+    "url_en": "https://www.val.co.jp/recruit/",
+    "title_en": "Job offers for public transport information API developer. ",
+    "description_en": "The Ekispert Web Service is a service that provides the functions and information of the route search system Ekispert in API format. The development team encourages a way of working that emphasises independence and cooperation, incorporating scrum, and is looking for colleagues to work with."
   }
 ]

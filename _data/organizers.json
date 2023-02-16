@@ -221,23 +221,6 @@
     "company_en": "ONE CAREER"
   },
   {
-    "id": "nori",
-    "type": "member",
-    "name_ja": "鈴木 教之",
-    "name_en": "Nori Suzuki",
-    "title_ja": "Marketing Communications Manager",
-    "title_en": "Marketing Communications Manager",
-    "url": "https://azure.microsoft.com/ja-jp/",
-    "twitter": "https://twitter.com/szkn27",
-    "github": "https://github.com/suzukin",
-    "facebook": "",
-    "linkedin": "https://www.linkedin.com/in/nori-suzuki/",
-    "profile_ja": "IT系出版社にて技術書籍の編集やWebメディアの運営、テックカンファレンスの企画など10年以上の編集経験を経て、畑違いの外資系企業に。現在は日本マイクロソフト株式会社でMicrosoft Azureのマーケティングコミュニケーションを担当。VS Code Meetupをはじめ多くの技術コミュニティを運営している。",
-    "profile_en": "After more than 10 years of editing technical books, managing web media, and planning tech conferences at an IT publishing company, he joined a foreign company in a different field. Currently in charge of marketing communications for Microsoft Azure at Microsoft Japan. He runs the VS Code Meetup and many other tech communities.",
-    "company_ja": "日本マイクロソフト",
-    "company_en": "Microsoft Japan"
-  },
-  {
     "id": "sakutaro",
     "type": "member",
     "name_ja": "櫻井 文矢",

@@ -12,6 +12,18 @@
     "size": "6"
   },
   {
+    "id": "",
+    "type": "",
+    "label_ja": "トラック",
+    "label_en": "Track",
+    "name_ja": "ベリサーブ",
+    "name_en": "VeriServe",
+    "url_ja": "https://www.veriserve.co.jp/",
+    "url_en": "https://www.veriserve.co.jp/",
+    "image": "https://drive.google.com/uc?id=1ymWZOU2US0VxS1q5wW62HevrxugFvx-N",
+    "size": "6"
+  },
+  {
     "id": "magicpod",
     "type": "booth",
     "label_ja": "ブース",

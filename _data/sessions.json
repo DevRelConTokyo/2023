@@ -23,9 +23,10 @@
     "second_speaker_name": "",
     "youtube": "",
     "audience_level": "",
-    "day": "",
+    "day": "10",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_start1",
@@ -51,9 +52,10 @@
     "second_speaker_name": "",
     "youtube": "",
     "audience_level": "",
-    "day": "",
+    "day": "10",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_1",
@@ -81,7 +83,8 @@
     "audience_level": "",
     "day": "10",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_1",
@@ -109,7 +112,8 @@
     "audience_level": "",
     "day": "10",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_s1",
@@ -137,7 +141,8 @@
     "audience_level": "",
     "day": "",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_s1",
@@ -165,7 +170,8 @@
     "audience_level": "",
     "day": "",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_s2",
@@ -193,7 +199,8 @@
     "audience_level": "",
     "day": "",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_s2",
@@ -221,7 +228,8 @@
     "audience_level": "",
     "day": "",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_b1",
@@ -249,7 +257,8 @@
     "audience_level": "",
     "day": "10",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_b1",
@@ -277,7 +286,8 @@
     "audience_level": "",
     "day": "",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": "true"
   },
   {
     "id": "j_12",
@@ -305,7 +315,8 @@
     "audience_level": "beginner",
     "day": "10",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_12",
@@ -333,7 +344,8 @@
     "audience_level": "middle",
     "day": "10",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_6",
@@ -361,7 +373,8 @@
     "audience_level": "beginner",
     "day": "10",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_24",
@@ -389,7 +402,8 @@
     "audience_level": "middle",
     "day": "10",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_4",
@@ -417,7 +431,8 @@
     "audience_level": "beginner",
     "day": "10",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_7",
@@ -445,7 +460,8 @@
     "audience_level": "middle",
     "day": "10",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_17",
@@ -473,7 +489,8 @@
     "audience_level": "beginner",
     "day": "10",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_5",
@@ -501,7 +518,8 @@
     "audience_level": "middle",
     "day": "10",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_16",
@@ -529,7 +547,8 @@
     "audience_level": "beginner",
     "day": "10",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_9",
@@ -557,7 +576,8 @@
     "audience_level": "beginner",
     "day": "10",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_9",
@@ -585,7 +605,8 @@
     "audience_level": "middle",
     "day": "10",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_20",
@@ -613,7 +634,8 @@
     "audience_level": "middle",
     "day": "10",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_end1",
@@ -641,7 +663,8 @@
     "audience_level": "",
     "day": "10",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_end1",
@@ -669,7 +692,8 @@
     "audience_level": "",
     "day": "",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_end2",
@@ -697,7 +721,8 @@
     "audience_level": "",
     "day": "",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_end2",
@@ -725,7 +750,8 @@
     "audience_level": "",
     "day": "",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_open2",
@@ -753,7 +779,8 @@
     "audience_level": "",
     "day": "",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_start2",
@@ -781,7 +808,8 @@
     "audience_level": "",
     "day": "",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_2",
@@ -809,7 +837,8 @@
     "audience_level": "",
     "day": "11",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_2",
@@ -837,7 +866,8 @@
     "audience_level": "",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_s3",
@@ -865,7 +895,8 @@
     "audience_level": "",
     "day": "",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_s3",
@@ -893,7 +924,8 @@
     "audience_level": "",
     "day": "",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_s4",
@@ -921,7 +953,8 @@
     "audience_level": "",
     "day": "",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_s4",
@@ -949,7 +982,8 @@
     "audience_level": "",
     "day": "",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_5",
@@ -977,7 +1011,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_13",
@@ -1005,7 +1040,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_3",
@@ -1033,7 +1069,8 @@
     "audience_level": "middle",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_27",
@@ -1061,7 +1098,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_11",
@@ -1089,7 +1127,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_21",
@@ -1117,7 +1156,8 @@
     "audience_level": "middle",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_4",
@@ -1145,7 +1185,8 @@
     "audience_level": "middle",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_6",
@@ -1173,7 +1214,8 @@
     "audience_level": "middle",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_8",
@@ -1201,7 +1243,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "japan",
-    "speakers": "2"
+    "speakers": "2",
+    "break": ""
   },
   {
     "id": "c_23",
@@ -1229,7 +1272,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_35",
@@ -1257,7 +1301,8 @@
     "audience_level": "middle",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_11",
@@ -1285,7 +1330,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_311",
@@ -1313,63 +1359,8 @@
     "audience_level": "",
     "day": "11",
     "conference": "japan",
-    "speakers": "1"
-  },
-  {
-    "id": "c_311-3",
-    "first_speaker": "",
-    "start_datetime": "Sat Mar 11 2023 14:35:00 GMT+0900 (日本標準時)",
-    "duration": "Sat Dec 30 1899 00:05:00 GMT+0900 (日本標準時)",
-    "end_datetime": "Sat Mar 11 2023 14:40:00 GMT+0900 (日本標準時)",
-    "start_time": "14:35",
-    "end_time": "14:40",
-    "track": "",
-    "title_en": "A minute's silence for 3.11 & break",
-    "title_ja": "黙祷（3.11）",
-    "first_speaker_name": "",
-    "video_url": "",
-    "publish_confirmed": "",
-    "material_url": "",
-    "description_en": "",
-    "description_ja": "",
-    "category_en": "",
-    "second_speaker": "",
-    "category_ja": "",
-    "show": "",
-    "second_speaker_name": "",
-    "youtube": "",
-    "audience_level": "",
-    "day": "",
-    "conference": "con",
-    "speakers": "1"
-  },
-  {
-    "id": "c_311-2",
-    "first_speaker": "",
-    "start_datetime": "Sat Mar 11 2023 14:35:00 GMT+0900 (日本標準時)",
-    "duration": "Sat Dec 30 1899 00:05:00 GMT+0900 (日本標準時)",
-    "end_datetime": "Sat Mar 11 2023 14:40:00 GMT+0900 (日本標準時)",
-    "start_time": "14:35",
-    "end_time": "14:40",
-    "track": "",
-    "title_en": "A minute's silence for 3.11 & break",
-    "title_ja": "黙祷（3.11）",
-    "first_speaker_name": "",
-    "video_url": "",
-    "publish_confirmed": "",
-    "material_url": "",
-    "description_en": "",
-    "description_ja": "",
-    "category_en": "",
-    "second_speaker": "",
-    "category_ja": "",
-    "show": "",
-    "second_speaker_name": "",
-    "youtube": "",
-    "audience_level": "",
-    "day": "",
-    "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_311-1",
@@ -1397,7 +1388,8 @@
     "audience_level": "",
     "day": "",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": "true"
   },
   {
     "id": "j_18",
@@ -1425,7 +1417,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_25",
@@ -1453,7 +1446,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_15",
@@ -1481,7 +1475,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_19",
@@ -1509,7 +1504,8 @@
     "audience_level": "middle",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_3",
@@ -1537,7 +1533,8 @@
     "audience_level": "middle",
     "day": "11",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_17",
@@ -1565,7 +1562,8 @@
     "audience_level": "middle",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_30",
@@ -1593,7 +1591,8 @@
     "audience_level": "middle",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_26",
@@ -1621,7 +1620,8 @@
     "audience_level": "middle",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_10",
@@ -1649,7 +1649,8 @@
     "audience_level": "middle",
     "day": "11",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_10",
@@ -1677,7 +1678,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_16",
@@ -1705,7 +1707,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_28",
@@ -1733,7 +1736,8 @@
     "audience_level": "middle",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_b2",
@@ -1761,63 +1765,8 @@
     "audience_level": "",
     "day": "11",
     "conference": "japan",
-    "speakers": "1"
-  },
-  {
-    "id": "c_b2-3",
-    "first_speaker": "",
-    "start_datetime": "Sat Mar 11 2023 16:10:00 GMT+0900 (日本標準時)",
-    "duration": "Sat Dec 30 1899 00:10:00 GMT+0900 (日本標準時)",
-    "end_datetime": "Sat Mar 11 2023 16:20:00 GMT+0900 (日本標準時)",
-    "start_time": "16:10",
-    "end_time": "16:20",
-    "track": "",
-    "title_en": "Break",
-    "title_ja": "休憩",
-    "first_speaker_name": "",
-    "video_url": "",
-    "publish_confirmed": "",
-    "material_url": "",
-    "description_en": "",
-    "description_ja": "",
-    "category_en": "",
-    "second_speaker": "",
-    "category_ja": "",
-    "show": "",
-    "second_speaker_name": "",
-    "youtube": "",
-    "audience_level": "",
-    "day": "",
-    "conference": "con",
-    "speakers": "1"
-  },
-  {
-    "id": "c_b2-2",
-    "first_speaker": "",
-    "start_datetime": "Sat Mar 11 2023 16:10:00 GMT+0900 (日本標準時)",
-    "duration": "Sat Dec 30 1899 00:10:00 GMT+0900 (日本標準時)",
-    "end_datetime": "Sat Mar 11 2023 16:20:00 GMT+0900 (日本標準時)",
-    "start_time": "16:10",
-    "end_time": "16:20",
-    "track": "",
-    "title_en": "Break",
-    "title_ja": "休憩",
-    "first_speaker_name": "",
-    "video_url": "",
-    "publish_confirmed": "",
-    "material_url": "",
-    "description_en": "",
-    "description_ja": "",
-    "category_en": "",
-    "second_speaker": "",
-    "category_ja": "",
-    "show": "",
-    "second_speaker_name": "",
-    "youtube": "",
-    "audience_level": "",
-    "day": "",
-    "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_b2-1",
@@ -1845,7 +1794,8 @@
     "audience_level": "",
     "day": "",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": "true"
   },
   {
     "id": "j_14",
@@ -1873,7 +1823,8 @@
     "audience_level": "new",
     "day": "11",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_8",
@@ -1901,7 +1852,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_32",
@@ -1929,7 +1881,8 @@
     "audience_level": "new",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_31",
@@ -1957,7 +1910,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_15",
@@ -1985,7 +1939,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_18",
@@ -2013,7 +1968,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_22",
@@ -2041,7 +1997,8 @@
     "audience_level": "middle",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_33",
@@ -2069,7 +2026,8 @@
     "audience_level": "middle",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "j_7",
@@ -2097,7 +2055,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "japan",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_29",
@@ -2125,7 +2084,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_34",
@@ -2153,7 +2113,8 @@
     "audience_level": "middle",
     "day": "11",
     "conference": "con",
-    "speakers": "1"
+    "speakers": "1",
+    "break": ""
   },
   {
     "id": "c_14",
@@ -2181,7 +2142,8 @@
     "audience_level": "beginner",
     "day": "11",
     "conference": "con",
-    "speakers": "2"
+    "speakers": "2",
+    "break": ""
   },
   {
     "id": "w_1",
@@ -2209,7 +2171,8 @@
     "audience_level": "",
     "day": "11",
     "conference": "",
-    "speakers": ""
+    "speakers": "",
+    "break": ""
   },
   {
     "id": "w_2",
@@ -2237,6 +2200,7 @@
     "audience_level": "",
     "day": "11",
     "conference": "",
-    "speakers": ""
+    "speakers": "",
+    "break": ""
   }
 ]

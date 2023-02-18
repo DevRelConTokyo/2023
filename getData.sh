@@ -7,5 +7,6 @@ wget https://script.google.com/macros/s/$DEVREL_GOOGLE_ID/exec?name=jobs -O _dat
 
 ruby organizers.rb
 ruby speakers.rb
+ruby sessions.rb
 npm start
 npx ts-node feed.ts

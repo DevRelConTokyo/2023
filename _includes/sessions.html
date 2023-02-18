@@ -1,0 +1,79 @@
+<div class="schedule-single-row">
+	<div class="row">
+		<div class="col"></div>
+	</div>
+</div>
+{% for v in include.values %}
+	{% assign start_time = v[0] %}
+	{% assign sessions = v[1] | sort: "track" %}
+	{% if sessions[0].break == "true" %}
+		<div class="row">
+			<div class="col">
+				<div class="schedule-lunch">
+					<span class="medium red-text">{{ start_time }}</span> - 
+					<span class="lang-en">{{ sessions[0].title_en }}</span>
+					<span class="lang-ja">{{ sessions[0].title_ja }}</span>
+				</div>
+			</div>
+		</div>
+	{% else %}
+		<div class="container">
+			<div class="row">
+				<div class="schedule-time-row col-sm-12">
+					<p class="medium">{{ start_time }}</p>
+				</div>
+			</div>
+		</div>
+		<div class="container mb-3">
+			{% if sessions.size == 1 %}
+				<div class="row">
+					<div class="schedule-split-row pb-3 col-sm-12">
+						<div>
+							<div><strong>{{ sessions[0].track }} track</strong></div>
+							<p class="medium photo-credit lang-ja">{{ sessions[0].title_ja }}</p>
+							<p class="medium photo-credit lang-en">{{ sessions[0].title_en }}</p>
+							{% if sessions[0].first_speaker != "" %}
+								{% assign speaker = sessions[0].speakers[0] %}
+								<p class="speaker-name">
+									<img src="{{ speaker.photo }}" alt="{{ speaker.name_en }}" class="speaker-image" style="width: 45px; height: 45px;">
+									<a href="/speakers/{{ speaker.id }}">
+										<span class="lang-en">{{ speaker.name_en }}</span>
+										<span class="lang-ja">{{ speaker.name_ja }}</span>
+									</a>
+								</p>
+							{% endif %}
+						</div>
+					</div>
+				</div>
+			{% else %}
+				<div class="row">
+					{% for session in sessions %}
+						<div class="schedule-split-row col-4">
+							<div>
+								<div><strong>{{ session.track }} track</strong></div>
+								{% if session.first_speaker != "" %}
+									<a href="/speakers/{{ session.first_speaker }}">
+										<p class="medium photo-credit lang-ja">{{ session.title_ja }}</p>
+										<p class="medium photo-credit lang-en">{{ session.title_en }}</p>
+									</a>
+									{% for speaker in session.speakers %}
+										<p class="speaker-name">
+											<img src="{{ speaker.photo }}" alt="{{ speaker.name_en }}" class="speaker-image" style="width: 45px; height: 45px;">
+											<a href="/speakers/{{ speaker.id }}">
+												<span class="lang-en">{{ speaker.name_en }}</span>
+												<span class="lang-ja">{{ speaker.name_ja }}</span>
+											</a>
+										</p>
+									{% endfor %}
+								{% else %}
+									<p class="medium photo-credit lang-ja">{{ session.title_ja }}</p>
+									<p class="medium photo-credit lang-en">{{ session.title_en }}</p>
+								{% endif %}
+							</div>
+						</div>
+					{% endfor %}
+				</div>
+			{% endif %}
+		</div>
+	{% endif %}
+{% endfor %}

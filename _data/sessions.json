@@ -953,7 +953,7 @@
     "audience_level": "",
     "day": "11",
     "conference": "japan",
-    "speakers": "",
+    "speakers": "1",
     "break": ""
   },
   {
@@ -982,7 +982,7 @@
     "audience_level": "",
     "day": "11",
     "conference": "con",
-    "speakers": "",
+    "speakers": "1",
     "break": "true"
   },
   {
@@ -1011,7 +1011,7 @@
     "audience_level": "",
     "day": "11",
     "conference": "con",
-    "speakers": "",
+    "speakers": "1",
     "break": "true"
   },
   {
@@ -1040,7 +1040,7 @@
     "audience_level": "",
     "day": "11",
     "conference": "con",
-    "speakers": "",
+    "speakers": "1",
     "break": "true"
   },
   {

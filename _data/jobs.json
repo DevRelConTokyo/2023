@@ -18,5 +18,45 @@
     "url_en": "https://www.val.co.jp/recruit/",
     "title_en": "Job offers for public transport information API developer. ",
     "description_en": "The Ekispert Web Service is a service that provides the functions and information of the route search system Ekispert in API format. The development team encourages a way of working that emphasises independence and cooperation, incorporating scrum, and is looking for colleagues to work with."
+  },
+  {
+    "id": "3",
+    "company": "hexabase",
+    "url_ja": "https://www.wantedly.com/projects/1246616",
+    "title_ja": "自社BaaSを活用したモダン開発のシステムアーキテクトを募集！",
+    "description_ja": "・新規事業の立ち上げ支援。スタートアップや事業企画者に寄り添って支援する月額制のコンサル支援 \n・Webサイト制作～関連システム開発、アプリ開発に関するディレクション、システム開発支援 \n・クラウド連携やバックエンドAPIサービスの連携など、ソリューションアーキテクトとしての活動",
+    "url_en": "https://www.wantedly.com/projects/1246616",
+    "title_en": "Seeking a system architect for modern development using our own BaaS!",
+    "description_en": "- Support for new business startups. Consulting support on a monthly basis to assist startups and business planners by staying close to them. \n- Direction and system development support related to website creation - related system development and application development. \n- Activities as solution architects, such as cloud integration and back-end API service integration"
+  },
+  {
+    "id": "4",
+    "company": "findy",
+    "url_ja": "https://herp.careers/v1/findy/HvwvxHiWmkpN",
+    "title_ja": "技術発信を通じてFindyのファンづくりを担うDevRelメンバー募集",
+    "description_ja": "「社内外とのエンジニアの潤滑油となり、次なる一歩を後押しする」をMissionに、世の中のエンジニアやエンジニア組織・人・情報をつなげる役割として、\n技術イベントの企画・運営、第一線で活躍するエンジニアのキャリアを掘り下げた記事作成やイベント開催など、様々なコンテンツの企画〜実行までを一貫してお任せします。",
+    "url_en": "",
+    "title_en": "",
+    "description_en": ""
+  },
+  {
+    "id": "5",
+    "company": "findy",
+    "url_ja": "https://herp.careers/v1/findy/u-QF0bpCib2T",
+    "title_ja": "役員直下で、グロース支援を担当する新規事業開発室メンバーを募集",
+    "description_ja": "本ポジションでは、Findyが転職事業、フリーランス事業、Team+事業、Global事業と4事業にサービス基盤が拡大していくいく中で事業間のシナジーを最大化すべく、キャリアプラットフォームからエンジニア会員基盤プラットフォームへの転換に向け、企画・事業化に向けた推進を行っていただきます。",
+    "url_en": "",
+    "title_en": "",
+    "description_en": ""
+  },
+  {
+    "id": "6",
+    "company": "findy",
+    "url_ja": "https://herp.careers/v1/findy/YTwjLJ-tNEvh",
+    "title_ja": "日本のイノベーションを加速させる、エンジニアリング組織の開発生産性改善SaaS「Findy Team+」のPdM募集",
+    "description_ja": "「Findy Team+」のグロースに関する業務全般を担当いただきます。プロダクトオーナーシップを持ち、利用データや顧客の声を基に、CS/Salesや開発チームと連携しながら、課題仮説の定義、仕様の検討、リリース後の効果検証を進めて頂き、一連のプロダクトグロースPDCAサイクルを推進していただきます。",
+    "url_en": "",
+    "title_en": "",
+    "description_en": ""
   }
 ]

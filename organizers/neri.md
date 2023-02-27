@@ -1,7 +1,7 @@
 ---
 layout: person
 permalink: /organizers/neri/
-title: 池原 大然@Twilio
+title: 池原 大然@
 ogp: /assets/images/ogp/neri.jpg
 type: organizer
 id: neri

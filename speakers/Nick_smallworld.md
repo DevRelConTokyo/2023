@@ -1,7 +1,7 @@
 ---
 layout: person
 permalink: "/speakers/Nick_smallworld/"
-title: "Takeshi \"Nick\" Osanai"
+title: "Takeshi \"Nick\" Osanai@FLUX Inc."
 ogp: "/assets/images/ogp/Nick_smallworld.jpg"
 type: speaker
 id: "Nick_smallworld"

@@ -58,5 +58,15 @@
     "url_en": "",
     "title_en": "",
     "description_en": ""
+  },
+  {
+    "id": "7",
+    "company": "magicpod",
+    "url_ja": "https://www.wantedly.com/projects/1209427",
+    "title_ja": "発信力と技術力でグローバルの新技術トレンドを創るエバンジェリストを募集！",
+    "description_ja": "AIテスト自動化プラットフォーム「MagicPod」のテクニカルエバンジェリストとして、認知度向上・ユーザー獲得・ブランディング・採用力強化につながるような取り組みを幅広く行なっていただきます。発信トピックは、MagicPod・アジャイル開発・CI・DevOps・テスト自動化など、ターゲット層にリーチできる幅広いトピックが考えられます。",
+    "url_en": "",
+    "title_en": "Create new tech trends as Evangelist",
+    "description_en": "As a technical evangelist for MagicPod, an AI test automation platform, you will be responsible for a wide range of initiatives that will lead to increased awareness, user acquisition, branding, and recruiting capabilities. The topics to be covered will include MagicPod, agile development, CI, DevOps, test automation, and a wide range of other topics that will reach the target audience."
   }
 ]

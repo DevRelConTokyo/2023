@@ -10,7 +10,8 @@
     "url_en": "https://www.suntory.com/?fromid=top",
     "image": "https://drive.google.com/uc?id=19C7NVSXa-YYOaUJcgNmDT5JV1GFy6z1K",
     "size": "6",
-    "": "サントリー"
+    "": "サントリー",
+    "youtube": "https://www.youtube.com/watch?v=A_eM9_sNHcw"
   },
   {
     "id": "veriserve",
@@ -23,7 +24,8 @@
     "url_en": "https://www.veriserve.co.jp/",
     "image": "https://drive.google.com/uc?id=11uyAYnyOYXteArN1oYEFa4iLcf1eWSOl",
     "size": "6",
-    "": "ベリサーブ"
+    "": "ベリサーブ",
+    "youtube": ""
   },
   {
     "id": "magicpod",
@@ -36,7 +38,8 @@
     "url_en": "https://magicpod.com/en/",
     "image": "https://drive.google.com/uc?id=1MbVilkQAMSFolQuw0Fki3w6F5EVcsBpu",
     "size": "4",
-    "": "MagicPod"
+    "": "MagicPod",
+    "youtube": ""
   },
   {
     "id": "linux",
@@ -49,7 +52,8 @@
     "url_en": "https://training.linuxfoundation.org/",
     "image": "https://drive.google.com/uc?id=1TWZSBmi4zHCdWV_vbDf7eYoeywX8u4iX",
     "size": "4",
-    "": "ザ リナックス ファウンデーション"
+    "": "ザ リナックス ファウンデーション",
+    "youtube": ""
   },
   {
     "id": "findy",
@@ -62,7 +66,8 @@
     "url_en": "https://findy-jobs.io/",
     "image": "https://drive.google.com/uc?id=1INme9CFUBv5GMH-vSoeXvz5Za8HSqIPj",
     "size": "4",
-    "": "ファインディ株式会社"
+    "": "ファインディ株式会社",
+    "youtube": ""
   },
   {
     "id": "github",
@@ -75,7 +80,8 @@
     "url_en": "https://github.com/",
     "image": "https://drive.google.com/uc?id=1topE8bQPR9D5JRsR0VndBWj_40QuT--P",
     "size": "4",
-    "": "GitHub"
+    "": "GitHub",
+    "youtube": ""
   },
   {
     "id": "hexabase",
@@ -88,7 +94,8 @@
     "url_en": "https://hexabase.com/",
     "image": "https://drive.google.com/uc?id=1P9y6fCxEAn878rB4peG3_PggImPfXNQ-",
     "size": "4",
-    "": "Hexabase"
+    "": "Hexabase",
+    "youtube": ""
   },
   {
     "id": "engineercafe",
@@ -101,7 +108,8 @@
     "url_en": "https://engineercafe.jp/",
     "image": "https://drive.google.com/uc?id=1PydpkXXXEaqz1rGWA1WFn5mbFag15wyd",
     "size": "4",
-    "": "エンジニアカフェ"
+    "": "エンジニアカフェ",
+    "youtube": ""
   },
   {
     "id": "kuroco",
@@ -114,7 +122,8 @@
     "url_en": "https://kuroco.app/",
     "image": "https://drive.google.com/uc?id=1Oiky75YYASX8c9vxqyQQbsDGrphpwWSZ",
     "size": "4",
-    "": ""
+    "": "",
+    "youtube": ""
   },
   {
     "id": "people",
@@ -127,7 +136,8 @@
     "url_en": "https://pscsrv.co.jp/en/",
     "image": "https://drive.google.com/uc?id=1sTkhGaNWVN1RAXO-llZhydiM-CscudWg",
     "size": "3",
-    "": ""
+    "": "",
+    "youtube": ""
   },
   {
     "id": "ekispert",
@@ -140,7 +150,8 @@
     "url_en": "https://api-info.ekispert.com/",
     "image": "https://drive.google.com/uc?id=1QEpMmOJ11VZ3cLcppMDO844mj22pGCIm",
     "size": "3",
-    "": ""
+    "": "",
+    "youtube": ""
   },
   {
     "id": "codezine",
@@ -153,7 +164,8 @@
     "url_en": "https://codezine.jp",
     "image": "https://drive.google.com/uc?id=1Ybp0CWF2Fm98gf98IEUiqwUIdfLaRMfc",
     "size": "2",
-    "": ""
+    "": "",
+    "youtube": ""
   },
   {
     "id": "thinkit",
@@ -166,7 +178,8 @@
     "url_en": "https://thinkit.co.jp/",
     "image": "https://drive.google.com/uc?id=12p82LVMg-yPvZgM7JJXcJoF6K5tLx7Rm",
     "size": "2",
-    "": ""
+    "": "",
+    "youtube": ""
   },
   {
     "id": "techfeed",
@@ -179,7 +192,8 @@
     "url_en": "https://techfeed.io/",
     "image": "https://drive.google.com/uc?id=1C5CJT-lLt5bwUwIjZ6Tz9Kz-wg2jkO_t",
     "size": "2",
-    "": ""
+    "": "",
+    "youtube": ""
   },
   {
     "id": "ayatokura",
@@ -192,7 +206,8 @@
     "url_en": "",
     "image": "",
     "size": "",
-    "": ""
+    "": "",
+    "youtube": ""
   },
   {
     "id": "avie",
@@ -205,7 +220,8 @@
     "url_en": "",
     "image": "",
     "size": "",
-    "": ""
+    "": "",
+    "youtube": ""
   },
   {
     "id": "kseniia",
@@ -218,7 +234,8 @@
     "url_en": "",
     "image": "",
     "size": "",
-    "": ""
+    "": "",
+    "youtube": ""
   },
   {
     "id": "tomoaki",
@@ -231,7 +248,8 @@
     "url_en": "",
     "image": "",
     "size": "",
-    "": ""
+    "": "",
+    "youtube": ""
   },
   {
     "id": "tseigo",
@@ -244,7 +262,8 @@
     "url_en": "",
     "image": "",
     "size": "",
-    "": ""
+    "": "",
+    "youtube": ""
   },
   {
     "id": "hiraoka",
@@ -257,7 +276,8 @@
     "url_en": "",
     "image": "",
     "size": "",
-    "": ""
+    "": "",
+    "youtube": ""
   },
   {
     "id": "jbug",
@@ -270,7 +290,8 @@
     "url_en": "https://jbug.connpass.com/",
     "image": "https://drive.google.com/uc?id=1sPQEliak-jRutKHiYW0ydqvEJM3l_tPY",
     "size": "",
-    "": ""
+    "": "",
+    "youtube": ""
   },
   {
     "id": "ossph",
@@ -283,7 +304,8 @@
     "url_en": "https://ossph.org",
     "image": "https://drive.google.com/uc?id=1x9nsKoSdBJASSh0TmskvKRKUp_rQjkyz",
     "size": "",
-    "": ""
+    "": "",
+    "youtube": ""
   },
   {
     "id": "jaguer",
@@ -296,7 +318,8 @@
     "url_en": "https://jaguer.jp/",
     "image": "https://drive.google.com/uc?id=1l4GjhOU9RD7ovWuEaQYYf7b6Esu7pYYk",
     "size": "",
-    "": ""
+    "": "",
+    "youtube": ""
   },
   {
     "id": "4c",
@@ -309,6 +332,7 @@
     "url_en": "https://www.4c.rocks/",
     "image": "https://drive.google.com/uc?id=1fSXP_32UPq0Mf71Bu0kETMDlQTi9CvID",
     "size": "",
-    "": ""
+    "": "",
+    "youtube": ""
   }
 ]

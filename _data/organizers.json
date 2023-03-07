@@ -389,5 +389,22 @@
     "profile_en": "Ai is a full-stack marketer in Japan with a valiety of experience in technology startups including Canva, Twilio, and data ai (formerly known as App Annie). Having started joining DevRel community since 2019, joining as a member of DevRel Conference including several times of DevRelCon Tokyo conferences and events.",
     "company_ja": "",
     "company_en": ""
+  },
+  {
+    "id": "koyhoge",
+    "type": "member",
+    "name_ja": "小山 哲志",
+    "name_en": "Tetsuji KOYAMA",
+    "title_ja": "Software Developer",
+    "title_en": "Software Developer",
+    "url": "",
+    "twitter": "",
+    "github": "",
+    "facebook": "",
+    "linkedin": "",
+    "profile_ja": "",
+    "profile_en": "",
+    "company_ja": "",
+    "company_en": ""
   }
 ]

@@ -72,8 +72,6 @@ Tabs
 		<div class="container schedule-container text-center">
 			<h1 class="bold red-text lang-en">Workshop</h1>
 			<h1 class="bold red-text lang-ja">ワークショップ</h1>
-			<p class="lang-en">Hold workshops on March 11</p>
-			<p class="lang-ja">ワークショップは11日に開催されます</p>
 		</div>
 		{% assign workshops = site.data.sessions | where: "category_en", "workshop" %}
 		{% for workshop in workshops %}
@@ -88,7 +86,7 @@ Tabs
 						<div class="col-9">
 							<div class="section-heading" style="text-align: left">
 								<h4>
-									<i class="far fa-clock"></i>&nbsp;&nbsp;{{ workshop.start_time }}〜{{ workshop.end_time }}
+									<i class="far fa-clock"></i>&nbsp;&nbsp;3/{{ workshop.day }} {{ workshop.start_time }}〜{{ workshop.end_time }}
 								</h4>
 								<h3 class="title lang-en">Title: {{ workshop.title_en }} by {{ sponsor.name_en }}</h3>
 								<h3 class="title lang-ja">タイトル： {{ workshop.title_ja }} by {{ sponsor.name_ja }}</h3>

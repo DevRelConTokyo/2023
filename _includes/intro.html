@@ -23,6 +23,36 @@
 				<p class="photo-credit lang-ja">{{ person.title_ja }}</p>
 				<p class="bold photo-credit red-text lang-en">{{ person.company_en }}</p>
 				<p class="bold photo-credit red-text lang-ja">{{ person.company_ja }}</p>
+				<!-- Show social medias holizontally -->
+				<div class="row">
+					<ul class="social">
+						{% if person.twitter != "" %}
+							{% assign twitter = person.twitter | replace: "http://twitter.com/", "" %}
+							<li>
+								<a target="_blank" href="http://twitter.com/{{ twitter }}" class="twitter"><i class="fab fa-twitter"></i></a>
+							</li>
+						{% endif %}
+						{% if person.facebook != "" %}
+							{% assign facebook = person.facebook | replace: "https://www.facebook.com/", "" %}
+							{% assign facebook = facebook | replace: "https://fb.me/", "" %}
+							<li>
+								<a target="_blank" href="https://fb.me/{{ facebook }}" class="facebook"><i	class="fab fa-facebook-f"></i></a>
+							</li>
+						{% endif %}
+						{% if person.linkedin != "" %}
+							{% assign linkedin = person.linkedin | replace: "https://www.linkedin.com/in/", "" %}
+							<li>
+								<a target="_blank" href="https://www.linkedin.com/in/{{ linkedin }}" class="linkedin"><i	class="fab fa-linkedin-in"></i></a>
+							</li>
+						{% endif %}
+						{% if person.github != "" %}
+							{% assign github = person.github | replace: "https://github.com/", "" %}
+							<li>
+								<a target="_blank" href="https://github.com/{{ github }}" class="linkedin"><i	class="fab fa-github"></i></a>
+							</li>
+						{% endif %}
+					</ul>
+				</div>
 				<p class="mt-4"></p>
 				<span class="lang-en">
 					{{ person.profile_en | markdownify }}

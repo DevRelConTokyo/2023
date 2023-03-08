@@ -9,7 +9,7 @@ categories: devrelcon
 <img src="/assets/images/posts/count-down.jpg" style="width: 800px;" />
 
 
-Hi, This is [Daizen (@neri78)][neri78] from DevRelCon Yokohama 2023 Organizers.
+Hi, This is Daizen ([@neri78](https://twitter.com/Neri78)) from DevRelCon Yokohama 2023 Organizers.
 
 We are very excited to have you all at the DevRelCon Yokohama 2023 in 2 days!
 

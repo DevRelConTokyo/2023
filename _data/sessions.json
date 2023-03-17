@@ -1287,7 +1287,7 @@
     "conference": "con",
     "speakers": "1",
     "break": "",
-    "material": ""
+    "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/e1ccd356c6cf4c4c89879a47acbc93ee\" title=\"How DevRel should proceed with the breaking change project?\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>"
   },
   {
     "id": "c_6",
@@ -1797,7 +1797,7 @@
     "conference": "con",
     "speakers": "1",
     "break": "",
-    "material": ""
+    "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/1b8a6b2a183244ca98a192fcd32af745\" title=\"Underengineering Contents: Creating Content For Everyone\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>"
   },
   {
     "id": "j_10",
@@ -1887,7 +1887,7 @@
     "conference": "con",
     "speakers": "1",
     "break": "",
-    "material": ""
+    "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/444d014b76c843b4b2983a4c9f14f35f\" title=\"20230311_DevRelCon Yokohama 2023\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>"
   },
   {
     "id": "c_28",
@@ -2247,7 +2247,7 @@
     "conference": "con",
     "speakers": "1",
     "break": "",
-    "material": ""
+    "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/5a4974913e364aea939da1c8e6843600\" title=\"How to use ChatGPT to grow and engage your developer community\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>"
   },
   {
     "id": "c_33",
@@ -2277,7 +2277,7 @@
     "conference": "con",
     "speakers": "1",
     "break": "",
-    "material": ""
+    "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/ce09e5fe45ae4cf8b50a02b86e55abb6\" title=\"How to Drive User Community without Community Manager\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 314;\" data-ratio=\"1.78343949044586\"></iframe>"
   },
   {
     "id": "j_7",
@@ -2397,7 +2397,7 @@
     "conference": "con",
     "speakers": "2",
     "break": "",
-    "material": ""
+    "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/0ea1bd289f694960bfe8420fbc8f5d3e\" title=\"Career Building with Cloud Enterprise Community by Jagu'e'r Evangelists_DevRelConYokohama_20230311\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>"
   },
   {
     "id": "j_end2",

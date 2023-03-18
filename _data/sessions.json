@@ -1197,7 +1197,7 @@
     "conference": "con",
     "speakers": "1",
     "break": "",
-    "material": ""
+    "material": "<iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;http://canva.com&#x2F;design&#x2F;DAFdenqRBds&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe>"
   },
   {
     "id": "j_11",
@@ -1617,7 +1617,7 @@
     "conference": "con",
     "speakers": "1",
     "break": "",
-    "material": ""
+    "material": "<iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vTHBlFfIGq8Ok_1LddRg4pYUeKsUFo7ECQ3XLpeiGUCAp_gg5ZJT0ysFLXr411WNMjaGTbLkAoyX9-S/embed?start=false&loop=false&delayms=3000\" frameborder=\"0\" width=\"960\" height=\"569\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>"
   },
   {
     "id": "c_15",
@@ -2217,7 +2217,7 @@
     "conference": "con",
     "speakers": "1",
     "break": "",
-    "material": ""
+    "material": "<iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vR-I2SAcjXMQWRZHf18IbSEELygZVX8wYp92PLSrBB3qdEA5cgbrV7GBDLNjSBftqrIhy14FsDRUtmt/embed?start=false&loop=true&delayms=5000\" frameborder=\"0\" width=\"960\" height=\"569\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>"
   },
   {
     "id": "c_22",

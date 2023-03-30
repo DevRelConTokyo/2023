@@ -124,7 +124,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "https://youtu.be/2RmUQ5aYHO8",
+    "session_youtube": "",
     "": ""
   },
   {
@@ -366,7 +366,7 @@
     "video_url": "",
     "publish_confirmed": "",
     "material_url": "",
-    "description_en": "In this session, I will cover the following topics:\r\n* How to be a good speaker at an event\r\n* How to bring value back from events to your employer\r\n* How to be a good conference attendee\r\n* How to take care of yourself while on the road",
+    "description_en": "In this session, I will cover the following topics:\n* How to be a good speaker at an event\n* How to bring value back from events to your employer\n* How to be a good conference attendee\n* How to take care of yourself while on the road",
     "description_ja": "このセッションでは、次のようなトピックを取り上げます。\n* イベントでの良いスピーカーになる方法\n* イベントから雇用主へ価値を持ち帰る方法\n* 良い会議参加者になるには\n* 出張中の体調管理について",
     "category_en": "business",
     "second_speaker": "",

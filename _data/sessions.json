@@ -28,8 +28,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_start1",
@@ -60,8 +59,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_1",
@@ -92,8 +90,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_1",
@@ -124,8 +121,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "https://youtu.be/KBPJOjatuM8",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/jun.jpg"
+    "session_youtube": "https://youtu.be/KBPJOjatuM8"
   },
   {
     "id": "j_s1",
@@ -156,8 +152,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_s1",
@@ -188,8 +183,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_s2",
@@ -220,8 +214,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_s2",
@@ -252,8 +245,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_b1",
@@ -284,8 +276,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_b1",
@@ -316,8 +307,7 @@
     "speakers": "1",
     "break": "true",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_12",
@@ -348,8 +338,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/a08cfa502792483b9380e1e9dee34b59\" title=\"DevRel_Japan CONFERENCE 2023\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_12",
@@ -380,8 +369,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vSBKYEsN0yZtU4oJUTjU-kYc7EwTKg1xvitSh1O1bWti5ilyj-TMfCEal3Q1HecBXHhtqB8LCAVkjv5/embed?start=false&loop=false&delayms=3000\" frameborder=\"0\" width=\"960\" height=\"569\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
-    "session_youtube": "https://youtu.be/N8LkCj6Ws5k",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/joel__lord.jpg"
+    "session_youtube": "https://youtu.be/N8LkCj6Ws5k"
   },
   {
     "id": "j_6",
@@ -412,8 +400,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/7aa1d75160774851809d4bb2d0bc219b\" title=\"非エンジニアの私が\u000bエンジニアと「協働」する\u000bために心がけていること\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_24",
@@ -444,8 +431,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "https://youtu.be/nSl4yudiQIE",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/harshil1712.jpg"
+    "session_youtube": "https://youtu.be/nSl4yudiQIE"
   },
   {
     "id": "j_4",
@@ -476,8 +462,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/4af84497af014cd899d0c2608dbefbaf\" title=\"テックブログを分析して分かった始めるコツ・続けるコツ\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 314;\" data-ratio=\"1.78343949044586\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_7",
@@ -508,8 +493,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "https://youtu.be/wKWU6s_dliU",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/KimMaida.jpg"
+    "session_youtube": "https://youtu.be/wKWU6s_dliU"
   },
   {
     "id": "j_17",
@@ -540,8 +524,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/35d7e0f585194dd5af20848240fc81ec\" title=\"地方テック企業もDevRel頑張ってみた\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_5",
@@ -572,8 +555,7 @@
     "speakers": "1",
     "break": "true",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_16",
@@ -604,8 +586,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/ebe70367caa4450faad5ff80112fe8ba\" title=\"「赤い芸人」養成講座\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 314;\" data-ratio=\"1.78343949044586\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_9",
@@ -636,8 +617,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vTpAoZthI8Z09RKtJsQZq0ewsVbbt7e94sti4bS7Ah3PqEgwZTlz02THI6Z8F0_4AMW7PUiQK_HvYts/embed?start=false&loop=false&delayms=3000\" frameborder=\"0\" width=\"960\" height=\"569\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
-    "session_youtube": "https://youtu.be/1_TzuqrE_5E",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/virtualized6ix.jpg"
+    "session_youtube": "https://youtu.be/1_TzuqrE_5E"
   },
   {
     "id": "j_9",
@@ -668,8 +648,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/54bbcc43a7524f23beaac8b9d2699781\" title=\"意外と大事！ DevRelに使える日本語テクニック\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_20",
@@ -700,8 +679,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "https://youtu.be/5iD9aXDNVGg",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/dianasoyster.jpg"
+    "session_youtube": "https://youtu.be/5iD9aXDNVGg"
   },
   {
     "id": "j_end1",
@@ -732,8 +710,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_end1",
@@ -764,8 +741,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_open2",
@@ -796,8 +772,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_start2",
@@ -828,8 +803,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_2",
@@ -860,8 +834,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/8a44c09495d9428bba6c453933c89299\" title=\"継続的コミュニティマネジメントとアウトプット 〜大切にしてきたこと、成功、失敗〜/Continuous Community Management and Output ~What We Cherished, Successes, and Failures~\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_2",
@@ -892,8 +865,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "https://youtu.be/svGfjTffuvs",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/takuo.jpg"
+    "session_youtube": "https://youtu.be/svGfjTffuvs"
   },
   {
     "id": "j_s3",
@@ -924,8 +896,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_s3",
@@ -956,8 +927,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_s4",
@@ -988,8 +958,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_s4",
@@ -1020,8 +989,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_lunch",
@@ -1052,8 +1020,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_lunch1",
@@ -1084,8 +1051,7 @@
     "speakers": "1",
     "break": "true",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_lunch2",
@@ -1116,8 +1082,7 @@
     "speakers": "1",
     "break": "true",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_lunch3",
@@ -1148,8 +1113,7 @@
     "speakers": "1",
     "break": "true",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_5",
@@ -1180,8 +1144,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/eed96b996dd24ae69a1cc30bd3ddd479\" title=\"DevRel/Japan CONFERENCE 2023\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_13",
@@ -1212,8 +1175,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_3",
@@ -1244,8 +1206,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "https://youtu.be/gQFsUQc2aew",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/gingy_love.jpg"
+    "session_youtube": "https://youtu.be/gQFsUQc2aew"
   },
   {
     "id": "c_27",
@@ -1276,8 +1237,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;http://canva.com&#x2F;design&#x2F;DAFdenqRBds&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_11",
@@ -1308,8 +1268,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_21",
@@ -1340,8 +1299,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_4",
@@ -1372,8 +1330,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/e1ccd356c6cf4c4c89879a47acbc93ee\" title=\"How DevRel should proceed with the breaking change project?\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": "https://youtu.be/qg76Fh6o3Xk",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/Nick_smallworld.jpg"
+    "session_youtube": "https://youtu.be/qg76Fh6o3Xk"
   },
   {
     "id": "c_6",
@@ -1404,8 +1361,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_8",
@@ -1436,8 +1392,7 @@
     "speakers": "2",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/60be254989144fb096445c60d9e807cf\" title=\"Jagu'e'r_みんなでつくるコミュニティとキャリア体験_DevRelJP_20230311\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_23",
@@ -1468,8 +1423,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_35",
@@ -1500,8 +1454,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "https://youtu.be/vD-XKjJErFQ",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/ukmadlz.jpg"
+    "session_youtube": "https://youtu.be/vD-XKjJErFQ"
   },
   {
     "id": "c_11",
@@ -1532,8 +1485,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_311",
@@ -1564,8 +1516,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_311-1",
@@ -1596,8 +1547,7 @@
     "speakers": "1",
     "break": "true",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_311-2",
@@ -1628,8 +1578,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_311-3",
@@ -1660,8 +1609,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_18",
@@ -1692,8 +1640,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_25",
@@ -1724,8 +1671,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vTHBlFfIGq8Ok_1LddRg4pYUeKsUFo7ECQ3XLpeiGUCAp_gg5ZJT0ysFLXr411WNMjaGTbLkAoyX9-S/embed?start=false&loop=false&delayms=3000\" frameborder=\"0\" width=\"960\" height=\"569\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_15",
@@ -1756,8 +1702,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "https://youtu.be/5mF-M7_DEL8",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/avolakatos.jpg"
+    "session_youtube": "https://youtu.be/5mF-M7_DEL8"
   },
   {
     "id": "c_19",
@@ -1788,8 +1733,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_3",
@@ -1820,8 +1764,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/dbeb0f3ba03f4d7b82514d6c146b1d4a\" title=\"コロナ禍だからこそ考えるオフラインコミュニティの意義 / significance of community\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_17",
@@ -1852,8 +1795,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_30",
@@ -1884,8 +1826,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "https://youtu.be/B9DzxvVe3dk",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/ayatokura.jpg"
+    "session_youtube": "https://youtu.be/B9DzxvVe3dk"
   },
   {
     "id": "c_26",
@@ -1916,8 +1857,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/1b8a6b2a183244ca98a192fcd32af745\" title=\"Underengineering Contents: Creating Content For Everyone\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_10",
@@ -1948,8 +1888,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_10",
@@ -1980,8 +1919,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_16",
@@ -2012,8 +1950,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/444d014b76c843b4b2983a4c9f14f35f\" title=\"20230311_DevRelCon Yokohama 2023\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": "https://youtu.be/2WNhvKSJGlk",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/1ft_seabass_con.jpg"
+    "session_youtube": "https://youtu.be/2WNhvKSJGlk"
   },
   {
     "id": "c_28",
@@ -2044,8 +1981,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/e601880779ed478a9bb1b9364e6d4fbc\" title=\"Explain the Value of DevRel by Writing Narratives\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 314;\" data-ratio=\"1.78343949044586\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_b2",
@@ -2076,8 +2012,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_b2-1",
@@ -2108,8 +2043,7 @@
     "speakers": "1",
     "break": "true",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_b2-2",
@@ -2140,8 +2074,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_b2-3",
@@ -2172,8 +2105,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_14",
@@ -2204,8 +2136,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_8",
@@ -2236,8 +2167,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe src=\"https://onedrive.live.com/embed?resid=703B19A0781C4859%21523&amp;authkey=!AB62xLl9gYOTTVU&amp;em=2&amp;wdAr=1.7777777777777777\" width=\"476px\" height=\"288px\" frameborder=\"0\">This is an embedded <a target=\"_blank\" href=\"https://office.com\">Microsoft Office</a> presentation, powered by <a target=\"_blank\" href=\"https://office.com/webapps\">Office</a>.</iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_32",
@@ -2268,8 +2198,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "https://youtu.be/JgQQifHYcgY",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/elijah_zupancic.jpg"
+    "session_youtube": "https://youtu.be/JgQQifHYcgY"
   },
   {
     "id": "c_31",
@@ -2300,8 +2229,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe src=\"https://slides.com/cheukting_ho/hacktoberfest/embed\" width=\"576\" height=\"420\" title=\"What’s wrong with Hacktoberfest\" scrolling=\"no\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_15",
@@ -2332,8 +2260,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/bdb98966ef144d46bd6857d5208d02e3\" title=\"DevRel/Japan 2023 - １つの事業部だけで行う DevRel とは\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 314;\" data-ratio=\"1.78343949044586\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_18",
@@ -2364,8 +2291,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe src=\"https://docs.google.com/presentation/d/e/2PACX-1vR-I2SAcjXMQWRZHf18IbSEELygZVX8wYp92PLSrBB3qdEA5cgbrV7GBDLNjSBftqrIhy14FsDRUtmt/embed?start=false&loop=true&delayms=5000\" frameborder=\"0\" width=\"960\" height=\"569\" allowfullscreen=\"true\" mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_22",
@@ -2396,8 +2322,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/5a4974913e364aea939da1c8e6843600\" title=\"How to use ChatGPT to grow and engage your developer community\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": "https://youtu.be/e224O9__4wI",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/wawasensei.jpg"
+    "session_youtube": "https://youtu.be/e224O9__4wI"
   },
   {
     "id": "c_33",
@@ -2428,8 +2353,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/ce09e5fe45ae4cf8b50a02b86e55abb6\" title=\"How to Drive User Community without Community Manager\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 314;\" data-ratio=\"1.78343949044586\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_7",
@@ -2460,8 +2384,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/add326e271384da9a9fa6d8568b1ecf3\" title=\"DevRelの考え方を学んでエンジニア採用に生かす/devreljapan2023 #devreljp\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 314;\" data-ratio=\"1.78343949044586\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_29",
@@ -2492,8 +2415,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_34",
@@ -2524,8 +2446,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "https://youtu.be/0eTnovwUhs4",
-    "ogp": "https://yokohama-2023.devrelcon.dev/assets/images/ogp/javabster.jpg"
+    "session_youtube": "https://youtu.be/0eTnovwUhs4"
   },
   {
     "id": "c_14",
@@ -2556,8 +2477,7 @@
     "speakers": "2",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/0ea1bd289f694960bfe8420fbc8f5d3e\" title=\"Career Building with Cloud Enterprise Community by Jagu'e'r Evangelists_DevRelConYokohama_20230311\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "j_end2",
@@ -2588,8 +2508,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "c_end2",
@@ -2620,8 +2539,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "w_3",
@@ -2652,8 +2570,7 @@
     "speakers": "",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "w_1",
@@ -2684,8 +2601,7 @@
     "speakers": "",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   },
   {
     "id": "w_2",
@@ -2716,7 +2632,6 @@
     "speakers": "",
     "break": "",
     "material": "",
-    "session_youtube": "",
-    "ogp": ""
+    "session_youtube": ""
   }
 ]

@@ -1144,7 +1144,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/eed96b996dd24ae69a1cc30bd3ddd479\" title=\"DevRel/Japan CONFERENCE 2023\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": ""
+    "session_youtube": "https://youtu.be/5VWPwIJHIF4"
   },
   {
     "id": "c_13",
@@ -1392,7 +1392,7 @@
     "speakers": "2",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/60be254989144fb096445c60d9e807cf\" title=\"Jagu'e'r_みんなでつくるコミュニティとキャリア体験_DevRelJP_20230311\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": ""
+    "session_youtube": "https://youtu.be/Nl_iZnej-RY"
   },
   {
     "id": "c_23",

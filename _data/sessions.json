@@ -586,7 +586,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/ebe70367caa4450faad5ff80112fe8ba\" title=\"「赤い芸人」養成講座\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 314;\" data-ratio=\"1.78343949044586\"></iframe>",
-    "session_youtube": ""
+    "session_youtube": "https://youtu.be/cM2JvljWfxo"
   },
   {
     "id": "c_9",
@@ -648,7 +648,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/54bbcc43a7524f23beaac8b9d2699781\" title=\"意外と大事！ DevRelに使える日本語テクニック\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": ""
+    "session_youtube": "https://youtu.be/7_bWlj4wSIQ"
   },
   {
     "id": "c_20",
@@ -834,7 +834,7 @@
     "speakers": "1",
     "break": "",
     "material": "<iframe class=\"speakerdeck-iframe\" frameborder=\"0\" src=\"https://speakerdeck.com/player/8a44c09495d9428bba6c453933c89299\" title=\"継続的コミュニティマネジメントとアウトプット 〜大切にしてきたこと、成功、失敗〜/Continuous Community Management and Output ~What We Cherished, Successes, and Failures~\" allowfullscreen=\"true\" style=\"border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;\" data-ratio=\"1.7777777777777777\"></iframe>",
-    "session_youtube": ""
+    "session_youtube": "https://youtu.be/5U_YIFZf0Uc"
   },
   {
     "id": "c_2",
@@ -1268,7 +1268,7 @@
     "speakers": "1",
     "break": "",
     "material": "",
-    "session_youtube": ""
+    "session_youtube": "https://youtu.be/XsK9QUo33LQ"
   },
   {
     "id": "c_21",

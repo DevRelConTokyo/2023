@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "company": "people",
+    "url_ja": "https://pscsrv.co.jp/recruit/",
+    "title_ja": "【全国からリモート勤務可】エンジニア募集！",
+    "description_ja": "ピープルソフトウェアは岡山に本社を置く独立系開発会社で、大手２社との受託開発をベースに、\n自社プロダクトの開発販売も手掛けつつ、最近は新規事業として、DX推進をキーワードにした\nコンサルビジネスも展開しています。\n岡山発・自由な社風を活かしたビジネス展開を強化中、ご応募お待ちしています。",
+    "url_en": "",
+    "title_en": "",
+    "description_en": ""
+  },
+  {
+    "id": "2",
+    "company": "ekispert",
+    "url_ja": "https://www.val.co.jp/recruit/",
+    "title_ja": "公共交通案内APIの開発エンジニアを募集しています",
+    "description_ja": "「駅すぱあとWebサービス」は、経路探索システム「駅すぱあと」の機能や情報をAPI形式で提供するサービスです。開発チームではスクラムを取り入れた主体性と協調性を大事にした働き方を推奨しており、一緒に働く仲間を募集しています。",
+    "url_en": "https://www.val.co.jp/recruit/",
+    "title_en": "Job offers for public transport information API developer. ",
+    "description_en": "The Ekispert Web Service is a service that provides the functions and information of the route search system Ekispert in API format. The development team encourages a way of working that emphasises independence and cooperation, incorporating scrum, and is looking for colleagues to work with."
+  },
+  {
+    "id": "3",
+    "company": "hexabase",
+    "url_ja": "https://www.wantedly.com/projects/1246616",
+    "title_ja": "自社BaaSを活用したモダン開発のシステムアーキテクトを募集！",
+    "description_ja": "・新規事業の立ち上げ支援。スタートアップや事業企画者に寄り添って支援する月額制のコンサル支援 \n・Webサイト制作～関連システム開発、アプリ開発に関するディレクション、システム開発支援 \n・クラウド連携やバックエンドAPIサービスの連携など、ソリューションアーキテクトとしての活動",
+    "url_en": "https://www.wantedly.com/projects/1246616",
+    "title_en": "Seeking a system architect for modern development using our own BaaS!",
+    "description_en": "- Support for new business startups. Consulting support on a monthly basis to assist startups and business planners by staying close to them. \n- Direction and system development support related to website creation - related system development and application development. \n- Activities as solution architects, such as cloud integration and back-end API service integration"
+  },
+  {
+    "id": "4",
+    "company": "findy",
+    "url_ja": "https://herp.careers/v1/findy/HvwvxHiWmkpN",
+    "title_ja": "技術発信を通じてFindyのファンづくりを担うDevRelメンバー募集",
+    "description_ja": "「社内外とのエンジニアの潤滑油となり、次なる一歩を後押しする」をMissionに、世の中のエンジニアやエンジニア組織・人・情報をつなげる役割として、\n技術イベントの企画・運営、第一線で活躍するエンジニアのキャリアを掘り下げた記事作成やイベント開催など、様々なコンテンツの企画〜実行までを一貫してお任せします。",
+    "url_en": "",
+    "title_en": "",
+    "description_en": ""
+  },
+  {
+    "id": "5",
+    "company": "findy",
+    "url_ja": "https://herp.careers/v1/findy/u-QF0bpCib2T",
+    "title_ja": "役員直下で、グロース支援を担当する新規事業開発室メンバーを募集",
+    "description_ja": "本ポジションでは、Findyが転職事業、フリーランス事業、Team+事業、Global事業と4事業にサービス基盤が拡大していくいく中で事業間のシナジーを最大化すべく、キャリアプラットフォームからエンジニア会員基盤プラットフォームへの転換に向け、企画・事業化に向けた推進を行っていただきます。",
+    "url_en": "",
+    "title_en": "",
+    "description_en": ""
+  },
+  {
+    "id": "6",
+    "company": "findy",
+    "url_ja": "https://herp.careers/v1/findy/YTwjLJ-tNEvh",
+    "title_ja": "日本のイノベーションを加速させる、エンジニアリング組織の開発生産性改善SaaS「Findy Team+」のPdM募集",
+    "description_ja": "「Findy Team+」のグロースに関する業務全般を担当いただきます。プロダクトオーナーシップを持ち、利用データや顧客の声を基に、CS/Salesや開発チームと連携しながら、課題仮説の定義、仕様の検討、リリース後の効果検証を進めて頂き、一連のプロダクトグロースPDCAサイクルを推進していただきます。",
+    "url_en": "",
+    "title_en": "",
+    "description_en": ""
+  },
+  {
+    "id": "7",
+    "company": "magicpod",
+    "url_ja": "https://www.wantedly.com/projects/1209427",
+    "title_ja": "発信力と技術力でグローバルの新技術トレンドを創るエバンジェリストを募集！",
+    "description_ja": "AIテスト自動化プラットフォーム「MagicPod」のテクニカルエバンジェリストとして、認知度向上・ユーザー獲得・ブランディング・採用力強化につながるような取り組みを幅広く行なっていただきます。発信トピックは、MagicPod・アジャイル開発・CI・DevOps・テスト自動化など、ターゲット層にリーチできる幅広いトピックが考えられます。",
+    "url_en": "",
+    "title_en": "Create new tech trends as Evangelist",
+    "description_en": "As a technical evangelist for MagicPod, an AI test automation platform, you will be responsible for a wide range of initiatives that will lead to increased awareness, user acquisition, branding, and recruiting capabilities. The topics to be covered will include MagicPod, agile development, CI, DevOps, test automation, and a wide range of other topics that will reach the target audience."
+  },
+  {
+    "id": "8",
+    "company": "suntory",
+    "url_ja": "https://hrmos.co/pages/suntorygroup/jobs",
+    "title_ja": "サントリーのDXを更に加速させるメンバー募集",
+    "description_ja": "サントリーグループは、昨今の急速なIT・デジタル技術の進展に合わせ、「やってみなはれ」の精神で、これらの技術を積極的に活用してきました。現在、経験者採用も募集中です。\nサントリーというフィールドでともに挑戦してくれる仲間をお待ちしています。",
+    "url_en": "",
+    "title_en": "サントリーのDXを更に加速させるメンバー募集",
+    "description_en": "サントリーグループは、昨今の急速なIT・デジタル技術の進展に合わせ、「やってみなはれ」の精神で、これらの技術を積極的に活用してきました。現在、経験者採用も募集中です。\nサントリーというフィールドでともに挑戦してくれる仲間をお待ちしています。"
+  }
+]
